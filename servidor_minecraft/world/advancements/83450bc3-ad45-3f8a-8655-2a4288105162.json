@@ -501,6 +501,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-04 15:29:50 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/perkin": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -516,6 +522,12 @@
   "composite_material:recipes/composite_material/dungeon_sword": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-06-04 15:23:50 +0000"
     },
     "done": true
   },
@@ -537,6 +549,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/maple_shrub": {
+    "criteria": {
+      "has_maple_sapling": "2025-06-04 15:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-06-04 14:58:35 +0000"
@@ -555,6 +573,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-04 15:29:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 15:00:09 +0000"
@@ -567,9 +591,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_boots": {
+    "criteria": {
+      "has_poisonous_potato": "2025-06-04 15:30:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-06-04 15:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-06-04 15:29:51 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/amethyst_shovel": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-04 15:23:50 +0000"
     },
     "done": true
   },
@@ -591,6 +639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-04 15:23:50 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/chainmail_helmet": {
     "criteria": {
       "has_apple": "2025-06-04 15:06:54 +0000"
@@ -600,6 +654,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet": {
+    "criteria": {
+      "has_poisonous_potato": "2025-06-04 15:30:14 +0000"
     },
     "done": true
   },
@@ -657,6 +717,18 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-04 15:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 15:24:33 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/allay_steel_shovel": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -675,6 +747,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_chestplate": {
+    "criteria": {
+      "has_poisonous_potato": "2025-06-04 15:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-06-04 14:58:35 +0000"
@@ -684,6 +762,12 @@
   "composite_material:recipes/composite_material/copper_boots": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-04 15:29:50 +0000"
     },
     "done": true
   },
@@ -837,6 +921,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/copper_nugget": {
+    "criteria": {
+      "has_ingots_copper": "2025-06-04 15:24:33 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/amethyst_axe_2": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -873,6 +963,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-06-04 15:29:45 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/combat/slingshot": {
     "criteria": {
       "has_stick": "2025-06-04 14:58:35 +0000"
@@ -882,6 +978,12 @@
   "composite_material:recipes/composite_material/allay_steel_boots": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-04 15:30:03 +0000"
     },
     "done": true
   },
@@ -939,6 +1041,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shield_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 15:24:33 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/etherite_ingot": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -948,6 +1056,18 @@
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-04 15:23:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_leggings": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 15:24:33 +0000"
     },
     "done": true
   },
@@ -1017,6 +1137,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 15:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-06-04 14:58:34 +0000"
@@ -1044,6 +1170,12 @@
   "composite_material:recipes/composite_material/etherite_axe_2": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-06-04 15:30:11 +0000"
     },
     "done": true
   },
@@ -1101,9 +1233,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shield_helmet": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 15:24:33 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-04 15:23:50 +0000"
     },
     "done": true
   },
@@ -1145,6 +1289,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "silver_birch_forest": "2025-06-04 15:29:28 +0000",
       "maple_forest": "2025-06-04 15:05:53 +0000"
     },
     "done": false
@@ -1223,6 +1368,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "silver_birch_forest": "2025-06-04 15:29:28 +0000",
       "maple_forest": "2025-06-04 15:05:53 +0000"
     },
     "done": false
@@ -1236,6 +1382,12 @@
   "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-04 15:29:43 +0000"
     },
     "done": true
   },
@@ -1263,6 +1415,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-04 15:29:43 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_charcoal": "2025-06-04 15:29:43 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/cooked_porkchop": {
     "criteria": {
       "has_cooked_porkchop": "2025-06-04 15:02:17 +0000"
@@ -1272,6 +1436,12 @@
   "composite_material:recipes/composite_material/copper_helmet": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/trident": {
+    "criteria": {
+      "has_trident": "2025-06-04 15:29:45 +0000"
     },
     "done": true
   },
@@ -1296,6 +1466,12 @@
   "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/witch_helmet": {
+    "criteria": {
+      "has_poisonous_potato": "2025-06-04 15:30:14 +0000"
     },
     "done": true
   },
@@ -1335,6 +1511,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-04 15:29:43 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_leggings": {
+    "criteria": {
+      "has_poisonous_potato": "2025-06-04 15:30:14 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
+    "criteria": {
+      "has_item": "2025-06-04 15:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-06-04 15:00:31 +0000"
@@ -1365,6 +1559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-06-04 15:29:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-04 14:58:35 +0000"
@@ -1374,6 +1574,12 @@
   "composite_material:recipes/composite_material/amethyst_pickaxe": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/cod": {
+    "criteria": {
+      "has_cod": "2025-06-04 15:29:43 +0000"
     },
     "done": true
   },
@@ -1401,15 +1607,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 15:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-06-04 15:23:49 +0000"
+    },
+    "done": false
+  },
   "composite_material:recipes/composite_material/obsidian_pickaxe": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-04 15:29:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 15:24:33 +0000"
     },
     "done": true
   },
@@ -1443,6 +1673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-04 15:30:13 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/echoium_leggings": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -1458,6 +1694,12 @@
   "regions_unexplored:recipes/building_blocks/black_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-04 15:30:13 +0000"
     },
     "done": true
   },
@@ -1488,6 +1730,12 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 15:24:33 +0000"
     },
     "done": true
   },
@@ -1575,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-06-04 15:30:11 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/obsidian_axe_2": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -1611,6 +1865,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/lunar_stone_helmet": {
+    "criteria": {
+      "has_item": "2025-06-04 15:30:03 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/amethyst_sword": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -1629,9 +1889,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/zombie_boots": {
+    "criteria": {
+      "has_poisonous_potato": "2025-06-04 15:30:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-06-04 15:29:45 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/etherite_boots": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-06-04 15:23:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-06-04 15:29:45 +0000"
     },
     "done": true
   },
@@ -1674,6 +1958,12 @@
   "composite_material:recipes/composite_material/allay_steel_sword": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_charcoal": "2025-06-04 15:29:43 +0000"
     },
     "done": true
   },
@@ -1725,6 +2015,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/witch_leggings": {
+    "criteria": {
+      "has_poisonous_potato": "2025-06-04 15:30:14 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/etherite_sword": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -1734,6 +2030,12 @@
   "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-04 15:29:50 +0000"
     },
     "done": true
   },
@@ -1797,9 +2099,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-04 15:23:50 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/tunic_yellow_leggings": {
     "criteria": {
       "has_apple": "2025-06-04 15:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-06-04 15:29:51 +0000"
     },
     "done": true
   },
@@ -1833,9 +2147,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-06-04 15:29:45 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/dungeon_pickaxe": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_chestplate": {
+    "criteria": {
+      "has_poisonous_potato": "2025-06-04 15:30:14 +0000"
     },
     "done": true
   },
@@ -1911,6 +2237,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-06-04 15:29:45 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/brazier": {
     "criteria": {
       "has_coals": "2025-06-04 15:22:03 +0000"
@@ -1941,6 +2273,12 @@
     },
     "done": true
   },
+  "bno:recipes/misc/copper_nugget": {
+    "criteria": {
+      "copper_nugget_from_ingot": "2025-06-04 15:24:33 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/echoium_nugget": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -1962,6 +2300,12 @@
   "valhelsia_furniture:recipes/decorations/yellow_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_leggings": {
+    "criteria": {
+      "has_item": "2025-06-04 15:30:03 +0000"
     },
     "done": true
   },
@@ -2007,6 +2351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-04 15:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-06-04 15:00:09 +0000"
@@ -2037,15 +2387,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-04 15:23:50 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/etherite_shovel": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/red_maple_shrub": {
+    "criteria": {
+      "has_red_maple_sapling": "2025-06-04 15:22:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2025-06-04 15:00:31 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_boots": {
+    "criteria": {
+      "has_item": "2025-06-04 15:30:03 +0000"
     },
     "done": true
   },
@@ -2058,6 +2426,12 @@
   "composite_material:recipes/composite_material/amethyst_axe": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-06-04 15:29:45 +0000"
     },
     "done": true
   },
@@ -2109,6 +2483,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-04 15:23:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_boots": {
+    "criteria": {
+      "has_copper_ingot": "2025-06-04 15:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -2130,6 +2516,12 @@
   "composite_material:recipes/composite_material/disc_axe_2": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_blasting": {
+    "criteria": {
+      "has_item": "2025-06-04 15:30:03 +0000"
     },
     "done": true
   },
