@@ -16106,3 +16106,250 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [04Jun2025 14:56:14.682] [Worker-Main-3/DEBUG] [mixin/]: Mixing StructurePlacementLogging from structureessentials.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
 [04Jun2025 14:56:14.682] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
 [04Jun2025 14:56:14.950] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[04Jun2025 14:56:16.500] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:vase_room_big
+[04Jun2025 14:56:17.696] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 14:56:17.697] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15857
+}
+[04Jun2025 14:56:17.698] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[04Jun2025 14:56:17.700] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "M0[&CI+BNXf464U9%QjyE"
+]
+[04Jun2025 14:56:32.812] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[04Jun2025 14:57:10.804] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/corosus/watut/PlayerStatus$PlayerChatState
+[04Jun2025 14:57:12.256] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 14:57:12.256] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1703999
+}
+[04Jun2025 14:57:12.257] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 70 extra bytes: 
+[04Jun2025 14:57:12.257] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "&anXu~WC*]320;&dL k-z4sUF{]"
+]
+[04Jun2025 14:57:12.257] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 14:57:12.257] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134459_": 97
+}
+[04Jun2025 14:57:12.258] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 68 extra bytes: 
+[04Jun2025 14:57:12.258] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "nXu~WC*]320;&dL k-z4sUF{]"
+]
+[04Jun2025 14:57:32.856] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[04Jun2025 14:57:32.856] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[04Jun2025 14:57:32.856] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[04Jun2025 14:57:32.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 14:57:32.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 14:57:32.978] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[04Jun2025 14:58:11.836] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/github/edwinmindcraft/apoli/common/power/configuration/ActionOnItemUseConfiguration$PriorityPhase
+[04Jun2025 14:58:12.895] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[04Jun2025 14:58:15.993] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2screentracker/screen/base/ClientCloseResult
+[04Jun2025 14:59:02.340] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[04Jun2025 14:59:02.340] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[04Jun2025 15:00:12.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Dungeon Now Loading]
+[04Jun2025 15:00:15.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[04Jun2025 15:00:15.541] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[04Jun2025 15:00:16.184] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[04Jun2025 15:00:16.191] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/arch1
+[04Jun2025 15:00:24.944] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[04Jun2025 15:00:25.920] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:26.955] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:27.870] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/UpgradeHandler (target of net/minecraftforge/items/IItemHandler)
+[04Jun2025 15:00:27.871] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedbackpacks/backpack/wrapper/BackpackWrapper$1 (target of net/minecraftforge/items/IItemHandler)
+[04Jun2025 15:00:27.891] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[04Jun2025 15:00:27.896] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[04Jun2025 15:00:27.976] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:29.113] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:30.549] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:31.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Stone Age]
+[04Jun2025 15:00:32.050] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:33.553] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:34.996] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:36.505] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:38.351] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:39.799] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:39.952] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:climbing_climbing] from power ResourceKey[apoli:configured_power / origins:climbing]
+[04Jun2025 15:00:39.952] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:climbing_toggle] from power ResourceKey[apoli:configured_power / origins:climbing]
+[04Jun2025 15:00:41.250] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:42.697] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:44.156] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:45.597] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:45.947] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shield] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[04Jun2025 15:00:45.947] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_range] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[04Jun2025 15:00:45.947] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_digger] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[04Jun2025 15:00:45.947] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_helmet] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[04Jun2025 15:00:45.947] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_melee] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[04Jun2025 15:00:45.948] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_shoes] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[04Jun2025 15:00:45.948] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_leggings] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[04Jun2025 15:00:45.948] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_chestplate] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
+[04Jun2025 15:00:45.948] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[04Jun2025 15:00:45.948] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[04Jun2025 15:00:47.055] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:00:48.511] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:01:03.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Getting an Upgrade]
+[04Jun2025 15:01:21.998] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:01:26.546] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:01:27.547] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:01:28.697] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:01:29.994] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:01:30.994] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:01:31.894] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:01:32.896] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:01:33.795] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:02:06.885] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/world/level/chunk/storage/SectionStorage$Anonymous$f73bd68c17344534a22e7d336a382c83 (originally me/jellysquid/mods/lithium/mixin/ai/poi/SerializingRegionBasedStorageMixin$1)
+[04Jun2025 15:02:27.074] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[04Jun2025 15:02:32.344] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:mushroom_grave/mushroom_grave_03 is being run through DFU (hash 7786898a6911b17c2fdc26ccc47ee6cdc009d6d75da07f2b93dde06e9abb4c9a), this will cause launch time delays
+[04Jun2025 15:02:32.344] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[04Jun2025 15:02:32.952] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[04Jun2025 15:02:32.952] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[04Jun2025 15:02:32.952] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[04Jun2025 15:02:33.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jun2025 15:02:33.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jun2025 15:02:33.163] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[04Jun2025 15:02:33.424] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:mangrove_hut
+[04Jun2025 15:02:34.549] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[04Jun2025 15:02:34.654] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 15:02:34.655] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2
+}
+[04Jun2025 15:02:34.655] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 68 extra bytes: 
+[04Jun2025 15:02:34.655] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "T&\\%Mq`pI|&,}320->`G:,&"
+]
+[04Jun2025 15:02:34.656] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 15:02:34.656] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134459_": 92
+}
+[04Jun2025 15:02:34.657] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 175 extra bytes: 
+[04Jun2025 15:02:34.657] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%Mq`pI|&,}320->`G:,&{]ujhT]_VFopu-9_OrI0g,lQL)\\l|)~PnzMkiaS%R,;aB"
+]
+[04Jun2025 15:02:34.671] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2damagetracker/contents/attack/LogHelper$Type
+[04Jun2025 15:02:35.779] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@63496677 for service interface com.blamejared.clumps.platform.IEventHelper
+[04Jun2025 15:02:35.779] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@620936bc for service interface com.blamejared.clumps.platform.IPlatformHelper
+[04Jun2025 15:02:36.677] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[04Jun2025 15:02:36.681] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/roads/t_2 is being run through DFU (hash e7c115ca6fb15a883827cdb5ced0a7bf2228863f310cae549fb4e35f0dbed763), this will cause launch time delays
+[04Jun2025 15:02:36.910] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/house/big_1 is being run through DFU (hash b2bcdb8a3ebaef067e412cb8012169d46ce7e5efaa8fd473f1cc16f13ae8d150), this will cause launch time delays
+[04Jun2025 15:02:36.962] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/house/big_2 is being run through DFU (hash c78eaa0791509880839e80b5b9e8a3d34b11f51f2162ae51be3a0963974bdee2), this will cause launch time delays
+[04Jun2025 15:02:37.009] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/house/med_1 is being run through DFU (hash 5abe7f95a50abe0f47db8cd86020a11bbae8f0ae2821ef5ee5fdeb5225f5f7dc), this will cause launch time delays
+[04Jun2025 15:02:37.031] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/house/med_2 is being run through DFU (hash e502cdc4271675af90cef29cfa8ed08b48f325ac5ec42b24fb48bc0325d1ae50), this will cause launch time delays
+[04Jun2025 15:02:37.046] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/house/med_3 is being run through DFU (hash a385fde55634a62880890451d039e22f440b2ac98bef54e9bab6ee0c7ebecce9), this will cause launch time delays
+[04Jun2025 15:02:37.065] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/house/small_1 is being run through DFU (hash b76c9fb6f390b2a3266de738443903143cb9adabebddbfb17de2b87aaf4caf60), this will cause launch time delays
+[04Jun2025 15:02:37.075] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/house/small_2 is being run through DFU (hash c8121688b4902eacad6504e9cf3eb46ff72d53f4f72a9f89d46acdc0925424e2), this will cause launch time delays
+[04Jun2025 15:02:37.083] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/house/small_3 is being run through DFU (hash fae729c1b3cfa8a209b2e946be14160506c031ad2a57d9f6d90ac8659fc4fa74), this will cause launch time delays
+[04Jun2025 15:02:37.097] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/house/small_4 is being run through DFU (hash d3c80a195375b03a7f35492723eea665b68ac43fabe0c4700f767a195675731f), this will cause launch time delays
+[04Jun2025 15:02:37.106] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/jobsite/butcher is being run through DFU (hash 3b1d8accb8749d2f04e10177958767412b5addd5446a4f0e071737db81c80c4e), this will cause launch time delays
+[04Jun2025 15:02:37.120] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/jobsite/cartography is being run through DFU (hash f1cbcde9257064901d3d556684cb68df75555e7bd04a67b0cdeaba0dbd122e4d), this will cause launch time delays
+[04Jun2025 15:02:37.127] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/jobsite/chemist is being run through DFU (hash 340a2903affebe0dd7803f4cd615a0c88668d08ee050d20e19a23b85cba67608), this will cause launch time delays
+[04Jun2025 15:02:37.137] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/jobsite/farm is being run through DFU (hash 77f52b8a7a10c8220f568a75a4ccb81b4dab72c959e56d87f74e3581781b4fae), this will cause launch time delays
+[04Jun2025 15:02:37.153] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/jobsite/library is being run through DFU (hash 0e7212a3d1cda02508e1249684e2c7e95673ce8ab4aa048587855a7b25546f62), this will cause launch time delays
+[04Jun2025 15:02:37.163] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/jobsite/mason is being run through DFU (hash 791f5acfa61c137f644bdb83ae2b05b738876dbe35f64e60cb94a882bda9269e), this will cause launch time delays
+[04Jun2025 15:02:37.169] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/jobsite/shepherd is being run through DFU (hash 738cbe1bf960f29e133b8ff0e7a07d5fb18ffd7bdca4bf8fd16a82ff9a056c37), this will cause launch time delays
+[04Jun2025 15:02:37.179] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/jobsite/smith is being run through DFU (hash c4dfd69db917a853c32b7dcafc7d830afc347b31b6886e1dbca159db91c30723), this will cause launch time delays
+[04Jun2025 15:02:37.190] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/jobsite/tannery is being run through DFU (hash fbd5664bb17455ec577dcab1c1a99c018c7f07caf283d4a6098a2bd8f07ca19f), this will cause launch time delays
+[04Jun2025 15:02:37.197] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/jobsite/priest_tower is being run through DFU (hash ea8bf2ad848888a326b3283a03eefbc3a9d25e72f8425650aaafda84efe63e67), this will cause launch time delays
+[04Jun2025 15:02:37.211] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/deco/lamp_1 is being run through DFU (hash d58ba9263368004ce42f5b0d325610e0a9485dabaedb811392e496b5d43cf3c4), this will cause launch time delays
+[04Jun2025 15:02:37.213] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/deco/lamp_2 is being run through DFU (hash 3ea252ddc0229eeb47476edaa2fef440ef6572544fd3cc063a3f3449a78c2cd2), this will cause launch time delays
+[04Jun2025 15:02:37.214] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/deco/lamp_3 is being run through DFU (hash 3bd1bfc8d20167d3b94f41c0674c2893d51922ed0127921086a8dc27da517d62), this will cause launch time delays
+[04Jun2025 15:02:37.215] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/deco/lamp_4 is being run through DFU (hash bbafea145770aff9d5d100651630ae841f3cb6ab6c46cc359280c39f56312138), this will cause launch time delays
+[04Jun2025 15:02:37.217] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/deco/lamp_5 is being run through DFU (hash 36fd9f5a11f222be5563ce1347c0738c2901f1d669fdad7e3b8f829f35aa17a1), this will cause launch time delays
+[04Jun2025 15:02:37.218] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/deco/snowglobe is being run through DFU (hash b3e7c45bf029958f0d8bcc7c5ec22fd176b2816cdfd41c33b9e67db56b040e19), this will cause launch time delays
+[04Jun2025 15:02:37.221] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/deco/snowman is being run through DFU (hash 8a1ba47e14f4d3960784ca1682d585b8fd505de0fa798df9f3074cf9c4496d3e), this will cause launch time delays
+[04Jun2025 15:02:37.223] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/deco/tree is being run through DFU (hash e66e5d51b28cd54e9d5cdd4be35004d8890a7c1c5e7ccf95e8af6e19f473a4e1), this will cause launch time delays
+[04Jun2025 15:02:37.237] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/roads/straight is being run through DFU (hash 57bbdb623f499a77df0ae2169ac766e1eee7daf7b9ef1e7922618f2b7bba7649), this will cause launch time delays
+[04Jun2025 15:02:37.247] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/roads/inter is being run through DFU (hash 0944368c87489566b94a2b2b5c1aef04c7bf03abc71e47ac6ef57209f19169f6), this will cause launch time delays
+[04Jun2025 15:02:37.270] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/roads/bent_2 is being run through DFU (hash fb89acd5fc2e7f1c869408c77e19cf147aeff822393526af9c4114ad79c7a2af), this will cause launch time delays
+[04Jun2025 15:02:37.284] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[04Jun2025 15:02:37.290] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/roads/bent_1 is being run through DFU (hash c28de53881b53ebc1fdb3d10a064104a824caa61f254523e3a00bb1c1a3fdf9a), this will cause launch time delays
+[04Jun2025 15:02:37.304] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[04Jun2025 15:02:37.314] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/chicken
+[04Jun2025 15:02:37.314] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[04Jun2025 15:02:37.315] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/pig
+[04Jun2025 15:02:37.858] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/roads/t_3 is being run through DFU (hash c237f0d0d88e84e7628e5cee30372cfc3fbc38dda6077d935745540f667ef0bb), this will cause launch time delays
+[04Jun2025 15:02:38.236] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/roads/t_1 is being run through DFU (hash 4132920e4e2362449782cf2d47546690e8ae5a4a860f6dea00ef0986b5ce17db), this will cause launch time delays
+[04Jun2025 15:02:38.278] [Worker-Main-1/DEBUG] [ModernFix/]: Structure ctov:village/christmas/roads/terminator is being run through DFU (hash ce151bf0637052dae477b94fb6050b5f325b98a5ea9d2c2f657334ecef3a4a6e), this will cause launch time delays
+[04Jun2025 15:02:39.881] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_08 is being run through DFU (hash b5906c65230c4b4fb2b57aad2f32b23872a2b439bfca97245290b29a955d6746), this will cause launch time delays
+[04Jun2025 15:02:41.232] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-211 | 18 | -196)
+[04Jun2025 15:02:41.243] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (-211 | 18 | -196)
+[04Jun2025 15:02:41.243] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-212 | 18 | -208)
+[04Jun2025 15:02:41.244] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation NONE at (-212 | 18 | -208)
+[04Jun2025 15:02:41.528] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-194 | -1 | -217)
+[04Jun2025 15:02:41.535] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-194 | -1 | -217)
+[04Jun2025 15:03:05.551] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 15:03:05.552] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1264
+}
+[04Jun2025 15:03:05.553] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[04Jun2025 15:03:05.553] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "99EXc$M|464s~vB0D\\TT"
+]
+[04Jun2025 15:03:06.051] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:03:06.163] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:03:15.526] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/start_pool/haunted_house_01
+[04Jun2025 15:03:15.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:haunted_house/downstairs_pool/haunted_house_downstairs
+[04Jun2025 15:03:28.707] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:03:29.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Jun2025 15:03:37.596] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:vase_room_small
+[04Jun2025 15:03:38.307] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[04Jun2025 15:03:38.407] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/which_witch_is_which
+[04Jun2025 15:03:40.902] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[04Jun2025 15:03:40.905] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=-175, y=-12, z=220} at Chest with:minecraft:chests/simple_dungeon
+[04Jun2025 15:03:40.921] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[04Jun2025 15:03:40.932] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[04Jun2025 15:03:40.951] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[04Jun2025 15:03:40.966] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[04Jun2025 15:03:40.986] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[04Jun2025 15:03:40.995] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[04Jun2025 15:03:41.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:generic_dungeon2
+[04Jun2025 15:03:41.395] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=35, y=-58, z=-32}
+[04Jun2025 15:03:42.103] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-270, y=-12, z=103} at Chest with:minecraft:chests/simple_dungeon
+[04Jun2025 15:03:44.136] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[04Jun2025 15:03:52.108] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_underground/main_piece
+[04Jun2025 15:03:52.184] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[04Jun2025 15:03:53.016] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_14 is being run through DFU (hash 58a4daf5012dfddd6e5e85ab6d10ab88c034ee55661502a4e92bda8c67a48a49), this will cause launch time delays
+[04Jun2025 15:03:53.027] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[04Jun2025 15:03:53.028] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 37
+}
+[04Jun2025 15:03:53.028] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 161 extra bytes: 
+[04Jun2025 15:03:53.028] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ",b7b9.?g,6336OWF+n`La[Yf(LL:PWjo,e-Z8{m\"w-P~[^5]3wluSp.M"
+]
+[04Jun2025 15:03:53.648] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
+[04Jun2025 15:03:53.649] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-280, y=-4, z=-47} at Chest with:minecraft:chests/simple_dungeon
+[04Jun2025 15:03:54.865] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of supernatural:graveyard_02
+[04Jun2025 15:03:59.642] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_06
+[04Jun2025 15:03:59.748] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[04Jun2025 15:04:00.244] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_02 is being run through DFU (hash db967c19903859dbf7585d92b75bec650ed35eedb93f04d52b6493b7a93eb1fa), this will cause launch time delays
+[04Jun2025 15:04:00.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/farm
+[04Jun2025 15:04:00.355] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/roads/inter
+[04Jun2025 15:04:00.356] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga_fortified/jobsite/library
+[04Jun2025 15:04:00.834] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[04Jun2025 15:04:01.278] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=-13, y=-36, z=263} at Chest with:minecraft:chests/simple_dungeon
+[04Jun2025 15:04:05.354] [Server thread/DEBUG] [ModernFix/]: Structure iter_rpg:simple_dungeon1 is being run through DFU (hash 947c5384c8892097e8dd8b355ad4c051d2c639fe7c60808f0b2592a5843daf65), this will cause launch time delays
+[04Jun2025 15:04:10.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:generic_dungeon4
+[04Jun2025 15:04:17.774] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:vase_room_medium
+[04Jun2025 15:04:21.172] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[04Jun2025 15:04:21.172] [Server thread/DEBUG] [mixin/]: Mixing CompoundContainerMixin from ftblibrary-common.mixins.json into net.minecraft.world.CompoundContainer
+[04Jun2025 15:04:21.172] [Server thread/DEBUG] [mixin/]: ftblibrary-common.mixins.json:CompoundContainerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Jun2025 15:04:21.188] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[04Jun2025 15:04:21.188] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[04Jun2025 15:04:21.188] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[04Jun2025 15:04:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Not a Diamond]
+[04Jun2025 15:04:33.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Acquire Hardware]
+[04Jun2025 15:04:46.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Apothic Affixes]
+[04Jun2025 15:04:46.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [I Found It Underground]
+[04Jun2025 15:05:25.334] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[04Jun2025 15:05:26.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Sweet Dreams]
