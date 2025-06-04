@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_blue_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-06-04 15:09:07 +0000"
@@ -14,6 +20,18 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -41,6 +59,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
@@ -65,6 +89,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/gilded_quiver": {
+    "criteria": {
+      "has_ingots_gold": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/conquistador_leggings": {
     "criteria": {
       "has_leather": "2025-06-04 15:09:07 +0000"
@@ -74,6 +104,18 @@
   "ironchest:recipes/decorations/upgrades/wood_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
     },
     "done": true
   },
@@ -89,6 +131,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_warped_stool": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/kukri_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 15:04:33 +0000"
@@ -101,9 +167,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -137,9 +215,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_cherry_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bamboo_leggings": {
     "criteria": {
       "has_coal": "2025-06-04 15:10:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/grongle_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -179,9 +275,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-04 15:05:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -194,6 +302,12 @@
   "aether:recipes/tools/aether_saddle": {
     "criteria": {
       "has_leather": "2025-06-04 15:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
     },
     "done": true
   },
@@ -275,6 +389,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-04 15:14:55 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_pickaxe": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 15:16:43 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/zombie_helmet": {
     "criteria": {
       "has_rotten_flesh": "2025-06-04 15:09:45 +0000"
@@ -323,6 +449,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
@@ -335,9 +467,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_stool": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -368,6 +512,12 @@
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-06-04 15:10:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_stool": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -419,11 +569,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "knightquest:recipes/misc/bamboo_blue_chestplate": {
     "criteria": {
-      "requirement": "2025-06-04 15:12:32 +0000"
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
   },
   "knightquest:recipes/misc/forze_helmet": {
     "criteria": {
@@ -434,6 +590,12 @@
   "valhelsia_structures:recipes/building_blocks/pink_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_curtain": {
+    "criteria": {
+      "has_item": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -449,15 +611,39 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-06-04 15:18:42 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/light_gray_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-06-04 15:04:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/shinny": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_oak_stool": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -470,6 +656,18 @@
   "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -509,6 +707,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/speed_module": {
     "criteria": {
       "has_iron": "2025-06-04 15:04:33 +0000"
@@ -536,6 +746,12 @@
   "securitycraft:recipes/misc/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_warped_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -587,9 +803,21 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-06-04 15:15:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -617,6 +845,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/transportation/mining_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow_0": "2025-06-04 15:08:20 +0000"
@@ -635,6 +869,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/combat/slingshot": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
@@ -647,9 +887,39 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/safeguard": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-04 15:19:03 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/tools/catalyst": {
     "criteria": {
       "has_iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-04 15:15:51 +0000"
     },
     "done": true
   },
@@ -665,9 +935,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_blue_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-06-04 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_chestplate": {
+    "criteria": {
+      "has_shield": "2025-06-04 15:13:35 +0000"
     },
     "done": true
   },
@@ -686,6 +968,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2025-06-04 15:15:28 +0000"
     },
     "done": true
   },
@@ -713,6 +1001,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shield_leggings": {
+    "criteria": {
+      "has_shield": "2025-06-04 15:13:35 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/zombie_helmet2": {
     "criteria": {
       "has_rotten_flesh": "2025-06-04 15:09:45 +0000"
@@ -731,9 +1025,33 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-06-04 15:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-04 15:14:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -773,6 +1091,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
@@ -782,6 +1106,12 @@
   "valhelsia_furniture:recipes/decorations/blue_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-06-04 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
     },
     "done": true
   },
@@ -797,9 +1127,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-06-04 15:04:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_birch_stool": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -815,9 +1163,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_crimson_stool": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "eeeabsmobs:eeeabsmobs/root": {
     "criteria": {
       "requirement": "2025-06-04 14:56:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -839,6 +1199,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_shovel_repairing": {
     "criteria": {
       "has_iron_shovel": "2025-06-04 15:04:37 +0000"
@@ -857,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/blue_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-06-04 15:04:33 +0000"
@@ -866,6 +1238,18 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_acacia_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -881,15 +1265,39 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_sword": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 15:16:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/oak_desk_drawer": {
     "criteria": {
       "has_oak_planks": "2025-06-04 15:10:21 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/shield_helmet": {
+    "criteria": {
+      "has_shield": "2025-06-04 15:13:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_crimson_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_material": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -917,6 +1325,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_jungle_stool": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2025-06-04 14:56:08 +0000"
@@ -929,9 +1343,21 @@
     },
     "done": true
   },
+  "l2complements:recipes/enchantments/enchantments/life_mending": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -949,7 +1375,10 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "maple_forest": "2025-06-04 15:03:59 +0000"
+      "silver_birch_forest": "2025-06-04 15:14:28 +0000",
+      "fen": "2025-06-04 15:17:53 +0000",
+      "maple_forest": "2025-06-04 15:03:59 +0000",
+      "cold_river": "2025-06-04 15:14:16 +0000"
     },
     "done": false
   },
@@ -962,6 +1391,12 @@
   "valhelsia_structures:recipes/building_blocks/green_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/smogstem_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -983,6 +1418,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-06-04 15:04:33 +0000"
@@ -995,6 +1436,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-06-04 15:10:21 +0000"
@@ -1003,13 +1450,40 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "maple_forest": "2025-06-04 15:03:59 +0000"
+      "silver_birch_forest": "2025-06-04 15:14:28 +0000",
+      "fen": "2025-06-04 15:17:53 +0000",
+      "maple_forest": "2025-06-04 15:03:59 +0000",
+      "cold_river": "2025-06-04 15:14:16 +0000"
     },
     "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-06-04 15:17:06 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_chestplate": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 15:16:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-06-04 15:19:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2025-06-04 15:15:28 +0000"
     },
     "done": true
   },
@@ -1022,6 +1496,12 @@
   "valhelsia_structures:recipes/building_blocks/brown_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
     },
     "done": true
   },
@@ -1038,9 +1518,27 @@
     },
     "done": false
   },
+  "twilightforest:recipes/transportation/sorting_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-04 15:16:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/yellow_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2025-06-04 15:21:28 +0000"
     },
     "done": true
   },
@@ -1056,6 +1554,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/steel_axe": {
     "criteria": {
       "has_charcoal": "2025-06-04 15:04:45 +0000"
@@ -1068,6 +1572,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_leggings": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 15:16:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 15:04:33 +0000"
@@ -1077,6 +1587,36 @@
   "knightquest:recipes/misc/spider_leggings": {
     "criteria": {
       "has_spider_eye": "2025-06-04 15:10:56 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_hoe": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 15:16:43 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/craft/trident": {
+    "criteria": {
+      "has_trident": "2025-06-04 15:20:44 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_cherry_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -1110,6 +1650,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
@@ -1119,6 +1665,18 @@
   "securitycraft:recipes/misc/motion_activated_light": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 15:16:43 +0000"
     },
     "done": true
   },
@@ -1134,9 +1692,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-06-04 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_mangrove_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
     },
     "done": true
   },
@@ -1173,6 +1749,12 @@
   "knightquest:recipes/misc/polar_leggings": {
     "criteria": {
       "has_iron_axe": "2025-06-04 15:07:23 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
+    "criteria": {
+      "has_item": "2025-06-04 15:19:03 +0000"
     },
     "done": true
   },
@@ -1218,6 +1800,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_shovel": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 15:16:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/white_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-06-04 15:04:33 +0000"
@@ -1226,10 +1814,37 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-04 15:12:38 +0000",
+      "minecraft:vindicator": "2025-06-04 15:18:11 +0000",
       "minecraft:spider": "2025-06-04 15:10:55 +0000",
-      "minecraft:creeper": "2025-06-04 15:07:47 +0000"
+      "minecraft:creeper": "2025-06-04 15:07:47 +0000",
+      "minecraft:drowned": "2025-06-04 15:20:44 +0000"
     },
     "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_blue_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_warped_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
@@ -1243,9 +1858,27 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/warlord_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-06-04 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
     },
     "done": true
   },
@@ -1267,9 +1900,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-06-04 15:13:35 +0000"
     },
     "done": true
   },
@@ -1282,6 +1927,36 @@
   "securitycraft:recipes/misc/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_dark_oak_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -1303,9 +1978,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-04 15:16:43 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/pirate_chestplate": {
     "criteria": {
       "has_bone": "2025-06-04 15:04:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -1342,6 +2029,18 @@
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_boots": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 15:16:43 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
     },
     "done": true
   },
@@ -1384,6 +2083,18 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-06-04 15:18:42 +0000"
     },
     "done": true
   },
@@ -1453,6 +2164,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/bone_quiver": {
     "criteria": {
       "has_bone": "2025-06-04 15:04:24 +0000"
@@ -1483,6 +2200,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/lunar_stone_helmet": {
+    "criteria": {
+      "has_item": "2025-06-04 15:19:03 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/porkchop": {
     "criteria": {
       "has_porkchop": "2025-06-04 15:02:36 +0000"
@@ -1492,6 +2215,12 @@
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_jungle_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -1555,9 +2284,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-06-04 15:15:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/explorers_tent": {
     "criteria": {
       "has_leather": "2025-06-04 15:09:07 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_helmet": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 15:16:43 +0000"
     },
     "done": true
   },
@@ -1567,9 +2308,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-06-04 15:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-06-04 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -1588,6 +2341,12 @@
   "skilltree:recipes/combat/armored_quiver": {
     "criteria": {
       "has_ingots_iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_cherry_stool": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -1675,9 +2434,39 @@
     },
     "done": true
   },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/hay_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-06-04 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -1717,9 +2506,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_birch_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/creeper_leggings": {
     "criteria": {
       "has_gunpowder": "2025-06-04 15:07:47 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -1738,6 +2539,12 @@
   "knightquest:recipes/misc/pirate_leggings": {
     "criteria": {
       "has_bone": "2025-06-04 15:04:24 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-04 15:16:43 +0000"
     },
     "done": true
   },
@@ -1762,6 +2569,24 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-06-04 15:04:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-04 15:16:43 +0000"
     },
     "done": true
   },
@@ -1807,9 +2632,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2025-06-04 15:15:28 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -1855,9 +2698,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_fabric_desk_lamp": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-06-04 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -1867,15 +2722,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-04 15:04:57 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-06-04 15:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/golden_axe": {
+    "criteria": {
+      "has_gold_block": "2025-06-04 15:16:43 +0000"
     },
     "done": true
   },
@@ -1897,9 +2782,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_crimson_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -1912,6 +2809,18 @@
   "valhelsia_structures:recipes/building_blocks/gray_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-06-04 15:04:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_jungle_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-06-04 15:15:28 +0000"
     },
     "done": true
   },
@@ -1963,6 +2872,18 @@
     },
     "done": true
   },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-06-04 15:13:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/warlord_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/decorations/brazier": {
     "criteria": {
       "has_coals": "2025-06-04 15:04:45 +0000"
@@ -1975,9 +2896,45 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-04 15:20:50 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/forze_chestplate": {
     "criteria": {
       "has_spider_eye": "2025-06-04 15:10:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-04 15:14:03 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_leggings": {
+    "criteria": {
+      "has_item": "2025-06-04 15:19:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
     },
     "done": true
   },
@@ -1990,6 +2947,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-06-04 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -2020,6 +2983,18 @@
   "valhelsia_furniture:recipes/decorations/light_gray_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-06-04 15:10:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_birch_chair": {
+    "criteria": {
+      "has_white_wool": "2025-06-04 15:14:03 +0000"
     },
     "done": true
   },
@@ -2077,6 +3052,12 @@
     },
     "done": true
   },
+  "celestisynth:recipes/combat/lunar_stone_boots": {
+    "criteria": {
+      "has_item": "2025-06-04 15:19:03 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-06-04 15:04:24 +0000"
@@ -2100,6 +3081,12 @@
   "knightquest:recipes/misc/spider_chestplate": {
     "criteria": {
       "has_spider_eye": "2025-06-04 15:10:56 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-06-04 15:18:42 +0000"
     },
     "done": true
   },
@@ -2133,6 +3120,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-06-04 15:14:16 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-06-04 15:04:33 +0000"
@@ -2151,6 +3144,18 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-06-04 15:16:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shield_boots": {
+    "criteria": {
+      "has_shield": "2025-06-04 15:13:35 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-06-04 15:10:21 +0000"
@@ -2160,6 +3165,18 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-06-04 15:03:00 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_blasting": {
+    "criteria": {
+      "has_item": "2025-06-04 15:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-06-04 15:16:01 +0000"
     },
     "done": true
   },

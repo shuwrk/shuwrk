@@ -1,0 +1,17 @@
+{
+	id: "3d5fc642-6232-39a0-9de7-250ccb035f71"
+	type: "player"
+	player_name: "wachinango"
+	ranks: {
+		3d5fc642-6232-39a0-9de7-250ccb035f71: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "wachinango"
+		"ftbteams:description": ""
+		"ftbteams:color": "#F9FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

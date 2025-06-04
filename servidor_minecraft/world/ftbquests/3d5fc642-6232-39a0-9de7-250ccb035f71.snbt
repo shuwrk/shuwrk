@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "3d5fc642623239a09de7250ccb035f71"
+	name: "wachinango#3d5fc642"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1749050424426L
+		6F010E22CD886969: 1749050424426L
+		0000000000000001: 1749050424426L
+		744084D7C7EA8A6C: 1749050424426L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1749050424426L
+		6F010E22CD886969: 1749050424426L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

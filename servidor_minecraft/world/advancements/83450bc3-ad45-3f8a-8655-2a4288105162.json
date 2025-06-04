@@ -519,6 +519,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_chestplate": {
+    "criteria": {
+      "has_coal": "2025-06-04 15:22:03 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/etherite_block": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -534,6 +540,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-06-04 14:58:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_leggings": {
+    "criteria": {
+      "has_coal": "2025-06-04 15:22:03 +0000"
     },
     "done": true
   },
@@ -636,6 +648,12 @@
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2025-06-04 14:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 15:22:08 +0000"
     },
     "done": true
   },
@@ -1485,6 +1503,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/bamboo_boots": {
+    "criteria": {
+      "has_coal": "2025-06-04 15:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 15:22:08 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/tunic_sea_leggings": {
     "criteria": {
       "has_apple": "2025-06-04 15:06:54 +0000"
@@ -1815,6 +1845,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-06-04 15:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-06-04 15:00:09 +0000"
@@ -1872,6 +1908,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-06-04 14:58:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/brazier": {
+    "criteria": {
+      "has_coals": "2025-06-04 15:22:03 +0000"
     },
     "done": true
   },
@@ -1938,6 +1980,12 @@
   "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bamboo_helmet": {
+    "criteria": {
+      "has_coal": "2025-06-04 15:22:03 +0000"
     },
     "done": true
   },
@@ -2070,6 +2118,12 @@
   "securitycraft:recipes/misc/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2025-06-04 14:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-04 15:22:08 +0000"
     },
     "done": true
   },
