@@ -579,6 +579,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/chainmail_helmet": {
+    "criteria": {
+      "has_apple": "2025-06-04 15:06:54 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-04 15:00:09 +0000"
@@ -831,9 +837,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/tunic_green_leggings": {
+    "criteria": {
+      "has_apple": "2025-06-04 15:06:54 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/etherite_nugget": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/chainmail_helmet2": {
+    "criteria": {
+      "has_apple": "2025-06-04 15:06:54 +0000"
     },
     "done": true
   },
@@ -1107,6 +1125,12 @@
     },
     "done": true
   },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "maple_forest": "2025-06-04 15:05:53 +0000"
+    },
+    "done": false
+  },
   "composite_material:recipes/composite_material/echoium_pickaxe": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -1178,6 +1202,12 @@
       "crafting_table": "2025-06-04 15:00:12 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "maple_forest": "2025-06-04 15:05:53 +0000"
+    },
+    "done": false
   },
   "composite_material:recipes/composite_material/copper_sword": {
     "criteria": {
@@ -1455,6 +1485,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/tunic_sea_leggings": {
+    "criteria": {
+      "has_apple": "2025-06-04 15:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-04 15:00:09 +0000"
@@ -1593,6 +1629,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/tunic_blue_leggings": {
+    "criteria": {
+      "has_apple": "2025-06-04 15:06:54 +0000"
+    },
+    "done": true
+  },
   "composite_material:recipes/composite_material/allay_steel_pickaxe": {
     "criteria": {
       "crafting_table": "2025-06-04 15:00:12 +0000"
@@ -1632,6 +1674,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_red_leggings": {
+    "criteria": {
+      "has_apple": "2025-06-04 15:06:54 +0000"
     },
     "done": true
   },
@@ -1716,6 +1764,12 @@
   "regions_unexplored:recipes/building_blocks/white_painted_planks": {
     "criteria": {
       "has_planks": "2025-06-04 15:00:09 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/tunic_yellow_leggings": {
+    "criteria": {
+      "has_apple": "2025-06-04 15:06:54 +0000"
     },
     "done": true
   },
