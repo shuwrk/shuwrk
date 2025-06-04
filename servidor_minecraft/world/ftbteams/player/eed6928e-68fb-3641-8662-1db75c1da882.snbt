@@ -1,0 +1,17 @@
+{
+	id: "eed6928e-68fb-3641-8662-1db75c1da882"
+	type: "player"
+	player_name: "UniFoxyR"
+	ranks: {
+		eed6928e-68fb-3641-8662-1db75c1da882: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "UniFoxyR"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7B"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
