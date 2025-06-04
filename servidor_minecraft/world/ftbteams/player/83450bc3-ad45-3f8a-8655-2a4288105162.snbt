@@ -1,0 +1,17 @@
+{
+	id: "83450bc3-ad45-3f8a-8655-2a4288105162"
+	type: "player"
+	player_name: "Shuwii"
+	ranks: {
+		83450bc3-ad45-3f8a-8655-2a4288105162: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Shuwii"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9AFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
