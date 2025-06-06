@@ -2068,6 +2068,7 @@
       "bayou": "2025-06-04 19:22:35 +0000",
       "autumnal_maple_forest": "2025-06-04 19:40:11 +0000",
       "muddy_river": "2025-06-04 19:08:48 +0000",
+      "prismachasm": "2025-06-06 21:22:46 +0000",
       "marsh": "2025-06-04 19:31:43 +0000",
       "willow_forest": "2025-06-04 18:10:35 +0000",
       "frozen_tundra": "2025-06-04 21:38:05 +0000",
@@ -5626,6 +5627,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "prismachasm": "2025-06-06 21:22:46 +0000",
       "bioshroom_caves": "2025-06-04 18:16:32 +0000"
     },
     "done": false
@@ -8199,6 +8201,12 @@
       "phantom": "2025-06-06 21:11:08 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-06-06 21:25:35 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

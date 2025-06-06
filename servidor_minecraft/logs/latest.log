@@ -4734,3 +4734,106 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [06Jun2025 21:21:27.207] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AdvancedPathNavigate$MovementType
 [06Jun2025 21:21:42.389] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [06Jun2025 21:22:10.506] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[06Jun2025 21:23:35.120] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 21:23:35.120] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 21:23:59.801] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 21:23:59.801] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 76
+}
+[06Jun2025 21:23:59.801] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 82 extra bytes: 
+[06Jun2025 21:23:59.801] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "2B F>@mjFC9464dzz-;NO%{]ufjhT"
+]
+[06Jun2025 21:24:27.695] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 21:24:27.696] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 97
+}
+[06Jun2025 21:24:27.696] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 83 extra bytes: 
+[06Jun2025 21:24:27.696] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Ti*t0Rw]}W4_*q352+%CUFi#0{]ufjhT"
+]
+[06Jun2025 21:24:28.398] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 21:24:28.399] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 87
+}
+[06Jun2025 21:24:28.399] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 21:24:28.399] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "l?R.E352_J5oak"
+]
+[06Jun2025 21:25:35.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has reached the goal [Radiation Vibe]
+[06Jun2025 21:28:02.862] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 91
+[06Jun2025 21:28:03.022] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 92
+[06Jun2025 21:28:03.023] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 93
+[06Jun2025 21:28:03.023] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[06Jun2025 21:28:03.172] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[06Jun2025 21:28:03.208] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[06Jun2025 21:28:03.209] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[06Jun2025 21:28:03.341] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[06Jun2025 21:28:03.342] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[06Jun2025 21:28:03.342] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[06Jun2025 21:28:03.343] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[06Jun2025 21:28:03.440] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[06Jun2025 21:28:03.902] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[06Jun2025 21:28:03.942] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[06Jun2025 21:28:03.942] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[06Jun2025 21:28:03.993] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[06Jun2025 21:28:04.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UniFoxyR[/127.29.65.223:55675] logged in with entity id 6910 at (1386.6867469580388, 55.0, 155.9312916329357)
+[06Jun2025 21:28:04.124] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to UniFoxyR
+[06Jun2025 21:28:04.125] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to UniFoxyR
+[06Jun2025 21:28:04.125] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to UniFoxyR
+[06Jun2025 21:28:04.125] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to UniFoxyR
+[06Jun2025 21:28:04.127] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to UniFoxyR
+[06Jun2025 21:28:04.129] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to UniFoxyR
+[06Jun2025 21:28:04.129] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to UniFoxyR
+[06Jun2025 21:28:04.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR joined the game
+[06Jun2025 21:28:04.205] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to UniFoxyR
+[06Jun2025 21:28:04.227] [Server thread/INFO] [Jade/]: Syncing config to UniFoxyR (eed6928e-68fb-3641-8662-1db75c1da882)
+[06Jun2025 21:28:04.977] [Netty Epoll Server IO #1/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from UniFoxyR
+[06Jun2025 21:28:35.155] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 21:28:35.155] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 21:29:09.235] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[06Jun2025 21:29:22.126] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[06Jun2025 21:29:22.126] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[06Jun2025 21:29:38.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Brains and Brawn]
+[06Jun2025 21:29:53.617] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2tabs/init/data/OpenCurioHandler
+[06Jun2025 21:29:55.959] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 21:29:55.960] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 4
+}
+[06Jun2025 21:29:55.960] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 168 extra bytes: 
+[06Jun2025 21:29:55.960] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "@1<sjFXk+.352/@<s5bB){]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Png:IYCeW"
+]
+[06Jun2025 21:29:56.694] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 21:29:56.694] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 75
+}
+[06Jun2025 21:29:56.694] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 72 extra bytes: 
+[06Jun2025 21:29:56.694] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3vD-p`'vVfa-$352grvD=4{]"
+]
+[06Jun2025 21:30:50.509] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSetCommandMinecartPacket  id 42 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 21:30:50.509] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134529_": 9453,
+  "f_134530_": "&x\t��C��\\\n�^:\u0018ψ�MX�464\u0000\u0016'�n�Ì0���̳E�^�4��",
+  "f_134531_": true
+}
+[06Jun2025 21:30:50.510] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 42 data of 146 extra bytes: 
+[06Jun2025 21:30:50.510] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "l{]ufjhT)S*@Cd%KCU o~6^s0=PT6.}&eFz5b,%w^gjAgNf"
+]
+[06Jun2025 21:31:14.606] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[06Jun2025 21:31:19.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[06Jun2025 21:31:32.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
