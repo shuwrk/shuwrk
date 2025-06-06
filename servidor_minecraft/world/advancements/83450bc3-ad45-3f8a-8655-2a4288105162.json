@@ -8902,6 +8902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-06 23:05:13 +0000"
@@ -8917,6 +8923,18 @@
   "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-06 23:24:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:30:59 +0000"
     },
     "done": true
   },
@@ -8961,6 +8979,12 @@
       "brimwood_log": "2025-06-06 22:47:54 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:30:59 +0000"
+    },
+    "done": true
   },
   "justhammers:recipes/tools/reinforced_core": {
     "criteria": {
@@ -9022,6 +9046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
@@ -9064,6 +9094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-06 23:24:48 +0000"
@@ -9100,6 +9136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:30:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
@@ -9115,6 +9157,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:30:59 +0000"
     },
     "done": true
   },

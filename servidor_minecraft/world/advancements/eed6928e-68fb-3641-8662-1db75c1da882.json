@@ -462,6 +462,7 @@
       "blackwood_taiga": "2025-06-04 16:00:29 +0000",
       "highland_fields": "2025-06-04 16:09:11 +0000",
       "maple_forest": "2025-06-04 15:03:59 +0000",
+      "frozen_pine_taiga": "2025-06-06 23:33:41 +0000",
       "magnolia_highlands": "2025-06-04 17:13:39 +0000",
       "boreal_forest": "2025-06-04 15:58:27 +0000",
       "blackstone_basin": "2025-06-04 18:48:15 +0000",
@@ -489,6 +490,7 @@
       "blackwood_taiga": "2025-06-04 16:00:29 +0000",
       "highland_fields": "2025-06-04 16:09:11 +0000",
       "maple_forest": "2025-06-04 15:03:59 +0000",
+      "frozen_pine_taiga": "2025-06-06 23:33:41 +0000",
       "magnolia_highlands": "2025-06-04 17:13:39 +0000",
       "boreal_forest": "2025-06-04 15:58:27 +0000",
       "towering_cliffs": "2025-06-04 15:44:26 +0000",
@@ -1394,6 +1396,7 @@
       "minecraft:spider": "2025-06-04 15:10:55 +0000",
       "minecraft:piglin_brute": "2025-06-04 18:49:52 +0000",
       "minecraft:creeper": "2025-06-04 15:07:47 +0000",
+      "minecraft:phantom": "2025-06-06 23:37:08 +0000",
       "minecraft:witch": "2025-06-04 16:55:20 +0000",
       "minecraft:husk": "2025-06-04 15:24:40 +0000",
       "minecraft:cave_spider": "2025-06-06 23:04:50 +0000",
@@ -8114,6 +8117,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-06 23:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-06 23:29:40 +0000"
@@ -8276,6 +8285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-06 23:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 22:19:13 +0000"
@@ -8371,6 +8386,12 @@
       "has_golden_boots": "2025-06-06 23:18:57 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-06-06 23:37:08 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
@@ -8525,6 +8546,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-06 23:03:43 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/rosalyne_summon": {
+    "criteria": {
+      "get_item": "2025-06-06 23:36:53 +0000"
     },
     "done": true
   },
