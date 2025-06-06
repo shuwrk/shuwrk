@@ -7221,11 +7221,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
-      "requirement": "2025-06-06 23:20:35 +0000"
+      "has_chicken": "2025-06-06 23:22:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "dungeonnowloading:recipes/combat/spawner_chestplate": {
     "criteria": {
@@ -7239,15 +7239,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-06 23:22:19 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-06-06 23:11:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-06 23:21:51 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_boots": {
     "criteria": {
       "has_spawner_frame": "2025-06-06 23:16:02 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
+    "criteria": {
+      "awaken_chaos_spawner": "2025-06-06 23:21:13 +0000"
     },
     "done": true
   },
@@ -7305,6 +7323,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-06 23:22:19 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/veteran_leggings": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
@@ -7326,6 +7350,12 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-06-06 23:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-06 23:22:19 +0000"
     },
     "done": true
   },

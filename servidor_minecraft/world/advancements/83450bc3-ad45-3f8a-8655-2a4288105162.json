@@ -8884,6 +8884,24 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-06 23:27:38 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-06-06 23:25:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-06 23:05:13 +0000"
@@ -8893,6 +8911,12 @@
   "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
     "criteria": {
       "has_brimwood_planks": "2025-06-06 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_leggings": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:24:48 +0000"
     },
     "done": true
   },
@@ -8926,6 +8950,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:24:07 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "brimwood_log": "2025-06-06 22:47:54 +0000"
@@ -8935,6 +8965,12 @@
   "justhammers:recipes/tools/reinforced_core": {
     "criteria": {
       "has_the_recipe": "2025-06-06 23:03:54 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-06-06 23:24:10 +0000"
     },
     "done": true
   },
@@ -8968,6 +9004,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/hollow_chestplate": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:24:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
@@ -8992,6 +9034,18 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:24:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_boots": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:24:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
@@ -9007,6 +9061,12 @@
   "regions_unexplored:recipes/redstone/brimwood_door": {
     "criteria": {
       "has_brimwood_planks": "2025-06-06 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:24:48 +0000"
     },
     "done": true
   },
@@ -9058,6 +9118,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:24:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
@@ -9067,6 +9133,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-06 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-06-06 23:24:10 +0000"
     },
     "done": true
   },
@@ -9091,6 +9163,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_helmet": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:24:48 +0000"
     },
     "done": true
   },
@@ -9121,6 +9199,12 @@
   "regions_unexplored:recipes/building_blocks/brimwood_slab": {
     "criteria": {
       "has_brimwood_planks": "2025-06-06 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-06-06 23:25:00 +0000"
     },
     "done": true
   },
@@ -9181,6 +9265,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:24:07 +0000"
     },
     "done": true
   },

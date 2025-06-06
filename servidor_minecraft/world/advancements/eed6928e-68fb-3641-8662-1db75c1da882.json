@@ -8114,6 +8114,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-06-06 22:19:13 +0000"
@@ -8138,9 +8144,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:29:40 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/phantom_boots": {
     "criteria": {
       "has_phantom_membrane": "2025-06-06 22:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:29:40 +0000"
     },
     "done": true
   },
@@ -8180,6 +8198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-06 23:21:08 +0000"
+    },
+    "done": true
+  },
   "meetyourfight:main/bellringer_summon": {
     "criteria": {
       "get_item": "2025-06-06 22:27:02 +0000"
@@ -8195,6 +8219,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-06 22:19:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:29:40 +0000"
     },
     "done": true
   },
@@ -8219,6 +8249,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-06-06 23:18:57 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-06-06 23:23:21 +0000"
     },
     "done": true
   },
@@ -8270,6 +8306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:29:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-06-06 22:01:46 +0000"
@@ -8279,6 +8321,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-06 23:03:43 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_feather": "2025-06-06 23:29:01 +0000"
     },
     "done": true
   },
@@ -8309,6 +8357,12 @@
   "regions_unexplored:recipes/building_blocks/mossy_stone": {
     "criteria": {
       "has_stone": "2025-06-06 22:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:29:40 +0000"
     },
     "done": true
   },
@@ -8348,6 +8402,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-06-06 23:29:01 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/stone_grass_block": {
     "criteria": {
       "has_stone": "2025-06-06 22:19:13 +0000"
@@ -8369,6 +8429,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-06-06 23:18:57 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_feather": "2025-06-06 23:29:01 +0000"
     },
     "done": true
   },
@@ -8402,6 +8468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:29:40 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/silverfish_boots": {
     "criteria": {
       "has_stone": "2025-06-06 22:19:13 +0000"
@@ -8420,6 +8492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-06-06 23:29:40 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_helmet": {
     "criteria": {
       "has_spawner_frame": "2025-06-06 23:18:36 +0000"
@@ -8429,6 +8507,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-06 23:03:43 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-06-06 23:23:21 +0000"
     },
     "done": true
   },
@@ -8453,6 +8537,18 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-06-06 23:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-06 23:29:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-06-06 23:29:01 +0000"
     },
     "done": true
   },
@@ -8510,6 +8606,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_feather": "2025-06-06 23:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-06-06 23:09:35 +0000"
@@ -8534,6 +8636,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-06-06 23:29:01 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/silverfish_helmet": {
     "criteria": {
       "has_stone": "2025-06-06 22:19:13 +0000"
@@ -8549,6 +8657,12 @@
   "dungeonnowloading:recipes/misc/spawner_blade": {
     "criteria": {
       "has_spawner_frame": "2025-06-06 23:18:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_feather": "2025-06-06 23:29:01 +0000"
     },
     "done": true
   },
