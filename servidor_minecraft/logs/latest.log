@@ -5994,3 +5994,193 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [06Jun2025 23:04:11.515] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
 [06Jun2025 23:04:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Labyrinth]
 [06Jun2025 23:04:28.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9546ms or 190 ticks behind
+[06Jun2025 23:04:48.110] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[06Jun2025 23:04:50.141] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Arag the Lurker'/44433, l='ServerLevel[world]', x=611.43, y=-15.96, z=-535.55] died: Arag the Lurker was slain by UniFoxyR
+[06Jun2025 23:04:50.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wachinango moved too quickly! -6.178561398975944,0.17571137033375095,-8.028686029103937
+[06Jun2025 23:04:57.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13338ms or 266 ticks behind
+[06Jun2025 23:04:57.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[06Jun2025 23:05:17.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Jenben the Eagle'/47530, l='ServerLevel[world]', x=615.68, y=-16.00, z=-512.08] died: Jenben the Eagle was scorched to death
+[06Jun2025 23:05:20.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8240ms or 164 ticks behind
+[06Jun2025 23:05:31.191] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[06Jun2025 23:05:31.192] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[06Jun2025 23:05:31.192] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[06Jun2025 23:05:44.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9083ms or 181 ticks behind
+[06Jun2025 23:06:03.459] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3803, y=62, z=-2961} but found not block entity block Block{minecraft:water}[level=1] at location
+[06Jun2025 23:06:03.460] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=3803, y=62, z=-2961}
+[06Jun2025 23:06:07.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7768ms or 155 ticks behind
+[06Jun2025 23:06:29.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7277ms or 145 ticks behind
+[06Jun2025 23:06:39.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Kex the Mean'/44310, l='ServerLevel[world]', x=717.67, y=34.58, z=-577.30] died: Kex the Mean starved to death
+[06Jun2025 23:06:40.405] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:06:40.405] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1
+}
+[06Jun2025 23:06:40.406] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 156 extra bytes: 
+[06Jun2025 23:06:40.406] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "avFKE6s2C\"464{=Q7)EQX6(i{]ufjhT)S*@Cpd%KCU o~6^s0=PT6.}&eF"
+]
+[06Jun2025 23:06:50.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6713ms or 134 ticks behind
+[06Jun2025 23:07:11.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5889ms or 117 ticks behind
+[06Jun2025 23:07:32.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5828ms or 116 ticks behind
+[06Jun2025 23:07:33.246] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:07:33.247] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 42
+}
+[06Jun2025 23:07:33.247] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 175 extra bytes: 
+[06Jun2025 23:07:33.247] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "S){,<M!_`N:352lmzewiTT{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Png:IYCeWh"
+]
+[06Jun2025 23:07:33.762] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:07:33.762] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 14289
+}
+[06Jun2025 23:07:33.762] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 50 extra bytes: 
+[06Jun2025 23:07:33.762] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "K]-Wd|xP@352Nace\\"
+]
+[06Jun2025 23:07:33.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerAbilitiesPacket  id 28 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:07:33.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134254_": true
+}
+[06Jun2025 23:07:33.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 28 data of 156 extra bytes: 
+[06Jun2025 23:07:33.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "K]-Wd|xP@352Nace\\{Vw-s{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Png:IYC"
+]
+[06Jun2025 23:07:47.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Simple Dungeon Room]
+[06Jun2025 23:07:54.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6889ms or 137 ticks behind
+[06Jun2025 23:08:17.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7867ms or 157 ticks behind
+[06Jun2025 23:08:22.586] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=65, z=42}
+[06Jun2025 23:08:22.587] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=46}
+[06Jun2025 23:08:41.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9414ms or 188 ticks behind
+[06Jun2025 23:09:03.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6659ms or 133 ticks behind
+[06Jun2025 23:09:13.757] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=3515, y=-3, z=-3028}
+[06Jun2025 23:09:25.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7326ms or 146 ticks behind
+[06Jun2025 23:09:35.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has completed the challenge [It Spreads]
+[06Jun2025 23:09:46.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5719ms or 114 ticks behind
+[06Jun2025 23:10:00.228] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[06Jun2025 23:10:08.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7248ms or 144 ticks behind
+[06Jun2025 23:10:09.017] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 23:10:09.017] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 23:10:30.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6681ms or 133 ticks behind
+[06Jun2025 23:10:33.717] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[06Jun2025 23:10:52.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6876ms or 137 ticks behind
+[06Jun2025 23:11:14.208] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[06Jun2025 23:11:14.209] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[06Jun2025 23:11:14.209] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[06Jun2025 23:11:15.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8766ms or 175 ticks behind
+[06Jun2025 23:11:35.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4663ms or 93 ticks behind
+[06Jun2025 23:11:36.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wachinango has made the advancement [Labyrinth]
+[06Jun2025 23:12:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wachinango has made the advancement [Staring into the Void]
+[06Jun2025 23:12:58.352] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:12:58.352] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 248708
+}
+[06Jun2025 23:12:58.352] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 63 extra bytes: 
+[06Jun2025 23:12:58.353] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|R$Yf!Wd~|)352.Q,#jLVfI?cR3"
+]
+[06Jun2025 23:12:59.680] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:12:59.680] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 31
+}
+[06Jun2025 23:12:59.680] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 23:12:59.681] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "`qI# C/8Q2TTa9352gla&i*"
+]
+[06Jun2025 23:13:06.488] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:13:06.489] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1180456
+}
+[06Jun2025 23:13:06.489] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 49 extra bytes: 
+[06Jun2025 23:13:06.489] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "_o)jMm~464Nace"
+]
+[06Jun2025 23:15:35.755] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 23:15:35.756] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 23:16:41.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[06Jun2025 23:16:41.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[06Jun2025 23:16:41.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[06Jun2025 23:16:41.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 200
+[06Jun2025 23:16:41.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 175
+[06Jun2025 23:16:41.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[06Jun2025 23:16:41.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[06Jun2025 23:16:41.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[06Jun2025 23:17:13.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has completed the challenge [It Spreads]
+[06Jun2025 23:18:24.428] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:18:24.428] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 653213
+}
+[06Jun2025 23:18:24.429] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[06Jun2025 23:18:24.429] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "w!k'th!b.726352omj7&1Dr"
+]
+[06Jun2025 23:18:25.584] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:18:25.585] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 121
+}
+[06Jun2025 23:18:25.585] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 324 extra bytes: 
+[06Jun2025 23:18:25.585] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$uIM`2m=KP5AE;352_iC)wI3BOmdwT:wz{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Png:IYCeWhM(|7b@fBXx1H$`$:^F8I>6Ttth[5y3H(?l<Y.F\"@'(cvYxv3qYKB;DIw$92"
+]
+[06Jun2025 23:19:59.502] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:19:59.503] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1446097
+}
+[06Jun2025 23:19:59.503] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[06Jun2025 23:19:59.503] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "yG~'S\";}91?Z464wdZp"
+]
+[06Jun2025 23:20:35.752] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 23:20:35.752] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 23:21:01.208] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:21:01.209] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 75
+}
+[06Jun2025 23:21:01.209] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 23:21:01.209] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "K5*tZ@H$f+)w336/q``4"
+]
+[06Jun2025 23:21:13.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wachinango has made the advancement [Breaking the Seal]
+[06Jun2025 23:23:21.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has reached the goal [Chaos Spawner]
+[06Jun2025 23:23:47.523] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:23:47.523] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3580
+}
+[06Jun2025 23:23:47.524] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 83 extra bytes: 
+[06Jun2025 23:23:47.524] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "rWia>VJ7,S352181db2VZC8oz{]ufjhT]"
+]
+[06Jun2025 23:23:51.820] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:23:51.820] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 128
+}
+[06Jun2025 23:23:51.821] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[06Jun2025 23:23:51.821] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "evj$>0hyTRa~@9F<=3521HGd&!"
+]
+[06Jun2025 23:24:10.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has reached the goal [Chaos Spawner]

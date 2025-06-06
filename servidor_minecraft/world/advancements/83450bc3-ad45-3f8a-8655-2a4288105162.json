@@ -133,6 +133,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-06-04 21:43:50 +0000",
       "minecraft:snowy_beach": "2025-06-04 21:35:39 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 17:16:54 +0000",
+      "minecraft:deep_dark": "2025-06-06 23:08:18 +0000",
       "minecraft:meadow": "2025-06-04 19:17:48 +0000",
       "minecraft:plains": "2025-06-04 19:41:15 +0000"
     },
@@ -2063,6 +2064,7 @@
     "criteria": {
       "silver_birch_forest": "2025-06-04 15:29:28 +0000",
       "shrubland": "2025-06-04 16:07:33 +0000",
+      "cold_deciduous_forest": "2025-06-06 23:04:12 +0000",
       "redstone_abyss": "2025-06-04 20:47:05 +0000",
       "fen": "2025-06-04 15:33:30 +0000",
       "pine_taiga": "2025-06-04 17:15:32 +0000",
@@ -2104,6 +2106,7 @@
     "criteria": {
       "silver_birch_forest": "2025-06-04 15:29:28 +0000",
       "shrubland": "2025-06-04 16:07:33 +0000",
+      "cold_deciduous_forest": "2025-06-06 23:04:12 +0000",
       "fen": "2025-06-04 15:33:30 +0000",
       "pine_taiga": "2025-06-04 17:15:32 +0000",
       "bayou": "2025-06-04 19:22:35 +0000",
@@ -8875,9 +8878,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 23:05:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/brimwood_fence_gate": {
     "criteria": {
       "has_brimwood_planks": "2025-06-06 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/deepslate_helmet": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
     },
     "done": true
   },
@@ -8893,15 +8920,57 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-06-06 23:04:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:got_wood": {
     "criteria": {
       "brimwood_log": "2025-06-06 22:47:54 +0000"
     },
     "done": false
   },
+  "justhammers:recipes/tools/reinforced_core": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 23:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/brimwood_wood": {
     "criteria": {
       "has_log": "2025-06-06 22:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-06 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-06-06 23:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
     },
     "done": true
   },
@@ -8911,9 +8980,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/impact_core": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 23:03:29 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/brimwood_door": {
     "criteria": {
       "has_brimwood_planks": "2025-06-06 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-06 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/deepslate_boots": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-06 23:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/deepslate_chestplate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
     },
     "done": true
   },
@@ -8941,9 +9136,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-06 23:05:13 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/brimwood_trapdoor": {
     "criteria": {
       "has_brimwood_planks": "2025-06-06 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-06-06 23:17:13 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-06-06 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-06 23:05:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/deepslate_leggings": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
     },
     "done": true
   },

@@ -23658,3 +23658,559 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [06Jun2025 23:04:27.552] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=3980, y=-41, z=-2668} at Chest with:minecraft:chests/simple_dungeon
 [06Jun2025 23:04:28.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9546ms or 190 ticks behind
 [06Jun2025 23:04:31.171] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:38.083] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of supernatural:graveyard_01
+[06Jun2025 23:04:38.181] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond1
+[06Jun2025 23:04:40.156] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:40.733] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:41.221] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:41.712] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:42.193] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:42.641] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:42.707] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=3966, y=56, z=-2814} at Chest with:minecraft:chests/underwater_ruin_small
+[06Jun2025 23:04:43.169] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:47.424] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:ruins/ruins_01
+[06Jun2025 23:04:48.110] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[06Jun2025 23:04:50.140] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jun2025 23:04:50.141] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Arag the Lurker'/44433, l='ServerLevel[world]', x=611.43, y=-15.96, z=-535.55] died: Arag the Lurker was slain by UniFoxyR
+[06Jun2025 23:04:50.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wachinango moved too quickly! -6.178561398975944,0.17571137033375095,-8.028686029103937
+[06Jun2025 23:04:51.528] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=4094, y=-24, z=-2921} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:04:55.378] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/forge/forge_2
+[06Jun2025 23:04:57.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13338ms or 266 ticks behind
+[06Jun2025 23:04:57.900] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[06Jun2025 23:05:02.218] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:giant_mushroom/giant_red_mushroom_stem_01
+[06Jun2025 23:05:06.946] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:07.316] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=4128, y=-43, z=-3017} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:05:07.832] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=4005, y=-46, z=-3020} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:05:09.219] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=4283, y=2, z=-2936} at Barrel with:minecraft:chests/simple_dungeon
+[06Jun2025 23:05:09.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:jungle_dungeon
+[06Jun2025 23:05:12.649] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:13.189] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:13.410] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:15.093] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:15.995] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:16.969] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:17.397] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Jenben the Eagle'/47530, l='ServerLevel[world]', x=615.68, y=-16.00, z=-512.08] died: Jenben the Eagle was scorched to death
+[06Jun2025 23:05:17.852] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:19.282] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_plate_2
+[06Jun2025 23:05:19.283] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/chickens/chicken_1
+[06Jun2025 23:05:19.286] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:player_house/feature_farm_1
+[06Jun2025 23:05:20.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8240ms or 164 ticks behind
+[06Jun2025 23:05:21.202] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[06Jun2025 23:05:26.128] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=4105, y=63, z=-3064} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:05:26.759] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/castle_ruin
+[06Jun2025 23:05:27.023] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:27.373] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jun2025 23:05:28.026] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:28.969] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:29.786] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=3930, y=-9, z=-3091} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:05:31.191] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[06Jun2025 23:05:31.192] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[06Jun2025 23:05:31.192] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[06Jun2025 23:05:32.370] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:33.635] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:34.466] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:35.238] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:36.000] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jun2025 23:05:36.085] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:36.700] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:37.241] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:37.880] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:38.458] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:44.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9083ms or 181 ticks behind
+[06Jun2025 23:05:45.320] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
+[06Jun2025 23:05:50.401] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:51.098] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:51.868] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:53.400] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=3823, y=-22, z=-2762} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:05:53.728] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:05:54.638] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=3781, y=-9, z=-3030} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:06:00.117] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=849, y=-46, z=-684} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:06:03.459] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=3803, y=62, z=-2961} but found not block entity block Block{minecraft:water}[level=1] at location
+[06Jun2025 23:06:03.460] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=3803, y=62, z=-2961}
+[06Jun2025 23:06:06.540] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:07.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7768ms or 155 ticks behind
+[06Jun2025 23:06:07.439] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:08.397] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:09.664] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:10.777] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:12.323] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:13.343] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:14.407] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:14.559] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:19.102] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:27.094] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:27.653] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:28.011] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:28.492] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:29.005] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:29.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7277ms or 145 ticks behind
+[06Jun2025 23:06:29.517] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:30.028] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:30.907] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:31.286] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:31.659] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:32.168] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:32.575] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:33.015] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:35.348] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:35.977] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:36.457] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:37.823] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:38.590] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:39.059] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:39.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Kex the Mean'/44310, l='ServerLevel[world]', x=717.67, y=34.58, z=-577.30] died: Kex the Mean starved to death
+[06Jun2025 23:06:39.552] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:40.405] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:06:40.405] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1
+}
+[06Jun2025 23:06:40.406] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 156 extra bytes: 
+[06Jun2025 23:06:40.406] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "avFKE6s2C\"464{=Q7)EQX6(i{]ufjhT)S*@Cpd%KCU o~6^s0=PT6.}&eF"
+]
+[06Jun2025 23:06:41.931] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:50.654] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:50.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6713ms or 134 ticks behind
+[06Jun2025 23:06:55.846] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:06:59.583] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:02.383] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:05.196] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:11.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5889ms or 117 ticks behind
+[06Jun2025 23:07:13.408] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:16.607] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:23.405] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:27.107] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:32.330] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:32.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5828ms or 116 ticks behind
+[06Jun2025 23:07:33.246] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:07:33.247] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 42
+}
+[06Jun2025 23:07:33.247] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 175 extra bytes: 
+[06Jun2025 23:07:33.247] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "S){,<M!_`N:352lmzewiTT{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Png:IYCeWh"
+]
+[06Jun2025 23:07:33.762] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:07:33.762] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 14289
+}
+[06Jun2025 23:07:33.762] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 50 extra bytes: 
+[06Jun2025 23:07:33.762] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "K]-Wd|xP@352Nace\\"
+]
+[06Jun2025 23:07:33.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerAbilitiesPacket  id 28 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:07:33.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134254_": true
+}
+[06Jun2025 23:07:33.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 28 data of 156 extra bytes: 
+[06Jun2025 23:07:33.763] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "K]-Wd|xP@352Nace\\{Vw-s{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Png:IYC"
+]
+[06Jun2025 23:07:38.440] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_14
+[06Jun2025 23:07:42.136] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:42.554] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:43.788] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:07:47.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Simple Dungeon Room]
+[06Jun2025 23:07:47.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jun2025 23:07:50.181] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jun2025 23:07:50.181] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jun2025 23:07:54.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6889ms or 137 ticks behind
+[06Jun2025 23:08:17.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7867ms or 157 ticks behind
+[06Jun2025 23:08:19.706] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:08:22.586] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=65, z=42}
+[06Jun2025 23:08:22.587] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=46}
+[06Jun2025 23:08:25.682] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=3662, y=-36, z=-3017} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:08:26.684] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:08:27.822] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=3749, y=-50, z=-3172} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:08:36.598] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pond2
+[06Jun2025 23:08:41.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9414ms or 188 ticks behind
+[06Jun2025 23:08:52.810] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=3563, y=-25, z=-3054} at Chest with:graveyard:chests/crypt_loot
+[06Jun2025 23:08:54.040] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:08:54.713] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:08:54.994] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:08:55.435] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:08:56.283] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:08:56.934] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:08:57.912] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:08:58.648] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:08:59.624] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:00.241] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:03.284] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:03.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6659ms or 133 ticks behind
+[06Jun2025 23:09:04.176] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:05.136] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:05.941] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:07.702] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:08.202] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:09.375] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:12.764] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:13.757] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=3515, y=-3, z=-3028}
+[06Jun2025 23:09:14.276] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:17.766] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=3560, y=-13, z=-3286} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:09:25.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7326ms or 146 ticks behind
+[06Jun2025 23:09:35.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has completed the challenge [It Spreads]
+[06Jun2025 23:09:36.255] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_3 is being run through DFU (hash 12513970bce74eba74a6b41bae2df8647b4bd26da3c4e614be438ebe0ee9edf5), this will cause launch time delays
+[06Jun2025 23:09:36.462] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_9 is being run through DFU (hash 6293df4c81894ce8b3e8a56abaa01424c1a6cac59c614e082db3158d42ddd31f), this will cause launch time delays
+[06Jun2025 23:09:36.474] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_1 is being run through DFU (hash d9769b372e1f6e6c891c4f74447e7bed82796805d5da8a574172198704f843cc), this will cause launch time delays
+[06Jun2025 23:09:36.486] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_8 is being run through DFU (hash b7cc30a702c44a2cc0b28950c3bc152375e182e408805dbc64d257d156ecf007), this will cause launch time delays
+[06Jun2025 23:09:36.497] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_6 is being run through DFU (hash 1fb7c9ab0aaf7a35b6a923795c4ae5b38d9ded0b73e065c65b86ca7ebfadff14), this will cause launch time delays
+[06Jun2025 23:09:36.511] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_4 is being run through DFU (hash f3932892b604600e428081e4a542935e9a00995b6c481c30adb1f6ab16bf7e79), this will cause launch time delays
+[06Jun2025 23:09:36.525] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_2 is being run through DFU (hash da7f1deb0b77b0f8667eda3ba3fda9c5c75ade4af3004c00c083f938648ff3e5), this will cause launch time delays
+[06Jun2025 23:09:36.534] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_7 is being run through DFU (hash bb5404a6c2bc9e3bd439cfcb673c632864d292987d5e5a46f336605767b48f9e), this will cause launch time delays
+[06Jun2025 23:09:36.540] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_10 is being run through DFU (hash 738eb05ca3f051edf6dcfc5f67265b68a5a34f2e6f3d378e9f14f12b821e1506), this will cause launch time delays
+[06Jun2025 23:09:36.547] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_0 is being run through DFU (hash 7a1d81e5236fab5256b01fb5cdd848d9073d3d1e037a83520b6e09076e4d121f), this will cause launch time delays
+[06Jun2025 23:09:36.563] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise_seven_seas:victory_frigate/victory_frigate_spawner_5 is being run through DFU (hash b1657af517de8ee46edf86e07bc19226fecd5eaa4be6c6dbb02766ed320b6a8e), this will cause launch time delays
+[06Jun2025 23:09:37.543] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=3463, y=-13, z=-3032} at Coffin with:graveyard:chests/crypt_loot
+[06Jun2025 23:09:38.306] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=3549, y=-36, z=-2895} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:09:46.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5719ms or 114 ticks behind
+[06Jun2025 23:09:47.201] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:50.009] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:09:55.876] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=3465, y=-43, z=-3258} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:09:56.037] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/camp/scarecrow
+[06Jun2025 23:09:56.044] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/top
+[06Jun2025 23:09:56.050] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/1/bottom
+[06Jun2025 23:10:00.228] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[06Jun2025 23:10:06.443] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:07.426] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:08.001] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:08.341] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:08.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7248ms or 144 ticks behind
+[06Jun2025 23:10:09.016] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[06Jun2025 23:10:09.017] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 23:10:09.017] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 23:10:09.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 23:10:09.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 23:10:09.136] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[06Jun2025 23:10:10.829] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=3804, y=-3, z=-3320} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:10:22.454] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:23.379] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:24.268] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:25.166] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:26.040] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:26.973] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:27.914] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:28.839] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:29.720] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:30.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6681ms or 133 ticks behind
+[06Jun2025 23:10:30.644] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:31.502] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:32.415] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:33.717] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[06Jun2025 23:10:34.856] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:35.749] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:36.374] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:36.964] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:37.643] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:38.178] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:39.084] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:42.367] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:43.277] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:44.159] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:45.076] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:46.005] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:47.037] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:47.931] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:50.310] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:51.195] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:52.103] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:52.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6876ms or 137 ticks behind
+[06Jun2025 23:10:54.278] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:55.896] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=3547, y=-28, z=-3408} at Sarcophagus with:graveyard:chests/crypt_loot
+[06Jun2025 23:10:56.247] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:57.175] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:10:58.887] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=3877, y=-37, z=-3460} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:10:59.521] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:11:00.725] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:11:02.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:11:05.043] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:11:06.216] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=3966, y=-21, z=-3255} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:11:13.562] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=4032, y=-51, z=-3419} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:11:14.208] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[06Jun2025 23:11:14.209] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[06Jun2025 23:11:14.209] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[06Jun2025 23:11:15.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8766ms or 175 ticks behind
+[06Jun2025 23:11:17.356] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=3985, y=14, z=-3502} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:11:21.358] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of gnumus:gnumus_small_ruins
+[06Jun2025 23:11:35.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4663ms or 93 ticks behind
+[06Jun2025 23:11:36.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wachinango has made the advancement [Labyrinth]
+[06Jun2025 23:12:05.526] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:12:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wachinango has made the advancement [Staring into the Void]
+[06Jun2025 23:12:20.218] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:12:58.352] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:12:58.352] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 248708
+}
+[06Jun2025 23:12:58.352] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 63 extra bytes: 
+[06Jun2025 23:12:58.353] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|R$Yf!Wd~|)352.Q,#jLVfI?cR3"
+]
+[06Jun2025 23:12:59.028] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:12:59.680] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:12:59.680] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 31
+}
+[06Jun2025 23:12:59.680] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 23:12:59.681] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "`qI# C/8Q2TTa9352gla&i*"
+]
+[06Jun2025 23:13:00.326] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:13:02.972] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:13:06.421] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:13:06.488] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:13:06.489] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1180456
+}
+[06Jun2025 23:13:06.489] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 49 extra bytes: 
+[06Jun2025 23:13:06.489] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "_o)jMm~464Nace"
+]
+[06Jun2025 23:13:11.480] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:14:35.273] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:14:43.628] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:05.372] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:06.331] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:08.423] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:09.271] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:09.825] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:10.196] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:10.627] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:11.022] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:11.672] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:12.167] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:12.591] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:13.471] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:13.872] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:15:35.755] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[06Jun2025 23:15:35.755] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 23:15:35.756] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 23:15:35.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 23:15:35.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 23:15:35.859] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[06Jun2025 23:16:41.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = High
+[06Jun2025 23:16:41.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 200
+[06Jun2025 23:16:41.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[06Jun2025 23:16:41.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 200
+[06Jun2025 23:16:41.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 175
+[06Jun2025 23:16:41.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 50
+[06Jun2025 23:16:41.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[06Jun2025 23:16:41.980] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[06Jun2025 23:16:45.822] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:16:46.575] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [768a592e-2da7-4783-85ca-5768085d3dfd]
+[06Jun2025 23:16:55.642] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:17:13.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has completed the challenge [It Spreads]
+[06Jun2025 23:17:13.861] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:17:22.124] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:17:42.472] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [4674088f-a392-4938-815e-8fcff75cfa56]
+[06Jun2025 23:17:49.850] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[06Jun2025 23:17:49.858] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[06Jun2025 23:17:49.917] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_1
+[06Jun2025 23:17:49.925] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight_exterior
+[06Jun2025 23:17:49.929] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway
+[06Jun2025 23:17:49.931] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad
+[06Jun2025 23:17:49.933] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_2_straight
+[06Jun2025 23:17:49.936] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_6_stairway
+[06Jun2025 23:17:49.965] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_3_passages
+[06Jun2025 23:17:49.971] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_exterior_spawner
+[06Jun2025 23:17:49.973] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_5_straight_debris
+[06Jun2025 23:17:49.975] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_0_stairway_exterior
+[06Jun2025 23:17:49.976] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_1
+[06Jun2025 23:17:49.976] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_0
+[06Jun2025 23:17:49.978] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_piglin_0
+[06Jun2025 23:17:49.979] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_2
+[06Jun2025 23:17:49.980] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_blaze_0
+[06Jun2025 23:17:49.982] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_1_quad_exterior
+[06Jun2025 23:17:49.983] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_wither_skeleton_3
+[06Jun2025 23:17:49.984] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_1
+[06Jun2025 23:17:49.985] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_magma_0
+[06Jun2025 23:17:50.003] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_0
+[06Jun2025 23:17:50.025] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_0
+[06Jun2025 23:17:50.046] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_1
+[06Jun2025 23:17:50.051] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_3
+[06Jun2025 23:17:50.069] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_2
+[06Jun2025 23:17:50.090] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_2_stairway
+[06Jun2025 23:17:50.111] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_3
+[06Jun2025 23:17:50.132] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_4_door
+[06Jun2025 23:17:50.152] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_crossing_4
+[06Jun2025 23:17:50.179] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_lava_pit_0
+[06Jun2025 23:17:50.185] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_terminator_1
+[06Jun2025 23:17:50.185] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_0
+[06Jun2025 23:17:50.186] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_0
+[06Jun2025 23:17:50.187] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_3_terminator
+[06Jun2025 23:17:50.189] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_passage_4_terminator
+[06Jun2025 23:17:50.190] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_1
+[06Jun2025 23:17:50.190] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_1
+[06Jun2025 23:17:50.191] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_1
+[06Jun2025 23:17:50.192] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_6_chest
+[06Jun2025 23:17:50.193] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_2
+[06Jun2025 23:17:50.193] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_5_blaze
+[06Jun2025 23:17:50.194] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_gear_0
+[06Jun2025 23:17:50.195] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_4
+[06Jun2025 23:17:50.195] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_chain_2
+[06Jun2025 23:17:50.196] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_corridor_pedestal_3
+[06Jun2025 23:18:24.428] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:18:24.428] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 653213
+}
+[06Jun2025 23:18:24.429] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[06Jun2025 23:18:24.429] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "w!k'th!b.726352omj7&1Dr"
+]
+[06Jun2025 23:18:25.584] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:18:25.585] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 121
+}
+[06Jun2025 23:18:25.585] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 324 extra bytes: 
+[06Jun2025 23:18:25.585] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$uIM`2m=KP5AE;352_iC)wI3BOmdwT:wz{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Png:IYCeWhM(|7b@fBXx1H$`$:^F8I>6Ttth[5y3H(?l<Y.F\"@'(cvYxv3qYKB;DIw$92"
+]
+[06Jun2025 23:18:29.731] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:18:30.246] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:18:31.024] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:18:32.728] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:18:44.929] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:18:45.478] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:18:46.089] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:18:46.690] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:18:47.287] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:18:48.128] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:19:59.502] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:19:59.503] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1446097
+}
+[06Jun2025 23:19:59.503] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[06Jun2025 23:19:59.503] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "yG~'S\";}91?Z464wdZp"
+]
+[06Jun2025 23:20:10.827] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:12.675] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:16.920] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:18.870] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:20.719] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:22.333] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:23.332] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:24.619] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:24.922] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:25.671] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:26.671] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:27.121] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:27.619] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:28.731] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:29.420] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:31.220] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:32.169] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:33.169] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:34.219] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:34.733] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:35.751] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[06Jun2025 23:20:35.752] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 23:20:35.752] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 23:20:35.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 23:20:35.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 23:20:35.853] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[06Jun2025 23:20:36.367] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:38.372] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:41.521] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:43.572] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:43.769] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:45.571] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:20:52.573] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:01.208] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:21:01.209] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 75
+}
+[06Jun2025 23:21:01.209] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 23:21:01.209] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "K5*tZ@H$f+)w336/q``4"
+]
+[06Jun2025 23:21:02.870] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming com/legacy/blue_skies/client/gui/menu/ArcSlot (target of net/minecraft/world/inventory/Slot)
+[06Jun2025 23:21:08.394] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:13.022] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:13.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wachinango has made the advancement [Breaking the Seal]
+[06Jun2025 23:21:16.972] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:22.073] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:26.327] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:29.970] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:34.271] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:36.873] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:38.480] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:40.720] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:43.473] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:44.431] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:44.871] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:45.672] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:46.020] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:46.170] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:47.219] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:47.620] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:48.672] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:49.274] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:50.232] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:50.778] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:51.871] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:53.526] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:54.823] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:55.523] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:21:58.770] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [d50618f5-86a8-41d6-b16c-d75c8f3f6734]
+[06Jun2025 23:22:14.131] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:16.924] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:19.721] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:23.071] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:27.424] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:32.323] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:34.626] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:37.974] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:39.022] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:40.922] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:43.324] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:45.772] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:48.176] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:50.438] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:52.724] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:22:59.937] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:23:08.825] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:23:09.023] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:23:13.774] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:23:21.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has reached the goal [Chaos Spawner]
+[06Jun2025 23:23:47.523] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:23:47.523] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3580
+}
+[06Jun2025 23:23:47.524] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 83 extra bytes: 
+[06Jun2025 23:23:47.524] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "rWia>VJ7,S352181db2VZC8oz{]ufjhT]"
+]
+[06Jun2025 23:23:51.820] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:23:51.820] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 128
+}
+[06Jun2025 23:23:51.821] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[06Jun2025 23:23:51.821] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "evj$>0hyTRa~@9F<=3521HGd&!"
+]
+[06Jun2025 23:24:10.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has reached the goal [Chaos Spawner]

@@ -135,6 +135,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-06-04 21:43:43 +0000",
       "minecraft:frozen_peaks": "2025-06-06 22:57:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 17:16:26 +0000",
+      "minecraft:deep_dark": "2025-06-06 23:11:36 +0000",
       "minecraft:meadow": "2025-06-04 16:52:46 +0000",
       "minecraft:plains": "2025-06-04 21:23:23 +0000"
     },
@@ -4191,6 +4192,7 @@
       "minecraft:skeleton": "2025-06-04 20:16:30 +0000",
       "minecraft:vindicator": "2025-06-04 16:51:12 +0000",
       "minecraft:magma_cube": "2025-06-04 20:53:37 +0000",
+      "minecraft:spider": "2025-06-06 23:18:28 +0000",
       "minecraft:phantom": "2025-06-04 20:36:52 +0000",
       "minecraft:witch": "2025-06-04 21:44:32 +0000",
       "minecraft:wither_skeleton": "2025-06-04 20:56:48 +0000",
@@ -7221,13 +7223,31 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "requirement": "2025-06-06 23:02:43 +0000"
+      "requirement": "2025-06-06 23:20:35 +0000"
     },
     "done": false
+  },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
+    },
+    "done": true
   },
   "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-06-06 23:11:36 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
     },
     "done": true
   },
@@ -7237,9 +7257,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-06 23:18:47 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/hollow_chestplate": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
     },
     "done": true
   },
@@ -7255,15 +7287,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-06 23:18:47 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/veteran_helmet": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/skull_of_chaos": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 23:19:52 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/veteran_leggings": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-06-06 23:15:27 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-06 23:11:36 +0000"
     },
     "done": true
   },
@@ -7276,6 +7338,24 @@
   "knightquest:recipes/misc/veteran_chestplate": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-06 23:18:47 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_get_voidquartz": {
+    "criteria": {
+      "iter_get_voidquartz_0": "2025-06-06 23:12:06 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
     },
     "done": true
   },
