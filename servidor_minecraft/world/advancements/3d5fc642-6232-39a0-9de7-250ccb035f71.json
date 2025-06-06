@@ -133,6 +133,7 @@
       "minecraft:frozen_ocean": "2025-06-04 19:50:17 +0000",
       "minecraft:ocean": "2025-06-04 19:16:55 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-04 21:43:43 +0000",
+      "minecraft:frozen_peaks": "2025-06-06 22:57:31 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 17:16:26 +0000",
       "minecraft:meadow": "2025-06-04 16:52:46 +0000",
       "minecraft:plains": "2025-06-04 21:23:23 +0000"
@@ -4193,6 +4194,7 @@
       "minecraft:phantom": "2025-06-04 20:36:52 +0000",
       "minecraft:witch": "2025-06-04 21:44:32 +0000",
       "minecraft:wither_skeleton": "2025-06-04 20:56:48 +0000",
+      "minecraft:husk": "2025-06-06 23:01:22 +0000",
       "minecraft:cave_spider": "2025-06-04 19:48:23 +0000",
       "minecraft:piglin": "2025-06-04 20:30:57 +0000",
       "minecraft:stray": "2025-06-06 22:06:16 +0000",
@@ -7217,77 +7219,65 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
+      "requirement": "2025-06-06 23:02:43 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "knightquest:recipes/misc/veteran_boots": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "knightquest:recipes/misc/hollow_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "knightquest:recipes/misc/hollow_boots": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "knightquest:recipes/misc/veteran_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "knightquest:recipes/misc/veteran_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "knightquest:recipes/misc/hollow_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "knightquest:recipes/misc/veteran_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 22:53:10 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

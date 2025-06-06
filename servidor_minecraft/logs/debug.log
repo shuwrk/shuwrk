@@ -23241,3 +23241,420 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [06Jun2025 22:54:03.856] [Server thread/INFO] [Jade/]: Syncing config to wachinango (3d5fc642-6232-39a0-9de7-250ccb035f71)
 [06Jun2025 22:54:03.960] [Netty Epoll Server IO #6/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from wachinango
 [06Jun2025 22:54:04.457] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749250444421
+[06Jun2025 22:54:14.542] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:54:14.542] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[06Jun2025 22:54:14.542] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[06Jun2025 22:54:14.543] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[06Jun2025 22:54:14.543] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundRenameItemPacket  id 35 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:54:14.544] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134393_": "pX�\u0007��&���b�qR��\u0012\u00190T�512\u0000���*p\u000b�����*�\u0006�y\u0014�A⡭\n�F\u0002�|���\u0013\u0012�=\u0002)�\u001aw�%�n���2�\n��aJ��0��T}\u001e~xw^׶�tJ\u0019\u0012[g܂j��"
+}
+[06Jun2025 22:54:14.544] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 35 data of 229 extra bytes: 
+[06Jun2025 22:54:14.545] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Jp\\CnBX~Lw}Ym=QJ::urGK:`9w.KX5y.Q#qN^U:ZE+T#N~ rqFO!{/r_T*EBQ9ay-O5+!U< Lv{Q|"
+]
+[06Jun2025 22:54:21.926] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/jungle/base_plate
+[06Jun2025 22:54:21.932] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/dark_forest/base_plate
+[06Jun2025 22:54:21.939] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/mountain/base_plate
+[06Jun2025 22:54:21.947] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/plains/base_plate
+[06Jun2025 22:54:21.954] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/taiga/base_plate
+[06Jun2025 22:54:21.961] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/swamp/base_plate
+[06Jun2025 22:54:21.968] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/base_plate
+[06Jun2025 22:54:21.975] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/snowy/base_plate
+[06Jun2025 22:54:21.983] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/desert/base_plate
+[06Jun2025 22:54:21.990] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/base_plate
+[06Jun2025 22:54:22.009] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/badlands/base_plate
+[06Jun2025 22:54:27.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[06Jun2025 22:54:44.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[06Jun2025 22:54:56.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Economy]
+[06Jun2025 22:54:58.869] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=4003, y=25, z=-2233} at Barrel with:minecraft:chests/simple_dungeon
+[06Jun2025 22:55:07.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[06Jun2025 22:55:19.584] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:furnished/castle
+[06Jun2025 22:55:19.596] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/horse
+[06Jun2025 22:55:19.597] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:mobs/skeleton
+[06Jun2025 22:55:20.145] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=3994, y=-19, z=-2327} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:55:21.429] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[06Jun2025 22:55:21.429] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[06Jun2025 22:55:21.429] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[06Jun2025 22:55:23.335] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_desert_grave/small_desert_grave_12
+[06Jun2025 22:55:23.346] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ring2
+[06Jun2025 22:55:24.716] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=3841, y=58, z=-2306} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:55:24.775] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=4169, y=-23, z=-2317} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:55:25.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3291ms or 65 ticks behind
+[06Jun2025 22:55:32.151] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=4217, y=1, z=-2194} at Barrel with:minecraft:chests/underwater_ruin_big
+[06Jun2025 22:55:42.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[06Jun2025 22:55:48.059] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=3912, y=-36, z=-2411} at Barrel with:minecraft:chests/simple_dungeon
+[06Jun2025 22:55:53.208] [Server thread/DEBUG] [ModernFix/]: Structure iter_rpg:goblin_camp_medium is being run through DFU (hash b6c4871a1dbcd35a7291ce0125f95d0df3d1c3b8374a5b8ac7137d05acaaf864), this will cause launch time delays
+[06Jun2025 22:55:53.384] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=4034, y=35, z=-2433} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:56:05.469] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:temple/temple_ruin
+[06Jun2025 22:56:07.792] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 22:56:12.826] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=4023, y=-52, z=-2505} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:56:23.300] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[06Jun2025 22:56:23.300] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 22:56:23.300] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 22:56:23.371] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 22:56:23.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 22:56:23.402] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[06Jun2025 22:56:24.948] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:harvest/manor2/graveyard_large
+[06Jun2025 22:56:25.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[06Jun2025 22:56:39.419] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:56:39.419] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 84
+}
+[06Jun2025 22:56:39.419] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 22:56:39.420] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "=@nxZl3!L=cwj&352|x`"
+]
+[06Jun2025 22:56:40.265] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:56:40.266] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1541
+}
+[06Jun2025 22:56:40.266] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[06Jun2025 22:56:40.266] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  " xwk{|?4x#TaH\"lem352Bd=#j("
+]
+[06Jun2025 22:56:51.963] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[06Jun2025 22:56:54.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[06Jun2025 22:57:11.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
+[06Jun2025 22:57:19.295] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=4191, y=-3, z=-2445} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:57:21.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/tower
+[06Jun2025 22:57:21.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/feature_plates
+[06Jun2025 22:57:21.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/golem_cage
+[06Jun2025 22:57:21.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/ship
+[06Jun2025 22:57:21.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/cage
+[06Jun2025 22:57:21.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/ravager_cage
+[06Jun2025 22:57:21.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/targets
+[06Jun2025 22:57:21.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/beach/allays_cage
+[06Jun2025 22:57:26.266] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:irongolemboss at BlockPos{x=4156, y=81, z=-2524} at Chest with:valhelsia_structures:chests/castle
+[06Jun2025 22:57:27.703] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=4126, y=-49, z=-2550} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:57:27.849] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[06Jun2025 22:57:30.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3588ms or 71 ticks behind
+[06Jun2025 22:57:30.497] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[06Jun2025 22:57:31.796] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:simple_dungeon5
+[06Jun2025 22:57:35.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wachinango moved too quickly! 0.06900266581533288,-2.3017035826546106,-9.9986023535007
+[06Jun2025 22:57:38.735] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of valhelsia_structures:ruins/tower_ruin_2
+[06Jun2025 22:57:38.753] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[06Jun2025 22:57:38.759] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[06Jun2025 22:57:38.792] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[06Jun2025 22:57:38.800] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[06Jun2025 22:57:38.893] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1 is being run through DFU (hash b8b12295d93b5da172231e437ecb527d00901657537eae5a5a30d6f971865780), this will cause launch time delays
+[06Jun2025 22:57:39.089] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[06Jun2025 22:57:39.108] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_1
+[06Jun2025 22:57:39.119] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[06Jun2025 22:57:39.120] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[06Jun2025 22:57:39.151] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[06Jun2025 22:57:39.200] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[06Jun2025 22:57:39.216] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[06Jun2025 22:57:39.219] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[06Jun2025 22:57:39.265] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_turn_0
+[06Jun2025 22:57:39.272] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[06Jun2025 22:57:39.291] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[06Jun2025 22:57:39.321] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[06Jun2025 22:57:39.328] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[06Jun2025 22:57:39.375] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[06Jun2025 22:57:39.420] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[06Jun2025 22:57:39.430] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_1 is being run through DFU (hash 1b76022040df1733fa807a501281a93fdc996931b659899e009d837d595dfe05), this will cause launch time delays
+[06Jun2025 22:57:39.462] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[06Jun2025 22:57:39.475] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[06Jun2025 22:57:40.185] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[06Jun2025 22:57:40.409] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[06Jun2025 22:57:40.430] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[06Jun2025 22:57:40.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/straight
+[06Jun2025 22:57:40.713] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_1
+[06Jun2025 22:57:40.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/priest_tower
+[06Jun2025 22:57:40.723] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_3
+[06Jun2025 22:57:40.724] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/bench
+[06Jun2025 22:57:40.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_3
+[06Jun2025 22:57:40.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_1
+[06Jun2025 22:57:40.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_4
+[06Jun2025 22:57:40.737] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/mason
+[06Jun2025 22:57:40.739] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/well
+[06Jun2025 22:57:40.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_5
+[06Jun2025 22:57:40.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_1
+[06Jun2025 22:57:40.744] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_4
+[06Jun2025 22:57:40.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_1
+[06Jun2025 22:57:40.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/weaponsmith
+[06Jun2025 22:57:40.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_2
+[06Jun2025 22:57:40.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_2
+[06Jun2025 22:57:40.749] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_3
+[06Jun2025 22:57:40.750] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_2
+[06Jun2025 22:57:40.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/smith
+[06Jun2025 22:57:40.752] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_2
+[06Jun2025 22:57:40.756] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/med_1
+[06Jun2025 22:57:40.757] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_2
+[06Jun2025 22:57:40.758] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_1
+[06Jun2025 22:57:40.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/chemist
+[06Jun2025 22:57:40.764] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/butcher
+[06Jun2025 22:57:40.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/shepherd
+[06Jun2025 22:57:40.770] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/library
+[06Jun2025 22:57:40.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/terminator
+[06Jun2025 22:57:40.773] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/farm
+[06Jun2025 22:57:40.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/cartography
+[06Jun2025 22:57:40.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/melon_2
+[06Jun2025 22:57:40.780] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/med_2
+[06Jun2025 22:57:40.781] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/armoursmith
+[06Jun2025 22:57:40.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/stall_2
+[06Jun2025 22:57:41.549] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=3986, y=55, z=-2607} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:57:53.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8075ms or 161 ticks behind
+[06Jun2025 22:57:53.205] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 22:57:53.798] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 22:57:54.407] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 22:58:05.862] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 22:58:14.806] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6727ms or 134 ticks behind
+[06Jun2025 22:58:16.174] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_corner
+[06Jun2025 22:58:16.203] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin2
+[06Jun2025 22:58:25.842] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jun2025 22:58:26.769] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=4309, y=-22, z=-2616} at Barrel with:minecraft:chests/simple_dungeon
+[06Jun2025 22:58:31.228] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | New Performance Mode = Medium
+[06Jun2025 22:58:31.228] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Sculk Unit Population = 150
+[06Jun2025 22:58:31.228] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Nodes Active = 1
+[06Jun2025 22:58:31.228] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Max Infector Cursor Population = 150
+[06Jun2025 22:58:31.228] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursor population threshold to activate cursor performance mode = 125
+[06Jun2025 22:58:31.228] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Cursors to tick per tick when cursor performance mode is active = 25
+[06Jun2025 22:58:31.228] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Delay between cursor ticks when cursor performance mode is active = 1
+[06Jun2025 22:58:31.228] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: AutoPerformanceSystem | Thanos Snap Cursors = false
+[06Jun2025 22:58:37.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7399ms or 147 ticks behind
+[06Jun2025 22:58:41.453] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 22:58:57.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5530ms or 110 ticks behind
+[06Jun2025 22:59:17.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5173ms or 103 ticks behind
+[06Jun2025 22:59:37.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5084ms or 101 ticks behind
+[06Jun2025 22:59:43.497] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=4375, y=-4, z=-2498} at Chest with:minecraft:chests/shipwreck_supply
+[06Jun2025 22:59:48.064] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:59:48.065] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 2040453
+}
+[06Jun2025 22:59:48.065] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[06Jun2025 22:59:48.065] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "u:p-&9n464XE*y3"
+]
+[06Jun2025 22:59:55.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2883ms or 57 ticks behind
+[06Jun2025 22:59:56.823] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 22:59:57.332] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 22:59:57.828] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 22:59:58.323] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:00:25.122] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [3d5fc642-6232-39a0-9de7-250ccb035f71]
+[06Jun2025 23:00:28.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[06Jun2025 23:00:45.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
+[06Jun2025 23:00:46.745] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:00:51.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[06Jun2025 23:00:56.945] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=849, y=30, z=-578} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:01:03.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[06Jun2025 23:01:21.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
+[06Jun2025 23:01:26.606] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jun2025 23:01:39.783] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:01:40.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4370ms or 87 ticks behind
+[06Jun2025 23:02:02.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6313ms or 126 ticks behind
+[06Jun2025 23:02:08.448] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:02:08.448] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1
+}
+[06Jun2025 23:02:08.448] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 23:02:08.449] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "b~>P+l]V352OVX_m"
+]
+[06Jun2025 23:02:08.545] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 23:02:08.545] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 4801
+}
+[06Jun2025 23:02:08.545] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 66 extra bytes: 
+[06Jun2025 23:02:08.546] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "tyr~6N/fi6352S9i,ea2sDuS"
+]
+[06Jun2025 23:02:16.528] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:23.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5841ms or 116 ticks behind
+[06Jun2025 23:02:24.125] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:24.259] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:24.667] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:25.155] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:25.602] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:26.549] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:27.078] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:27.542] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:28.113] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:28.565] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:29.055] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:29.599] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:30.056] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:30.600] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:31.146] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:31.598] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:32.118] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:32.593] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:33.123] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:33.636] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:34.093] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:34.619] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:35.122] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:35.625] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:36.136] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:36.628] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:37.103] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:37.640] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:38.096] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:38.653] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:39.095] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:39.609] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:40.098] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:40.605] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:41.121] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:41.617] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:42.149] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:42.598] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:43.116] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:43.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5237ms or 104 ticks behind
+[06Jun2025 23:02:43.681] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[06Jun2025 23:02:43.681] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 23:02:43.681] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 23:02:43.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 23:02:43.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 23:02:43.801] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:43.806] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[06Jun2025 23:02:44.189] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:44.654] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:45.110] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:45.642] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:46.138] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:46.648] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:47.093] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:49.312] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:49.864] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:55.524] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:56.020] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:56.502] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:57.063] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:57.574] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:58.042] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:58.591] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:59.087] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:02:59.552] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:00.097] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:00.558] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:01.096] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:01.545] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:02.073] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:02.921] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:03.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5420ms or 108 ticks behind
+[06Jun2025 23:03:03.953] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:04.481] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:05.018] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:05.464] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:05.952] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:06.449] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:06.981] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:07.455] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:07.976] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:08.438] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:08.948] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:09.455] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:10.149] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:11.348] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:12.056] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:12.703] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:13.427] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:14.012] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:14.773] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:15.447] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:16.071] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:16.741] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:20.205] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:20.659] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:21.141] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:23.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5214ms or 104 ticks behind
+[06Jun2025 23:03:24.010] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:24.483] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:25.148] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:34.232] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:37.562] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:38.066] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:38.649] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:39.158] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:39.649] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:40.170] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:40.746] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:40.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Labyrinth]
+[06Jun2025 23:03:41.245] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:42.702] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:43.208] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:43.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4847ms or 96 ticks behind
+[06Jun2025 23:03:56.148] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:56.741] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:57.206] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:03:57.849] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:00.559] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:00.622] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/boat/2/bottom
+[06Jun2025 23:04:04.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5556ms or 111 ticks behind
+[06Jun2025 23:04:07.418] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:07.985] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:08.478] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/table2
+[06Jun2025 23:04:08.519] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:09.245] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:09.770] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:11.514] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=46, y=-58, z=-81}
+[06Jun2025 23:04:11.514] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=45, y=-57, z=-79}
+[06Jun2025 23:04:11.515] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=47, y=-58, z=-78}
+[06Jun2025 23:04:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Labyrinth]
+[06Jun2025 23:04:12.617] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:12.812] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=4296, y=-36, z=-2747} at Barrel with:minecraft:chests/simple_dungeon
+[06Jun2025 23:04:14.912] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/straight
+[06Jun2025 23:04:14.920] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_1
+[06Jun2025 23:04:14.922] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_1
+[06Jun2025 23:04:14.923] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_2
+[06Jun2025 23:04:14.925] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_3
+[06Jun2025 23:04:14.926] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_4
+[06Jun2025 23:04:14.927] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/small_5
+[06Jun2025 23:04:14.930] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_1
+[06Jun2025 23:04:14.933] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/med_2
+[06Jun2025 23:04:14.937] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/big_1
+[06Jun2025 23:04:14.939] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/house/big_2
+[06Jun2025 23:04:14.941] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/butcher
+[06Jun2025 23:04:14.942] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/cartography
+[06Jun2025 23:04:14.943] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/chemist
+[06Jun2025 23:04:14.947] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/library
+[06Jun2025 23:04:14.948] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/shepherd
+[06Jun2025 23:04:14.950] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/mason
+[06Jun2025 23:04:14.950] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/pen
+[06Jun2025 23:04:14.951] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/farm
+[06Jun2025 23:04:14.953] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/smith
+[06Jun2025 23:04:14.955] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/jobsite/priest_tower
+[06Jun2025 23:04:14.957] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_1
+[06Jun2025 23:04:14.957] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_2
+[06Jun2025 23:04:14.957] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_3
+[06Jun2025 23:04:14.958] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/lamp_4
+[06Jun2025 23:04:14.958] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/well
+[06Jun2025 23:04:14.959] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/hay_bale
+[06Jun2025 23:04:14.959] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/decos/wagon
+[06Jun2025 23:04:14.985] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_2
+[06Jun2025 23:04:14.991] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/t_3
+[06Jun2025 23:04:15.089] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_2
+[06Jun2025 23:04:15.348] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/inter
+[06Jun2025 23:04:15.854] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/bent_1
+[06Jun2025 23:04:15.855] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains/roads/terminator
+[06Jun2025 23:04:18.948] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=4144, y=-49, z=-2789} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:04:24.656] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:25.143] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_03
+[06Jun2025 23:04:25.159] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:25.675] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:26.190] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:26.789] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:27.315] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 23:04:27.552] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=3980, y=-41, z=-2668} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 23:04:28.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9546ms or 190 ticks behind
+[06Jun2025 23:04:31.171] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
