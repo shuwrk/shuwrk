@@ -8221,9 +8221,57 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-06 22:27:12 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_boots": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-06-06 22:01:47 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
     },
     "done": true
   },
@@ -8233,9 +8281,51 @@
     },
     "done": true
   },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 22:29:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 21:49:11 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
     },
     "done": true
   },
@@ -8245,9 +8335,93 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 21:49:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-06-06 22:24:28 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
     },
     "done": true
   },
@@ -8269,9 +8443,75 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-06-06 21:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 22:29:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-06 22:27:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-06-06 22:24:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
     },
     "done": true
   },
@@ -8284,6 +8524,54 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 21:49:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-06-06 22:24:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
     },
     "done": true
   },
@@ -8302,6 +8590,48 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-06 21:49:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-06 22:27:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_downgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
     },
     "done": true
   },
@@ -8329,6 +8659,24 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-06-06 21:49:11 +0000"
@@ -8338,6 +8686,18 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-06-06 21:49:11 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_hoe": {
+    "criteria": {
+      "has_iron_block": "2025-06-06 22:25:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-06-06 22:22:54 +0000"
     },
     "done": true
   },

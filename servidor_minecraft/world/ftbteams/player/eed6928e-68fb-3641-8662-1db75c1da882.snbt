@@ -2,9 +2,7 @@
 	id: "eed6928e-68fb-3641-8662-1db75c1da882"
 	type: "player"
 	player_name: "UniFoxyR"
-	ranks: {
-		eed6928e-68fb-3641-8662-1db75c1da882: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "UniFoxyR"
 		"ftbteams:description": ""

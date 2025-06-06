@@ -20892,3 +20892,126 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [06Jun2025 22:22:58.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3448ms or 68 ticks behind
 [06Jun2025 22:23:01.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:simple_dungeon4
 [06Jun2025 22:23:18.626] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[06Jun2025 22:24:04.287] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:24:04.288] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6
+}
+[06Jun2025 22:24:04.288] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 175 extra bytes: 
+[06Jun2025 22:24:04.288] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ".ifb}0W\\352:?;C{cw {]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Png:IYCeWh"
+]
+[06Jun2025 22:24:07.490] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:24:07.491] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 41
+}
+[06Jun2025 22:24:07.491] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 22:24:07.491] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~70s`i88UeX1Kd352wXu["
+]
+[06Jun2025 22:24:20.624] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[06Jun2025 22:24:41.326] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/doorway
+[06Jun2025 22:24:45.400] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=3485, y=-11, z=-1735} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:24:45.569] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=3572, y=89, z=-1743} at Chest with:minecraft:chests/ruined_portal
+[06Jun2025 22:24:50.190] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/cooking/CookingLogic$1 (target of net/minecraftforge/items/IItemHandler)
+[06Jun2025 22:24:50.192] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/p3pp3rf1y/sophisticatedcore/upgrades/cooking/CookingLogicContainer$1 (target of net/minecraft/world/inventory/Slot)
+[06Jun2025 22:24:52.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:simple_dungeon1
+[06Jun2025 22:24:54.362] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/northern_ruins/mound_castle_small
+[06Jun2025 22:24:56.626] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[06Jun2025 22:24:56.637] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_2
+[06Jun2025 22:24:56.642] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[06Jun2025 22:24:56.650] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[06Jun2025 22:24:56.659] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[06Jun2025 22:24:56.669] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_2
+[06Jun2025 22:24:56.673] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_0
+[06Jun2025 22:24:56.722] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=3655, y=-16, z=-1779} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:24:57.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Jun2025 22:25:06.096] [Server thread/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-71, y=-48, z=-26}
+[06Jun2025 22:25:11.913] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=3843, y=-32, z=-1787} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:25:11.962] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=3872, y=-27, z=-1526} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:25:15.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2731ms or 54 ticks behind
+[06Jun2025 22:25:26.564] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:25:26.564] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1291
+}
+[06Jun2025 22:25:26.564] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 71 extra bytes: 
+[06Jun2025 22:25:26.564] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Q7^o;Byw+~gq464grvwqIAYry{]"
+]
+[06Jun2025 22:25:37.464] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin3
+[06Jun2025 22:25:43.311] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=3996, y=-9, z=-1660} at Chest with:minecraft:chests/simple_dungeon
+[06Jun2025 22:25:47.114] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[06Jun2025 22:25:47.114] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 22:25:47.114] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 22:25:47.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 22:25:47.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 22:25:47.218] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[06Jun2025 22:25:52.666] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=3994, y=47, z=-1830} at Chest with:minecraft:chests/underwater_ruin_small
+[06Jun2025 22:26:01.756] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/ruin2
+[06Jun2025 22:26:02.750] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=3768, y=-21, z=-1925} at Barrel with:minecraft:chests/simple_dungeon
+[06Jun2025 22:26:24.225] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=3979, y=-17, z=-1960} at Barrel with:minecraft:chests/simple_dungeon
+[06Jun2025 22:26:32.720] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/swamp/pool2
+[06Jun2025 22:26:33.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wachinango has made the advancement [Jaws]
+[06Jun2025 22:26:34.354] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=3874, y=-4, z=-2025} at Chest with:minecraft:chests/shipwreck_supply
+[06Jun2025 22:27:02.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Toll the Bell]
+[06Jun2025 22:27:10.977] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=3656, y=-25, z=-1963} at Barrel with:minecraft:chests/simple_dungeon
+[06Jun2025 22:27:12.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Hidden in the Depths]
+[06Jun2025 22:27:33.485] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [4fa92207-2692-4e6e-8bff-485b64c6b572]
+[06Jun2025 22:27:41.005] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=4168, y=-39, z=-1851} at Barrel with:minecraft:chests/simple_dungeon
+[06Jun2025 22:27:44.342] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[06Jun2025 22:27:45.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Immaterial and Missing Power]
+[06Jun2025 22:28:11.983] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory:outcast_villager/medium2
+[06Jun2025 22:28:13.813] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/ruin3
+[06Jun2025 22:28:17.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [The Devil has its Price]
+[06Jun2025 22:28:22.782] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jun2025 22:28:40.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[06Jun2025 22:28:40.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[06Jun2025 22:29:24.379] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [a660b3c2-886c-4ebb-81eb-440aff010209]
+[06Jun2025 22:29:24.710] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [a660b3c2-886c-4ebb-81eb-440aff010209]
+[06Jun2025 22:29:25.726] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [a660b3c2-886c-4ebb-81eb-440aff010209]
+[06Jun2025 22:29:27.489] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:29:27.489] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 87
+}
+[06Jun2025 22:29:27.490] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[06Jun2025 22:29:27.490] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1@W})'(v6w352D['@,"
+]
+[06Jun2025 22:29:30.864] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:29:30.864] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3190
+}
+[06Jun2025 22:29:30.864] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 72 extra bytes: 
+[06Jun2025 22:29:30.864] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "rVwRy>\"=t4:W)352jmkcr~1l.;D@{]"
+]
+[06Jun2025 22:30:09.530] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [a660b3c2-886c-4ebb-81eb-440aff010209]
+[06Jun2025 22:30:19.462] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[06Jun2025 22:30:34.120] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=4118, y=84, z=-1512} at Barrel with:minecraft:chests/simple_dungeon
+[06Jun2025 22:30:36.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iter_rpg:goblin_fortress
+[06Jun2025 22:30:50.413] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[06Jun2025 22:30:50.413] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[06Jun2025 22:30:50.413] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[06Jun2025 22:30:50.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 22:30:50.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 22:30:50.516] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[06Jun2025 22:30:54.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Jackpot]
+[06Jun2025 22:32:18.581] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[06Jun2025 22:32:18.582] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 85488
+}
+[06Jun2025 22:32:18.582] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 70 extra bytes: 
+[06Jun2025 22:32:18.582] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "GORTtl8,!w%464wK`6Cf|W(X.{]u"
+]

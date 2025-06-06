@@ -1,0 +1,17 @@
+{
+	id: "9bca9916-68bc-426f-83f7-dfec2d4e2e4b"
+	type: "party"
+	owner: "eed6928e-68fb-3641-8662-1db75c1da882"
+	ranks: {
+		eed6928e-68fb-3641-8662-1db75c1da882: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "los webolas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF7B"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1749248688214L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"UniFoxyR\"}]}" }]
+	extra: { }
+}
