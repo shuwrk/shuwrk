@@ -7221,88 +7221,81 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "knightquest:recipes/misc/hollow_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-06 23:44:52 +0000",
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "knightquest:recipes/misc/veteran_boots": {
     "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-06 23:44:18 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-06-06 23:31:05 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "knightquest:recipes/misc/hollow_chestplate": {
     "criteria": {
-      "has_chicken": "2025-06-06 23:22:19 +0000"
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_boots": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_helmet": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_leggings": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/hollow_helmet": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_chestplate": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-06-06 23:11:36 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-06-06 23:11:36 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_get_voidquartz": {
+    "criteria": {
+      "iter_get_voidquartz_0": "2025-06-06 23:12:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-06-06 23:15:27 +0000"
     },
     "done": true
   },
@@ -7312,9 +7305,93 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/hollow_leggings": {
+  "dungeonnowloading:recipes/combat/spawner_boots": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
+      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-06 23:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-06 23:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-06-06 23:18:47 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/skull_of_chaos": {
+    "criteria": {
+      "has_the_recipe": "2025-06-06 23:19:52 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
+    "criteria": {
+      "awaken_chaos_spawner": "2025-06-06 23:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-06-06 23:21:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-06 23:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-06 23:22:19 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-06 23:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-06 23:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-06-06 23:31:05 +0000"
     },
     "done": true
   },
@@ -7330,54 +7407,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-06-06 23:22:19 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/find_labyrinth": {
-    "criteria": {
-      "find_labyrinth": "2025-06-06 23:11:36 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/larch_shrub": {
-    "criteria": {
-      "has_larch_sapling": "2025-06-06 23:39:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-06-06 23:21:51 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/spawner_boots": {
-    "criteria": {
-      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2025-06-06 23:44:02 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
-    "criteria": {
-      "awaken_chaos_spawner": "2025-06-06 23:21:13 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/veteran_boots": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:31:05 +0000"
@@ -7387,24 +7416,6 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:31:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-06-06 23:18:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-06-06 23:36:23 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/hollow_chestplate": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
     "done": true
   },
@@ -7420,39 +7431,9 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/spawner_leggings": {
-    "criteria": {
-      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/hollow_boots": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:31:05 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/flint_and_steel_repairing": {
-    "criteria": {
-      "has_flint_and_steel": "2025-06-06 23:38:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-06-06 23:18:47 +0000"
     },
     "done": true
   },
@@ -7462,39 +7443,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/veteran_helmet": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/misc/skull_of_chaos": {
-    "criteria": {
-      "has_the_recipe": "2025-06-06 23:19:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:31:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2025-06-06 23:44:02 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/burnt/burnt/chicken": {
-    "criteria": {
-      "has_chicken": "2025-06-06 23:22:19 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-06-06 23:41:53 +0000"
     },
     "done": true
   },
@@ -7522,24 +7473,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/veteran_leggings": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-06-06 23:15:27 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/spawner_helmet": {
-    "criteria": {
-      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:31:05 +0000"
@@ -7552,33 +7485,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-06-06 23:11:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:31:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-06-06 23:22:19 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/hollow_helmet": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/veteran_chestplate": {
-    "criteria": {
-      "has_enchanted_golden_apple": "2025-06-06 23:01:30 +0000"
     },
     "done": true
   },
@@ -7612,21 +7521,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-06-06 23:18:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:31:05 +0000"
-    },
-    "done": true
-  },
-  "iter_rpg:iter_get_voidquartz": {
-    "criteria": {
-      "iter_get_voidquartz_0": "2025-06-06 23:12:06 +0000"
     },
     "done": true
   },
@@ -7636,15 +7533,51 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/misc/spawner_blade": {
-    "criteria": {
-      "has_spawner_frame": "2025-06-06 23:16:02 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/deepslate_leggings": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-06-06 23:36:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-06-06 23:38:32 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_shrub": {
+    "criteria": {
+      "has_larch_sapling": "2025-06-06 23:39:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-06 23:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-06-06 23:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-06-06 23:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-06-06 23:50:18 +0000"
     },
     "done": true
   },

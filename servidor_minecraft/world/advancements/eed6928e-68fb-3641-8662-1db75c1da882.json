@@ -8255,6 +8255,12 @@
     },
     "done": true
   },
+  "meetyourfight:main/rosalyne_kill": {
+    "criteria": {
+      "get_item": "2025-06-06 23:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-06-06 23:18:57 +0000"
@@ -8534,6 +8540,12 @@
   "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
     "criteria": {
       "has_chaotic_hexahedron": "2025-06-06 23:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-06 23:44:02 +0000"
     },
     "done": true
   },

@@ -8992,6 +8992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-06-06 23:44:20 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
     "criteria": {
       "obtain_chaotic_hexahedron": "2025-06-06 23:24:10 +0000"
@@ -9133,6 +9139,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-06-06 23:48:18 +0000"
     },
     "done": true
   },
@@ -9313,6 +9325,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-06 23:05:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-06-06 23:48:15 +0000"
     },
     "done": true
   },
