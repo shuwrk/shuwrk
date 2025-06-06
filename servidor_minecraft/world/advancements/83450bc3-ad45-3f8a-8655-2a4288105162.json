@@ -8208,5 +8208,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-06-06 21:29:38 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-06-06 21:32:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
