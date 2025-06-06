@@ -8081,5 +8081,17 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2025-06-06 21:41:09 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-06-06 21:48:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
