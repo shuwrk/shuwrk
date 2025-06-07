@@ -3198,6 +3198,7 @@
       "autumnal_maple_forest": "2025-06-04 21:35:08 +0000",
       "willow_forest": "2025-06-04 21:19:29 +0000",
       "frozen_tundra": "2025-06-04 21:47:38 +0000",
+      "poppy_fields": "2025-06-07 00:58:19 +0000",
       "grassy_beach": "2025-06-04 19:05:40 +0000",
       "blackwood_taiga": "2025-06-04 17:15:33 +0000",
       "rocky_meadow": "2025-06-04 21:20:24 +0000",
@@ -3213,6 +3214,7 @@
       "temperate_grove": "2025-06-04 16:13:59 +0000",
       "cold_river": "2025-06-04 16:25:21 +0000",
       "gravel_beach": "2025-06-04 21:35:27 +0000",
+      "golden_boreal_taiga": "2025-06-07 01:01:50 +0000",
       "lupine_plains": "2025-06-04 21:18:24 +0000"
     },
     "done": false
@@ -3227,6 +3229,7 @@
       "autumnal_maple_forest": "2025-06-04 21:35:08 +0000",
       "willow_forest": "2025-06-04 21:19:29 +0000",
       "frozen_tundra": "2025-06-04 21:47:38 +0000",
+      "poppy_fields": "2025-06-07 00:58:19 +0000",
       "grassy_beach": "2025-06-04 19:05:40 +0000",
       "blackwood_taiga": "2025-06-04 17:15:33 +0000",
       "rocky_meadow": "2025-06-04 21:20:24 +0000",
@@ -3239,6 +3242,7 @@
       "temperate_grove": "2025-06-04 16:13:59 +0000",
       "cold_river": "2025-06-04 16:25:21 +0000",
       "gravel_beach": "2025-06-04 21:35:27 +0000",
+      "golden_boreal_taiga": "2025-06-07 01:01:50 +0000",
       "lupine_plains": "2025-06-04 21:18:24 +0000"
     },
     "done": false
@@ -6167,7 +6171,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-06-04 20:42:13 +0000",
-      "minecraft:nether_wastes": "2025-06-04 20:24:57 +0000"
+      "minecraft:nether_wastes": "2025-06-04 20:24:57 +0000",
+      "minecraft:soul_sand_valley": "2025-06-07 00:53:50 +0000"
     },
     "done": false
   },
@@ -7575,88 +7580,123 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:adventure/throw_trident": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-07 00:42:38 +0000",
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+      "shot_trident": "2025-06-06 23:50:18 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+      "has_andesite": "2025-06-06 23:56:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+      "has_andesite": "2025-06-06 23:56:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "regions_unexplored:recipes/building_blocks/prismoss": {
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
-      "has_stone": "2025-06-07 00:13:25 +0000"
+      "has_andesite": "2025-06-06 23:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 23:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 23:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 23:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-06-06 23:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-06-06 23:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-06-06 23:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-06-06 23:56:30 +0000"
     },
     "done": true
   },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-06-06 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-06-06 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-06-06 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-06 23:57:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-06-06 23:58:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "swarm_spider": "2025-06-07 00:01:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-06-07 00:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-06-07 00:03:15 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/prismoss": {
+    "criteria": {
+      "has_stone": "2025-06-07 00:13:25 +0000"
     },
     "done": true
   },
@@ -7678,39 +7718,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-06 23:56:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-06-07 00:18:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-06-07 00:13:25 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "swarm_spider": "2025-06-07 00:01:06 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/blue_ice_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-06-06 23:57:59 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
-    "criteria": {
-      "has_water_bucket": "2025-06-06 23:57:59 +0000"
     },
     "done": true
   },
@@ -7723,12 +7733,6 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-06-07 00:13:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-06 23:56:30 +0000"
     },
     "done": true
   },
@@ -7768,18 +7772,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-06-06 23:56:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-07 00:21:19 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/building_blocks/stone_grass_block": {
     "criteria": {
       "has_stone": "2025-06-07 00:13:25 +0000"
@@ -7810,69 +7802,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/throw_trident": {
-    "criteria": {
-      "shot_trident": "2025-06-06 23:50:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-06-07 00:21:19 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/silverfish_boots": {
     "criteria": {
       "has_stone": "2025-06-07 00:13:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-06-07 00:21:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-06 23:56:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-06-06 23:57:59 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/diffusion/diffusion/lapis_ore": {
-    "criteria": {
-      "has_lapis_block": "2025-06-07 00:36:40 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/diffusion/diffusion/deepslate_lapis_ore": {
-    "criteria": {
-      "has_lapis_block": "2025-06-07 00:36:40 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:hill1": {
-    "criteria": {
-      "redcap": "2025-06-07 00:01:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-06 23:56:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-06 23:56:30 +0000"
     },
     "done": true
   },
@@ -7888,12 +7820,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-06-06 23:56:30 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/silverfish_leggings": {
     "criteria": {
       "has_stone": "2025-06-07 00:13:25 +0000"
@@ -7903,18 +7829,6 @@
   "justhammers:recipes/tools/stone_hammer": {
     "criteria": {
       "has_material": "2025-06-07 00:13:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-06-07 00:36:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite": {
-    "criteria": {
-      "has_andesite": "2025-06-06 23:56:30 +0000"
     },
     "done": true
   },
@@ -7930,33 +7844,189 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_andesite": "2025-06-06 23:56:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_slab": {
-    "criteria": {
-      "has_andesite": "2025-06-06 23:56:30 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:root": {
-    "criteria": {
-      "make_portal": "2025-06-06 23:58:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_copper": {
-    "criteria": {
-      "has_raw_copper_block": "2025-06-07 00:03:15 +0000"
+      "has_iron_nugget": "2025-06-07 00:18:07 +0000"
     },
     "done": true
   },
   "skilltree:recipes/misc/iron_ring": {
     "criteria": {
       "has_nuggets_iron": "2025-06-07 00:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 00:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 00:21:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-06-07 00:21:19 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/lapis_ore": {
+    "criteria": {
+      "has_lapis_block": "2025-06-07 00:36:40 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/deepslate_lapis_ore": {
+    "criteria": {
+      "has_lapis_block": "2025-06-07 00:36:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-06-07 00:36:40 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 00:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-07 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 00:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 00:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 00:56:49 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/hang_glider": {
+    "criteria": {
+      "has_the_recipe": "2025-06-07 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 00:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-06-07 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 00:56:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-06-07 00:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-07 00:56:49 +0000"
     },
     "done": true
   },

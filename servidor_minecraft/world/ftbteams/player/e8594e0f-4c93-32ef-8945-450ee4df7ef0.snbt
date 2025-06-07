@@ -1,0 +1,17 @@
+{
+	id: "e8594e0f-4c93-32ef-8945-450ee4df7ef0"
+	type: "player"
+	player_name: "Invenible"
+	ranks: {
+		e8594e0f-4c93-32ef-8945-450ee4df7ef0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Invenible"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C9FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
