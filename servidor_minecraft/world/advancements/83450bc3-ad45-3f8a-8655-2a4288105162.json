@@ -9415,77 +9415,125 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "l2complements:recipes/diffusion/diffusion/deepslate_diamond_ore": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "justhammers:recipes/tools/reinforced_impact_core": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_the_recipe": "2025-06-07 01:38:12 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_leggings": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_material": "2025-06-07 01:38:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_material": "2025-06-07 01:38:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "justhammers:recipes/tools/destructor_core": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_the_recipe": "2025-06-07 01:38:41 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/redstone/birch_door": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_the_recipe": "2025-06-07 01:18:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_hoe": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_pickaxe": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_sword": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-07 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_boots": {
+    "criteria": {
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-06-07 01:50:58 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-07 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_shovel": {
+    "criteria": {
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/diffusion/diffusion/diamond_ore": {
+    "criteria": {
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/diamond_axe": {
+    "criteria": {
+      "has_diamond_block": "2025-06-07 01:38:09 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

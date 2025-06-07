@@ -3184,7 +3184,8 @@
       "cooked_beef": "2025-06-04 16:28:42 +0000",
       "potato": "2025-06-04 16:38:01 +0000",
       "pumpkin_pie": "2025-06-04 16:38:07 +0000",
-      "bread": "2025-06-04 16:08:08 +0000"
+      "bread": "2025-06-04 16:08:08 +0000",
+      "enchanted_golden_apple": "2025-06-07 01:27:08 +0000"
     },
     "done": false
   },
@@ -7892,87 +7893,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_ancient_debris": "2025-06-07 00:49:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "ancient_debris": "2025-06-07 00:49:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_ancient_debris": "2025-06-07 00:49:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "hangglider:recipes/tools/hang_glider": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
+      "has_the_recipe": "2025-06-07 00:53:13 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:11 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-07 00:56:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-06-07 00:49:25 +0000"
     },
     "done": true
   },
@@ -7994,21 +7941,9 @@
     },
     "done": true
   },
-  "hangglider:recipes/tools/hang_glider": {
-    "criteria": {
-      "has_the_recipe": "2025-06-07 00:53:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-07 00:56:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-06-07 00:49:25 +0000"
     },
     "done": true
   },
@@ -8018,15 +7953,118 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-06-07 00:49:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-07 00:56:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-06-07 01:54:17 +0000",
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 01:54:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-07 01:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-07 01:28:11 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/burnt/burnt/ghast_tear": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-07 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-07 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2025-06-07 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-06-07 01:28:40 +0000"
     },
     "done": true
   },

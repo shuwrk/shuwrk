@@ -1398,6 +1398,7 @@
       "minecraft:piglin_brute": "2025-06-04 18:49:52 +0000",
       "minecraft:creeper": "2025-06-04 15:07:47 +0000",
       "minecraft:phantom": "2025-06-06 23:37:08 +0000",
+      "minecraft:zombified_piglin": "2025-06-07 01:55:24 +0000",
       "minecraft:witch": "2025-06-04 16:55:20 +0000",
       "minecraft:husk": "2025-06-04 15:24:40 +0000",
       "minecraft:cave_spider": "2025-06-06 23:04:50 +0000",
@@ -8750,75 +8751,357 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-07 01:07:12 +0000"
+      "log_spam_fixer": "2025-06-07 01:56:08 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-06-07 01:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-07 01:43:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-06-07 01:53:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_desk_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-07 01:44:55 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
