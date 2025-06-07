@@ -8099,6 +8099,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:18 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/building_blocks/prismoss": {
     "criteria": {
       "has_stone": "2025-06-06 22:19:13 +0000"
@@ -8108,6 +8180,12 @@
   "dungeonnowloading:recipes/combat/spawner_chestplate": {
     "criteria": {
       "has_spawner_frame": "2025-06-06 23:18:36 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_soul_fire_base_blocks": "2025-06-07 00:36:36 +0000"
     },
     "done": true
   },
@@ -8273,6 +8351,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-06-07 00:36:36 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/stone_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-06 22:19:13 +0000"
@@ -8351,6 +8435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-07 00:36:36 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/sea_leggings": {
     "criteria": {
       "has_phantom_membrane": "2025-06-06 22:33:08 +0000"
@@ -8423,6 +8513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-07 00:37:24 +0000"
+    },
+    "done": true
+  },
   "meetyourfight:main/dame_fortuna_kill": {
     "criteria": {
       "get_item": "2025-06-06 22:30:54 +0000"
@@ -8483,6 +8579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-07 00:36:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_core": "2025-06-06 22:34:24 +0000"
@@ -8528,6 +8630,12 @@
   "dungeonnowloading:recipes/combat/spawner_helmet": {
     "criteria": {
       "has_spawner_frame": "2025-06-06 23:18:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-07 00:37:24 +0000"
     },
     "done": true
   },

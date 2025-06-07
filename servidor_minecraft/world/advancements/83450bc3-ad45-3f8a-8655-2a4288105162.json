@@ -2078,6 +2078,7 @@
       "marsh": "2025-06-04 19:31:43 +0000",
       "willow_forest": "2025-06-04 18:10:35 +0000",
       "frozen_tundra": "2025-06-04 21:38:05 +0000",
+      "redstone_caves": "2025-06-07 00:39:17 +0000",
       "grassy_beach": "2025-06-04 18:11:02 +0000",
       "blackwood_taiga": "2025-06-04 18:02:57 +0000",
       "rocky_meadow": "2025-06-04 21:20:25 +0000",
@@ -5636,6 +5637,7 @@
   },
   "regions_unexplored:spelunker": {
     "criteria": {
+      "redstone_caves": "2025-06-07 00:39:17 +0000",
       "prismachasm": "2025-06-06 21:22:46 +0000",
       "bioshroom_caves": "2025-06-04 18:16:32 +0000"
     },
@@ -8882,6 +8884,78 @@
       "has_soul_sand": "2025-06-06 22:41:17 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-07 00:42:17 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
