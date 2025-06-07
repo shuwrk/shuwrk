@@ -8968,6 +8968,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/big_yellow_glazed_jar": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-06-06 23:56:28 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_boots": {
     "criteria": {
       "has_spawner_frame": "2025-06-06 23:24:07 +0000"
@@ -9202,6 +9208,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/yellow_glazed_jar": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-06-06 23:56:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-06-06 23:05:13 +0000"
@@ -9217,6 +9229,12 @@
   "deeperdarker:main/root": {
     "criteria": {
       "deep_dark": "2025-06-06 23:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-06-06 23:56:28 +0000"
     },
     "done": true
   },
