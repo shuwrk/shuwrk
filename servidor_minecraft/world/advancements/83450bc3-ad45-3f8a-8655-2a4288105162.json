@@ -115,6 +115,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-07 00:14:14 +0000",
       "minecraft:taiga": "2025-06-04 02:57:07 +0000",
       "minecraft:frozen_river": "2025-06-04 21:36:55 +0000",
       "minecraft:birch_forest": "2025-06-04 18:06:32 +0000",
@@ -2096,6 +2097,7 @@
       "spires": "2025-06-04 21:49:31 +0000",
       "gravel_beach": "2025-06-04 19:08:16 +0000",
       "redwoods": "2025-06-04 19:31:46 +0000",
+      "golden_boreal_taiga": "2025-06-07 00:14:06 +0000",
       "icy_heights": "2025-06-04 21:48:56 +0000",
       "bioshroom_caves": "2025-06-04 18:16:32 +0000",
       "lupine_plains": "2025-06-04 17:14:35 +0000"
@@ -2132,6 +2134,7 @@
       "spires": "2025-06-04 21:49:31 +0000",
       "gravel_beach": "2025-06-04 19:08:16 +0000",
       "redwoods": "2025-06-04 19:31:46 +0000",
+      "golden_boreal_taiga": "2025-06-07 00:14:06 +0000",
       "icy_heights": "2025-06-04 21:48:56 +0000",
       "lupine_plains": "2025-06-04 17:14:35 +0000"
     },
@@ -8992,6 +8995,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-06-07 00:15:30 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/reinforced_core": {
     "criteria": {
       "has_the_recipe": "2025-06-06 23:03:54 +0000"
@@ -9007,6 +9016,12 @@
   "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
     "criteria": {
       "obtain_chaotic_hexahedron": "2025-06-06 23:24:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_fishing_hut": {
+    "criteria": {
+      "location0": "2025-06-07 00:13:10 +0000"
     },
     "done": true
   },
@@ -9337,6 +9352,12 @@
   "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
       "loot_simple_dungeon": "2025-06-06 23:07:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-06-07 00:04:24 +0000"
     },
     "done": true
   },
