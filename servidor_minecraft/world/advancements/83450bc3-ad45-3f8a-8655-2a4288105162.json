@@ -8989,6 +8989,12 @@
     },
     "done": false
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-06-07 00:16:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
     "criteria": {
       "has_mossy_cobblestone": "2025-06-06 23:30:59 +0000"
@@ -9070,6 +9076,12 @@
   "regions_unexplored:recipes/building_blocks/brimwood_stairs": {
     "criteria": {
       "has_brimwood_planks": "2025-06-06 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-06-07 00:16:37 +0000"
     },
     "done": true
   },
