@@ -9604,6 +9604,12 @@
     },
     "done": true
   },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-06-10 23:14:15 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/decorations/starlit_factory": {
     "criteria": {
       "has_item": "2025-06-10 21:52:13 +0000"
@@ -9724,6 +9730,12 @@
     },
     "done": true
   },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-06-10 23:14:15 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-06-10 20:59:54 +0000"
@@ -9799,6 +9811,12 @@
   "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-06-10 23:11:25 +0000"
     },
     "done": true
   },

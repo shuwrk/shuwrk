@@ -9155,6 +9155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-10 23:12:11 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/nail_glaive": {
     "criteria": {
       "has_netherite_sword": "2025-06-10 22:48:16 +0000"
