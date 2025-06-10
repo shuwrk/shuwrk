@@ -5560,3 +5560,116 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [
   "& e_ba,#0/y"
 ]
+[10Jun2025 21:47:24.951] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 21:47:24.951] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 21:47:35.620] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 21:47:35.620] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 48
+}
+[10Jun2025 21:47:35.621] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 172 extra bytes: 
+[10Jun2025 21:47:35.621] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "OJ%1HX\\ux\"f_%T336XokKb2&EJVBdl&{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Pn9IHtEtSGY"
+]
+[10Jun2025 21:52:19.595] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 21:52:19.595] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 247181474
+}
+[10Jun2025 21:52:19.595] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[10Jun2025 21:52:19.595] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "sceXqiNa*f464u]i\""
+]
+[10Jun2025 21:52:24.947] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 21:52:24.947] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 21:53:13.283] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 21:53:13.283] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 36
+}
+[10Jun2025 21:53:13.283] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 110 extra bytes: 
+[10Jun2025 21:53:13.283] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Y1JxCy;qi_ao(x368t'Er(gve/'%a{]ufjhT]_VFopu-9_OrI"
+]
+[10Jun2025 21:53:13.284] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:Pos  id 20 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 21:53:13.284] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134118_": 1.5992624681108519E124,
+  "f_134119_": 1.3841035487975971E278,
+  "f_134120_": 1.5429469619599461E162,
+  "f_134121_": 0.0,
+  "f_134122_": 0.0,
+  "f_134123_": true,
+  "f_134124_": true,
+  "f_134125_": false
+}
+[10Jun2025 21:53:13.284] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 20 data of 132 extra bytes: 
+[10Jun2025 21:53:13.284] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "x368t'Er(gve/'%a{]ufjhT]_VFopu-9_OrIg,lQL)m}Pq,9yJ|}"
+]
+[10Jun2025 21:53:13.284] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerInputPacket  id 31 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 21:53:13.285] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134339_": -1.3797112E-14,
+  "f_134340_": 4.242611E-8,
+  "f_134341_": false,
+  "f_134342_": false
+}
+[10Jun2025 21:53:13.285] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 31 data of 135 extra bytes: 
+[10Jun2025 21:53:13.285] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "'Er(gve/'%a{]ufjhT]_VFopu-9_OrIg,lQL)m}Pq,9yJ|}sQ}|"
+]
+[10Jun2025 21:53:31.295] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 91
+[10Jun2025 21:53:31.335] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 92
+[10Jun2025 21:53:31.336] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 93
+[10Jun2025 21:53:31.336] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[10Jun2025 21:53:31.465] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[10Jun2025 21:53:31.488] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[10Jun2025 21:53:31.488] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[10Jun2025 21:53:31.488] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[10Jun2025 21:53:31.635] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[10Jun2025 21:53:31.635] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[10Jun2025 21:53:31.637] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[10Jun2025 21:53:31.704] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[10Jun2025 21:53:32.163] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[10Jun2025 21:53:32.203] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[10Jun2025 21:53:32.203] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[10Jun2025 21:53:32.233] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[10Jun2025 21:53:32.375] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UniFoxyR[/127.120.163.72:34259] logged in with entity id 100990 at (1386.216319532212, 55.0, 152.78519228490362)
+[10Jun2025 21:53:32.402] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to UniFoxyR
+[10Jun2025 21:53:32.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to UniFoxyR
+[10Jun2025 21:53:32.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to UniFoxyR
+[10Jun2025 21:53:32.403] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to UniFoxyR
+[10Jun2025 21:53:32.405] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to UniFoxyR
+[10Jun2025 21:53:32.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to UniFoxyR
+[10Jun2025 21:53:32.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to UniFoxyR
+[10Jun2025 21:53:32.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR joined the game
+[10Jun2025 21:53:32.502] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 21:53:32.568] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to UniFoxyR
+[10Jun2025 21:53:32.591] [Server thread/INFO] [Jade/]: Syncing config to UniFoxyR (eed6928e-68fb-3641-8662-1db75c1da882)
+[10Jun2025 21:53:33.310] [Netty Epoll Server IO #7/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from UniFoxyR
+[10Jun2025 21:54:13.347] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 21:54:13.348] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[10Jun2025 21:54:13.348] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[10Jun2025 21:54:13.348] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[10Jun2025 21:57:08.765] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 21:57:08.766] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[10Jun2025 21:57:08.766] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[10Jun2025 21:57:08.766] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
