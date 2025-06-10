@@ -5065,3 +5065,34 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Jun2025 21:06:15.485] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [10Jun2025 21:06:15.485] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [10Jun2025 21:06:15.486] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[10Jun2025 21:07:24.945] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 21:07:24.945] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 21:10:56.761] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 21:10:56.762] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 33
+}
+[10Jun2025 21:10:56.762] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10Jun2025 21:10:56.762] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "*^x#}GG`>464uwC1h_[\\z"
+]
+[10Jun2025 21:11:55.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-141, y=16, z=-358} BlockPos{x=-142, y=16, z=-357}
+[10Jun2025 21:11:55.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=16, z=-357} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:11:55.734] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=16, z=-358} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:11:55.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=16, z=-357} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:11:55.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=16, z=-358} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:11:55.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=16, z=-358} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:11:56.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-137, y=16, z=-358} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:11:56.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-138, y=16, z=-360} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:11:56.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-137, y=16, z=-359} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:11:56.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-136, y=16, z=-358} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:11:56.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-137, y=16, z=-360} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:11:56.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-136, y=16, z=-359} BlockPos{x=-141, y=16, z=-357}
+[10Jun2025 21:12:24.946] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 21:12:24.946] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 21:15:15.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-235} BlockPos{x=-149, y=16, z=-236}
+[10Jun2025 21:15:15.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-235} BlockPos{x=-149, y=16, z=-236}
+[10Jun2025 21:15:15.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-150, y=16, z=-234} BlockPos{x=-149, y=16, z=-236}
+[10Jun2025 21:15:15.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-234} BlockPos{x=-149, y=16, z=-236}
+[10Jun2025 21:15:15.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=16, z=-233} BlockPos{x=-149, y=16, z=-236}
