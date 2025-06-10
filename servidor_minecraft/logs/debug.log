@@ -19274,3 +19274,177 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Jun2025 22:38:26.602] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [10Jun2025 22:38:27.156] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [10Jun2025 22:38:27.621] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:29.162] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:37.407] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[10Jun2025 22:38:37.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/118701, l='ServerLevel[world]', x=1822.70, y=76.00, z=336.38] died: Samuel the Pit Master was slain by UniFoxyR
+[10Jun2025 22:38:43.562] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[10Jun2025 22:39:09.509] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:16.149] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:17.203] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:18.103] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:18.809] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:19.497] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:20.202] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:21.015] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:21.850] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:22.552] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:23.251] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:24.599] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:25.449] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:26.150] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:27.026] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:27.702] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:28.450] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:37.464] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:39:50.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/121913, l='ServerLevel[world]', x=1309.45, y=66.00, z=528.37] died, message: 'Cleric was shot by Pillager'
+[10Jun2025 22:39:52.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/entity/corpse/EntityCorpseWarlock$TargetType
+[10Jun2025 22:39:55.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has reached the goal [The Bloody Altar]
+[10Jun2025 22:40:01.115] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/inventory/MerchantContainer (target of net/minecraft/world/Container)
+[10Jun2025 22:40:09.050] [Server thread/DEBUG] [mixin/]: Mixing CombatRulesMixin from attributeslib.mixins.json into net.minecraft.world.damagesource.CombatRules
+[10Jun2025 22:40:13.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has reached the goal [Pagan]
+[10Jun2025 22:40:56.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/122286, l='ServerLevel[world]', x=1349.65, y=63.00, z=519.50] died, message: 'Mason was shot by Pillager'
+[10Jun2025 22:41:09.799] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:10.399] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:10.901] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:11.403] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:11.911] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:12.400] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:12.899] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:13.401] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:13.903] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:14.302] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:16.548] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:17.655] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:41:41.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/121813, l='ServerLevel[world]', x=1268.52, y=64.00, z=540.42] died, message: 'Librarian was shot by Pillager'
+[10Jun2025 22:42:01.985] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[10Jun2025 22:42:03.498] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:42:03.652] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:42:05.106] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:42:05.455] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:42:19.050] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:42:19.051] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 76888094
+}
+[10Jun2025 22:42:19.051] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[10Jun2025 22:42:19.051] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "QH${s=YwaIC464r2ncYV"
+]
+[10Jun2025 22:42:19.489] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/start_pool/start_room
+[10Jun2025 22:42:19.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_12
+[10Jun2025 22:42:19.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_08
+[10Jun2025 22:42:19.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_01
+[10Jun2025 22:42:19.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_03
+[10Jun2025 22:42:19.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_06
+[10Jun2025 22:42:19.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[10Jun2025 22:42:19.523] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[10Jun2025 22:42:19.528] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_13
+[10Jun2025 22:42:19.532] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_02
+[10Jun2025 22:42:19.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_07
+[10Jun2025 22:42:19.537] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_04
+[10Jun2025 22:42:19.539] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_10
+[10Jun2025 22:42:19.542] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_03
+[10Jun2025 22:42:19.544] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_02
+[10Jun2025 22:42:19.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_11
+[10Jun2025 22:42:19.546] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_01
+[10Jun2025 22:42:19.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_05
+[10Jun2025 22:42:19.549] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_05
+[10Jun2025 22:42:19.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_03
+[10Jun2025 22:42:19.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/library_02
+[10Jun2025 22:42:19.556] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_03
+[10Jun2025 22:42:19.558] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_01
+[10Jun2025 22:42:19.559] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/end_06
+[10Jun2025 22:42:20.523] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/122283, l='ServerLevel[world]', x=1338.19, y=80.00, z=561.51] died, message: 'Armorer was slain by Ravager'
+[10Jun2025 22:42:27.260] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jun2025 22:42:27.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:42:27.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:42:27.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 22:42:27.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 22:42:27.393] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jun2025 22:42:56.589] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[10Jun2025 22:43:07.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[10Jun2025 22:43:07.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_2
+[10Jun2025 22:43:21.532] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonrangedboss at BlockPos{x=1982, y=84, z=544} at Barrel with:minecraft:chests/nether_bridge
+[10Jun2025 22:43:22.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_3
+[10Jun2025 22:43:22.438] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/straight
+[10Jun2025 22:43:22.439] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/bent_1
+[10Jun2025 22:43:22.440] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_4
+[10Jun2025 22:43:22.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/bench
+[10Jun2025 22:43:22.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_2
+[10Jun2025 22:43:22.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/chemist
+[10Jun2025 22:43:22.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_1
+[10Jun2025 22:43:22.445] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/bent_2
+[10Jun2025 22:43:22.446] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/shepherd
+[10Jun2025 22:43:22.447] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_1
+[10Jun2025 22:43:22.448] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/smith
+[10Jun2025 22:43:22.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_3
+[10Jun2025 22:43:22.450] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_4
+[10Jun2025 22:43:22.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/well
+[10Jun2025 22:43:22.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_1
+[10Jun2025 22:43:22.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_3
+[10Jun2025 22:43:22.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_0
+[10Jun2025 22:43:22.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/library
+[10Jun2025 22:43:22.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/priest_tower
+[10Jun2025 22:43:22.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/deco/lamp_5
+[10Jun2025 22:43:22.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/mason
+[10Jun2025 22:43:22.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/terminator
+[10Jun2025 22:43:22.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/mid_1
+[10Jun2025 22:43:22.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/jobsite/butcher
+[10Jun2025 22:43:22.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/small_2
+[10Jun2025 22:43:22.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_3
+[10Jun2025 22:43:22.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[10Jun2025 22:43:22.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/big_1
+[10Jun2025 22:43:22.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/house/mid_2
+[10Jun2025 22:43:22.466] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/beach/roads/t_2
+[10Jun2025 22:43:35.129] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:43:36.655] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:43:37.137] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:43:37.633] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:43:41.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corner_01
+[10Jun2025 22:43:41.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/corridor_09
+[10Jun2025 22:43:41.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_01
+[10Jun2025 22:43:42.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [The Lighthouse]
+[10Jun2025 22:43:44.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[10Jun2025 22:43:48.525] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:43:53.679] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:04.027] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:04.697] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:05.565] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:06.268] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:06.984] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:10.884] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:11.867] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:12.551] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:13.582] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:14.272] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:14.961] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:15.661] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:16.373] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:17.070] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:17.802] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:18.512] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:19.202] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:19.943] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:20.617] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:44:23.712] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[10Jun2025 22:44:29.509] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[10Jun2025 22:45:55.052] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 22:46:06.345] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 22:46:06.529] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749595566527
+[10Jun2025 22:47:18.606] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:47:18.607] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13649
+}
+[10Jun2025 22:47:18.607] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 92 extra bytes: 
+[10Jun2025 22:47:18.607] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "N,MXqLW#j528`YoKNsA`MUY352P_:rEr<2aJ0"
+]
+[10Jun2025 22:47:26.966] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jun2025 22:47:26.966] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:47:26.966] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:47:27.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 22:47:27.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 22:47:27.070] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating

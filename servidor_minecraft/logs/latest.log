@@ -5903,3 +5903,40 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Jun2025 22:37:25.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuwii moved wrongly!
 [10Jun2025 22:37:26.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [10Jun2025 22:37:26.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:38:37.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/118701, l='ServerLevel[world]', x=1822.70, y=76.00, z=336.38] died: Samuel the Pit Master was slain by UniFoxyR
+[10Jun2025 22:38:43.562] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[10Jun2025 22:39:50.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/121913, l='ServerLevel[world]', x=1309.45, y=66.00, z=528.37] died, message: 'Cleric was shot by Pillager'
+[10Jun2025 22:39:52.988] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/entity/corpse/EntityCorpseWarlock$TargetType
+[10Jun2025 22:39:55.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has reached the goal [The Bloody Altar]
+[10Jun2025 22:40:13.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has reached the goal [Pagan]
+[10Jun2025 22:40:56.934] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/122286, l='ServerLevel[world]', x=1349.65, y=63.00, z=519.50] died, message: 'Mason was shot by Pillager'
+[10Jun2025 22:41:41.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/121813, l='ServerLevel[world]', x=1268.52, y=64.00, z=540.42] died, message: 'Librarian was shot by Pillager'
+[10Jun2025 22:42:01.985] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[10Jun2025 22:42:19.050] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:42:19.051] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 76888094
+}
+[10Jun2025 22:42:19.051] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[10Jun2025 22:42:19.051] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "QH${s=YwaIC464r2ncYV"
+]
+[10Jun2025 22:42:20.523] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/122283, l='ServerLevel[world]', x=1338.19, y=80.00, z=561.51] died, message: 'Armorer was slain by Ravager'
+[10Jun2025 22:42:27.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:42:27.260] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:43:42.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [The Lighthouse]
+[10Jun2025 22:45:55.052] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 22:46:06.345] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 22:47:18.606] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:47:18.607] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13649
+}
+[10Jun2025 22:47:18.607] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 92 extra bytes: 
+[10Jun2025 22:47:18.607] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "N,MXqLW#j528`YoKNsA`MUY352P_:rEr<2aJ0"
+]
+[10Jun2025 22:47:26.966] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:47:26.966] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.

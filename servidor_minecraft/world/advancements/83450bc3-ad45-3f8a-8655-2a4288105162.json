@@ -9538,12 +9538,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
-  },
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-10 20:56:17 +0000"
@@ -9592,18 +9586,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-06-10 20:59:54 +0000"
@@ -9616,35 +9598,11 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
-  },
   "celestisynth:recipes/decorations/starlit_factory": {
     "criteria": {
       "has_item": "2025-06-10 21:52:13 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
@@ -9657,12 +9615,6 @@
       "has_slime_ball": "2025-06-10 20:59:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
   },
   "celestisynth:obtain_celestial_netherite_ingot": {
     "criteria": {
@@ -9682,11 +9634,11 @@
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "dungeons_arise:find_lighthouse": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
+      "location0": "2025-06-10 22:43:42 +0000"
     },
-    "done": false
+    "done": true
   },
   "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
     "criteria": {
@@ -9705,12 +9657,6 @@
       "has_red_sandstone": "2025-06-10 21:26:12 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
@@ -9760,23 +9706,11 @@
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
-  },
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-06-10 20:59:54 +0000"
     },
     "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-10 22:37:26 +0000"
-    },
-    "done": false
   },
   "regions_unexplored:recipes/building_blocks/larch_planks": {
     "criteria": {

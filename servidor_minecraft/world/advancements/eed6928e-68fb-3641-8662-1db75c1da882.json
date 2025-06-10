@@ -460,6 +460,7 @@
       "frozen_tundra": "2025-06-06 23:01:09 +0000",
       "grassy_beach": "2025-06-04 16:48:00 +0000",
       "blackwood_taiga": "2025-06-04 16:00:29 +0000",
+      "mycotoxic_undergrowth": "2025-06-10 22:37:39 +0000",
       "highland_fields": "2025-06-04 16:09:11 +0000",
       "maple_forest": "2025-06-04 15:03:59 +0000",
       "frozen_pine_taiga": "2025-06-06 23:33:41 +0000",
@@ -1396,6 +1397,7 @@
       "minecraft:skeleton": "2025-06-04 15:12:38 +0000",
       "minecraft:hoglin": "2025-06-10 22:22:30 +0000",
       "minecraft:vindicator": "2025-06-04 15:18:11 +0000",
+      "minecraft:magma_cube": "2025-06-10 22:45:00 +0000",
       "minecraft:spider": "2025-06-04 15:10:55 +0000",
       "minecraft:piglin_brute": "2025-06-04 18:49:52 +0000",
       "minecraft:creeper": "2025-06-04 15:07:47 +0000",
@@ -6542,6 +6544,7 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
+      "mycotoxic_undergrowth": "2025-06-10 22:37:39 +0000",
       "blackstone_basin": "2025-06-04 18:48:15 +0000",
       "infernal_holt": "2025-06-04 18:44:47 +0000"
     },
@@ -6927,7 +6930,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-06-04 19:09:30 +0000"
+      "minecraft:crimson_forest": "2025-06-04 19:09:30 +0000",
+      "minecraft:nether_wastes": "2025-06-10 22:37:38 +0000"
     },
     "done": false
   },
@@ -9055,15 +9059,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-10 22:44:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/golden_axe_repairing": {
     "criteria": {
       "has_golden_axe": "2025-06-10 22:06:02 +0000"
     },
     "done": true
   },
+  "eeeabsmobs:eeeabsmobs/kill_corpse_warlock": {
+    "criteria": {
+      "requirement": "2025-06-10 22:40:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
       "has_golden_chestplate": "2025-06-10 22:06:02 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_leggings": {
+    "criteria": {
+      "has_magma_cream": "2025-06-10 22:45:13 +0000"
     },
     "done": true
   },
@@ -9079,15 +9101,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/nether_helmet": {
+    "criteria": {
+      "has_magma_cream": "2025-06-10 22:45:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nether_boots": {
+    "criteria": {
+      "has_magma_cream": "2025-06-10 22:45:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-10 22:01:50 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/nether_chestplate": {
+    "criteria": {
+      "has_magma_cream": "2025-06-10 22:45:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
       "has_golden_leggings": "2025-06-10 22:26:48 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/bloody_altar": {
+    "criteria": {
+      "requirement": "2025-06-10 22:39:55 +0000"
     },
     "done": true
   },
@@ -9103,9 +9149,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-10 22:45:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/golden_shovel_repairing": {
     "criteria": {
       "has_golden_shovel": "2025-06-10 22:15:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-06-10 22:44:48 +0000"
     },
     "done": true
   },
