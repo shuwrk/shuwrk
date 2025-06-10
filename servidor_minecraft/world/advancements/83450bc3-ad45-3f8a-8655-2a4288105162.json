@@ -9415,6 +9415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_the_recipe": "2025-06-07 01:18:05 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/misc/vanilla/upgrade/diamond_chestplate": {
     "criteria": {
       "has_diamond_block": "2025-06-07 01:38:09 +0000"
@@ -9424,12 +9430,6 @@
   "l2complements:recipes/diffusion/diffusion/deepslate_diamond_ore": {
     "criteria": {
       "has_diamond_block": "2025-06-07 01:38:09 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/reinforced_impact_core": {
-    "criteria": {
-      "has_the_recipe": "2025-06-07 01:38:12 +0000"
     },
     "done": true
   },
@@ -9454,18 +9454,6 @@
   "justhammers:recipes/tools/diamond_reinforced_hammer": {
     "criteria": {
       "has_material": "2025-06-07 01:38:09 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/destructor_core": {
-    "criteria": {
-      "has_the_recipe": "2025-06-07 01:38:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_the_recipe": "2025-06-07 01:18:05 +0000"
     },
     "done": true
   },
@@ -9505,12 +9493,6 @@
     },
     "done": true
   },
-  "incendium:toxic_heap/slime_poison": {
-    "criteria": {
-      "poison": "2025-06-07 01:50:58 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-07 01:38:09 +0000"
@@ -9534,6 +9516,96 @@
       "has_diamond_block": "2025-06-07 01:38:09 +0000"
     },
     "done": true
+  },
+  "justhammers:recipes/tools/reinforced_impact_core": {
+    "criteria": {
+      "has_the_recipe": "2025-06-07 01:38:12 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/destructor_core": {
+    "criteria": {
+      "has_the_recipe": "2025-06-07 01:38:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-06-07 01:50:58 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-10 20:12:22 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
