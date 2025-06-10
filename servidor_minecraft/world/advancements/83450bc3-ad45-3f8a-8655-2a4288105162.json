@@ -9539,13 +9539,25 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
   },
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-10 20:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
     },
     "done": true
   },
@@ -9563,13 +9575,13 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
   },
@@ -9587,27 +9599,33 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/lead": {
     "criteria": {
@@ -9617,7 +9635,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
   },
@@ -9629,7 +9647,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
   },
@@ -9645,15 +9663,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
   },
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-06-10 21:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
     },
     "done": true
   },
@@ -9665,7 +9713,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
   },
@@ -9677,7 +9725,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 21:22:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:32:24 +0000"
     },
     "done": false
   },
@@ -9699,9 +9747,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-06-10 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
     },
     "done": true
   },
