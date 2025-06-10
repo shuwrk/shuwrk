@@ -15578,3 +15578,41 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
 ]
 [10Jun2025 20:35:03.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/4425, l='ServerLevel[world]', x=66.88, y=83.82, z=-216.83] died: Restless Spirit starved to death
+[10Jun2025 20:36:30.756] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 20:36:30.757] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 38
+}
+[10Jun2025 20:36:30.757] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10Jun2025 20:36:30.757] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/;L|!-\\M0464{/c~!v"
+]
+[10Jun2025 20:36:35.884] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[10Jun2025 20:37:24.946] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jun2025 20:37:24.947] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 20:37:24.947] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 20:37:25.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 20:37:25.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 20:37:25.060] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jun2025 20:41:32.782] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749588092774
+[10Jun2025 20:42:07.440] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraftforge/items/wrapper/RecipeWrapper (target of net/minecraft/world/Container)
+[10Jun2025 20:42:24.951] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jun2025 20:42:24.951] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 20:42:24.951] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 20:42:25.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 20:42:25.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 20:42:25.061] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jun2025 20:42:52.936] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming io/redspace/ironsspellbooks/gui/inscription_table/InscriptionTableMenu$1 (target of net/minecraft/world/Container)
+[10Jun2025 20:42:52.941] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming io/redspace/ironsspellbooks/gui/inscription_table/InscriptionTableMenu$2 (target of net/minecraft/world/Container)
+[10Jun2025 20:43:25.479] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 20:43:25.480] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10401
+}
+[10Jun2025 20:43:25.480] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10Jun2025 20:43:25.480] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%4|Mp:Dcn=4646;"
+]
+[10Jun2025 20:44:56.619] [Server thread/DEBUG] [twilightforest/]: Using cache, validating. BlockPos{x=11055, y=6, z=1192}
