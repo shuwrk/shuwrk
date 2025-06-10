@@ -9041,9 +9041,45 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:16 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_chestplate": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_boots": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
   "incendium:withered_forest/root": {
     "criteria": {
       "requirement": "2025-06-10 22:20:34 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_shovel": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_helmet": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_axe": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
     },
     "done": true
   },
@@ -9053,9 +9089,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-06-10 22:51:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-06-10 22:15:26 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_sword": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_sword": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:16 +0000"
     },
     "done": true
   },
@@ -9068,6 +9134,24 @@
   "aether:recipes/tools/golden_axe_repairing": {
     "criteria": {
       "has_golden_axe": "2025-06-10 22:06:02 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/nail_glaive": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:16 +0000"
     },
     "done": true
   },
@@ -9089,6 +9173,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-06-10 22:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-06-10 22:51:45 +0000"
+    },
+    "done": true
+  },
   "incendium:infernal_dunes/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-06-10 22:30:55 +0000"
@@ -9101,15 +9209,51 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/nether_helmet": {
     "criteria": {
       "has_magma_cream": "2025-06-10 22:45:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/nether_boots": {
     "criteria": {
       "has_magma_cream": "2025-06-10 22:45:13 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:16 +0000"
     },
     "done": true
   },
@@ -9125,6 +9269,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
       "has_golden_leggings": "2025-06-10 22:26:48 +0000"
@@ -9134,6 +9284,30 @@
   "eeeabsmobs:eeeabsmobs/bloody_altar": {
     "criteria": {
       "requirement": "2025-06-10 22:39:55 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_leggings": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_pickaxe": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 22:53:07 +0000"
     },
     "done": true
   },
@@ -9167,9 +9341,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/paladin_sword": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-06-10 22:53:07 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
       "has_golden_sword": "2025-06-10 22:10:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh_claymore": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:16 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/misc/vanilla/upgrade/iron_hoe": {
+    "criteria": {
+      "has_iron_block": "2025-06-10 22:49:13 +0000"
     },
     "done": true
   },

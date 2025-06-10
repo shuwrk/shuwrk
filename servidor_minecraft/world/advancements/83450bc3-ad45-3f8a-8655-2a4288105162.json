@@ -9538,6 +9538,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-10 20:56:17 +0000"
@@ -9658,6 +9664,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/khopesh": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-06-10 21:26:12 +0000"
@@ -9709,6 +9721,18 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-06-10 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/paladin_sword": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh_claymore": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
     },
     "done": true
   },
