@@ -2273,6 +2273,7 @@
       "minecraft:phantom": "2025-06-06 21:11:08 +0000",
       "minecraft:zombified_piglin": "2025-06-04 20:46:17 +0000",
       "minecraft:witch": "2025-06-04 21:44:33 +0000",
+      "minecraft:wither_skeleton": "2025-06-10 20:54:03 +0000",
       "minecraft:husk": "2025-06-04 16:03:47 +0000",
       "minecraft:piglin": "2025-06-04 18:56:41 +0000",
       "minecraft:silverfish": "2025-06-04 18:21:43 +0000",
@@ -6483,6 +6484,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-06-04 18:54:53 +0000",
       "minecraft:nether_wastes": "2025-06-04 20:27:55 +0000",
+      "minecraft:soul_sand_valley": "2025-06-10 20:56:06 +0000",
       "minecraft:warped_forest": "2025-06-04 20:47:40 +0000"
     },
     "done": false
@@ -9537,79 +9539,127 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
+  "regions_unexplored:recipes/building_blocks/overgrown_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 20:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 20:56:17 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-10 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-10 20:59:54 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-10 20:59:54 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-06-10 20:59:54 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 20:52:24 +0000"
+      "log_spam_fixer": "2025-06-10 21:02:24 +0000"
     },
     "done": false
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2025-06-10 21:00:55 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/advanced_filter_upgrade": {
     "criteria": {
       "has_filter_upgrade": "2025-06-10 20:26:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-10 20:59:54 +0000"
     },
     "done": true
   },
