@@ -5767,3 +5767,30 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Jun2025 22:06:54.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/103659, l='ServerLevel[world]', x=164.87, y=58.32, z=57.24] died: Restless Spirit starved to death
 [10Jun2025 22:07:24.974] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [10Jun2025 22:07:24.974] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:08:12.856] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/entity/XpReward
+[10Jun2025 22:09:04.602] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/104986, l='ServerLevel[world]', x=114.08, y=46.20, z=107.66] died: Restless Spirit starved to death
+[10Jun2025 22:09:10.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/105265, l='ServerLevel[world]', x=123.89, y=70.01, z=115.05] died: Restless Spirit starved to death
+[10Jun2025 22:09:50.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107157, l='ServerLevel[world]', x=155.41, y=42.35, z=183.57] died: Restless Spirit starved to death
+[10Jun2025 22:10:08.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/105221, l='ServerLevel[world]', x=246.39, y=-20.00, z=112.67] died: Toxic Slime was killed
+[10Jun2025 22:10:27.690] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107461, l='ServerLevel[world]', x=154.07, y=55.81, z=47.74] died: Restless Spirit starved to death
+[10Jun2025 22:10:45.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107647, l='ServerLevel[world]', x=154.28, y=44.80, z=35.99] died: Restless Spirit starved to death
+[10Jun2025 22:12:24.982] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:12:24.983] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:12:55.688] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:12:55.688] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 97
+}
+[10Jun2025 22:12:55.689] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10Jun2025 22:12:55.689] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "bR;1kGkh7FF464v9K|%"
+]
+[10Jun2025 22:13:35.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [A Terrible Fortress]
+[10Jun2025 22:13:45.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/IronGolem$Crackiness
+[10Jun2025 22:14:10.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/108954, l='ServerLevel[world]', x=464.68, y=68.00, z=113.33] died: Restless Spirit starved to death
+[10Jun2025 22:15:09.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/109543, l='ServerLevel[world]', x=572.65, y=88.17, z=140.87] died: Restless Spirit starved to death
+[10Jun2025 22:15:22.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Jenbingmorb the Professional Animator'/109964, l='ServerLevel[world]', x=540.50, y=60.00, z=44.50] died: Jenbingmorb the Professional Animator was scorched to death
+[10Jun2025 22:15:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Epic!]
+[10Jun2025 22:17:24.972] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:17:24.972] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.

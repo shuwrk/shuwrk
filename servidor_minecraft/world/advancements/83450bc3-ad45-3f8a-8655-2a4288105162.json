@@ -8903,6 +8903,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "larch_log": "2025-06-10 22:13:56 +0000",
       "brimwood_log": "2025-06-06 22:47:54 +0000"
     },
     "done": false
@@ -9539,7 +9540,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
@@ -9567,6 +9568,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-06-10 22:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-06-10 21:26:12 +0000"
@@ -9587,13 +9594,13 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
@@ -9611,19 +9618,19 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
@@ -9635,7 +9642,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
@@ -9653,7 +9660,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
@@ -9677,7 +9684,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
@@ -9701,7 +9708,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
@@ -9729,6 +9736,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-06-10 22:13:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-06-10 21:26:12 +0000"
@@ -9749,7 +9762,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
   },
@@ -9761,9 +9774,15 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-10 22:07:24 +0000"
+      "log_spam_fixer": "2025-06-10 22:17:24 +0000"
     },
     "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-10 22:13:56 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
     "criteria": {
