@@ -19021,3 +19021,256 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Jun2025 22:27:27.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jun2025 22:27:27.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Jun2025 22:27:27.067] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jun2025 22:28:38.375] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:28:38.852] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:29:13.006] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:29:13.006] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10278
+}
+[10Jun2025 22:29:13.006] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10Jun2025 22:29:13.006] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "2oTGS0GP`336m!sup"
+]
+[10Jun2025 22:29:50.488] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=1304, y=73, z=345} at Chest with:minecraft:chests/bastion_other
+[10Jun2025 22:30:27.337] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=1582, y=41, z=183} at Chest with:minecraft:chests/ruined_portal
+[10Jun2025 22:30:36.362] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[10Jun2025 22:30:36.363] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[10Jun2025 22:30:37.143] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=1609, y=73, z=55} at Chest with:minecraft:chests/bastion_other
+[10Jun2025 22:30:50.302] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:51.760] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:51.953] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:52.004] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:52.599] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:52.898] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:52.904] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:53.004] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:53.155] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:53.499] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:53.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1436, y=64, z=113} BlockPos{x=1435, y=64, z=113}
+[10Jun2025 22:30:54.005] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:54.606] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:55.102] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:55.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Darude - Firestorm]
+[10Jun2025 22:30:55.448] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:55.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1439, y=65, z=113} BlockPos{x=1438, y=66, z=113}
+[10Jun2025 22:30:55.508] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:56.102] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:56.404] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:58.187] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:58.539] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:59.016] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:59.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1444, y=71, z=112} BlockPos{x=1442, y=70, z=112}
+[10Jun2025 22:30:59.112] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:59.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1444, y=71, z=112} BlockPos{x=1443, y=71, z=112}
+[10Jun2025 22:30:59.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1444, y=71, z=112} BlockPos{x=1443, y=71, z=112}
+[10Jun2025 22:30:59.353] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:59.357] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:30:59.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1445, y=72, z=112} BlockPos{x=1443, y=71, z=112}
+[10Jun2025 22:31:00.052] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:00.653] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:01.203] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:01.551] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:02.154] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:02.701] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:03.602] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:03.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1449, y=76, z=112} BlockPos{x=1449, y=74, z=112}
+[10Jun2025 22:31:03.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1449, y=73, z=112} BlockPos{x=1449, y=74, z=112}
+[10Jun2025 22:31:04.502] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:04.704] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:05.797] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:06.759] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:31:07.649] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:32:23.104] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:32:23.890] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:32:24.278] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:32:24.955] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:32:25.650] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:32:26.976] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jun2025 22:32:26.976] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:32:26.976] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:32:27.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 22:32:27.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 22:32:27.075] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jun2025 22:32:27.190] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:32:27.862] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:32:49.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Light-Sensitive]
+[10Jun2025 22:32:49.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/117543, l='ServerLevel[world]', x=1560.43, y=115.00, z=185.62] died: Desert Blaze was slain by UniFoxyR
+[10Jun2025 22:32:49.715] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[10Jun2025 22:32:56.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/117542, l='ServerLevel[world]', x=1557.84, y=114.03, z=192.37] died: Desert Blaze was slain by UniFoxyR
+[10Jun2025 22:32:56.850] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[10Jun2025 22:33:18.522] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:33:19.196] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:33:19.898] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:33:31.149] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:33:32.101] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:33:34.302] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:33:34.303] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3404
+}
+[10Jun2025 22:33:34.303] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 163 extra bytes: 
+[10Jun2025 22:33:34.303] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+E~,Jp-6Z464K.B[EA&VbU2y[{]ufjhT)S*@Cpd%KCU o~6^s0=PT6.}&eFz5b,%"
+]
+[10Jun2025 22:33:38.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/117717, l='ServerLevel[world]', x=1582.66, y=115.27, z=261.30] died: Desert Blaze was slain by UniFoxyR
+[10Jun2025 22:33:38.158] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[10Jun2025 22:33:58.015] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower2
+[10Jun2025 22:33:59.502] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/animate/server/handler/EMAnimationHandler
+[10Jun2025 22:34:03.201] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=1817, y=80, z=324} at Chest with:minecraft:chests/bastion_bridge
+[10Jun2025 22:34:20.999] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:34:21.702] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:34:27.102] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:34:27.799] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:34:28.497] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:34:33.397] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:34:33.896] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:34:35.046] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:34:37.136] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:34:37.885] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:34:55.394] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[10Jun2025 22:34:55.396] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[10Jun2025 22:34:55.398] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[10Jun2025 22:34:55.400] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[10Jun2025 22:34:55.400] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[10Jun2025 22:34:55.403] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[10Jun2025 22:34:55.405] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[10Jun2025 22:34:55.406] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[10Jun2025 22:34:55.407] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[10Jun2025 22:34:55.409] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter6
+[10Jun2025 22:34:59.016] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=1819, y=59, z=552} at Chest with:minecraft:chests/bastion_other
+[10Jun2025 22:34:59.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/straight
+[10Jun2025 22:34:59.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_1
+[10Jun2025 22:34:59.473] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/priest_tower
+[10Jun2025 22:34:59.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_3
+[10Jun2025 22:34:59.479] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/bench
+[10Jun2025 22:34:59.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_3
+[10Jun2025 22:34:59.483] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_1
+[10Jun2025 22:34:59.484] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_4
+[10Jun2025 22:34:59.488] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/mason
+[10Jun2025 22:34:59.491] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/well
+[10Jun2025 22:34:59.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_5
+[10Jun2025 22:34:59.492] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_1
+[10Jun2025 22:34:59.495] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_4
+[10Jun2025 22:34:59.496] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_1
+[10Jun2025 22:34:59.497] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/weaponsmith
+[10Jun2025 22:34:59.498] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_2
+[10Jun2025 22:34:59.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_2
+[10Jun2025 22:34:59.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_3
+[10Jun2025 22:34:59.501] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_2
+[10Jun2025 22:34:59.503] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/smith
+[10Jun2025 22:34:59.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_2
+[10Jun2025 22:34:59.506] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/med_1
+[10Jun2025 22:34:59.507] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_2
+[10Jun2025 22:34:59.508] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_1
+[10Jun2025 22:34:59.510] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/chemist
+[10Jun2025 22:34:59.514] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/butcher
+[10Jun2025 22:34:59.518] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/shepherd
+[10Jun2025 22:34:59.520] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/library
+[10Jun2025 22:34:59.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/terminator
+[10Jun2025 22:34:59.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/cow
+[10Jun2025 22:34:59.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/farm
+[10Jun2025 22:34:59.535] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/sheep
+[10Jun2025 22:34:59.540] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/cartography
+[10Jun2025 22:34:59.543] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/melon_2
+[10Jun2025 22:34:59.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/med_2
+[10Jun2025 22:34:59.547] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/armoursmith
+[10Jun2025 22:34:59.550] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/stall_2
+[10Jun2025 22:34:59.747] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=1910, y=84, z=460} at Chest with:minecraft:chests/nether_bridge
+[10Jun2025 22:35:30.843] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:35:30.844] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 14945
+}
+[10Jun2025 22:35:30.844] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10Jun2025 22:35:30.844] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8h6ibXL\\-(JcG336lR~Ip"
+]
+[10Jun2025 22:35:38.896] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 22:35:43.352] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:35:47.452] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:35:47.452] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[10Jun2025 22:35:47.452] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[10Jun2025 22:35:47.452] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[10Jun2025 22:35:51.201] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:36:21.441] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2tabs/init/data/OpenCurioHandler
+[10Jun2025 22:36:21.451] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming dev/xkmc/l2tabs/compat/CurioSlot (target of net/minecraft/world/inventory/Slot)
+[10Jun2025 22:36:36.754] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:36:44.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[10Jun2025 22:37:11.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/t_1
+[10Jun2025 22:37:11.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/bent_1
+[10Jun2025 22:37:11.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/straight
+[10Jun2025 22:37:11.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/t_3
+[10Jun2025 22:37:11.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/small_4
+[10Jun2025 22:37:11.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/lamp_4
+[10Jun2025 22:37:11.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/big_1
+[10Jun2025 22:37:11.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/lamp_1
+[10Jun2025 22:37:11.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/bent_2
+[10Jun2025 22:37:11.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/chemist
+[10Jun2025 22:37:11.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/lamp_3
+[10Jun2025 22:37:11.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/big_3
+[10Jun2025 22:37:11.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/lamp_2
+[10Jun2025 22:37:11.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/small_1
+[10Jun2025 22:37:11.030] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/small_2
+[10Jun2025 22:37:11.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/cart
+[10Jun2025 22:37:11.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/butcher
+[10Jun2025 22:37:11.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/fountain
+[10Jun2025 22:37:11.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/pen
+[10Jun2025 22:37:11.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/mason
+[10Jun2025 22:37:11.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/farm
+[10Jun2025 22:37:11.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/library
+[10Jun2025 22:37:11.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/smith
+[10Jun2025 22:37:11.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/small_3
+[10Jun2025 22:37:11.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/house/med_2
+[10Jun2025 22:37:11.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/jobsite/cartographer
+[10Jun2025 22:37:11.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/tree
+[10Jun2025 22:37:11.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/roads/terminator
+[10Jun2025 22:37:11.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/plains_fortified/deco/well
+[10Jun2025 22:37:25.009] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:25.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuwii moved wrongly!
+[10Jun2025 22:37:25.702] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:26.416] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:26.978] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jun2025 22:37:26.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:37:26.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:37:27.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 22:37:27.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 22:37:27.082] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jun2025 22:37:27.146] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:27.950] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:28.615] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:35.188] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_18
+[10Jun2025 22:37:42.617] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=2016, y=40, z=298} at Chest with:minecraft:chests/bastion_other
+[10Jun2025 22:37:56.002] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:56.704] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:57.501] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:58.204] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:59.106] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:37:59.802] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:00.568] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:17.651] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:18.106] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:18.406] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:18.704] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:19.159] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:19.676] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:21.852] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:22.553] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:23.064] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:23.586] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:24.097] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:25.131] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:25.641] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:26.118] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:26.602] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:27.156] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 22:38:27.621] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0

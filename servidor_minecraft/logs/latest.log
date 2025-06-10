@@ -5842,3 +5842,64 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 ]
 [10Jun2025 22:27:26.971] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [10Jun2025 22:27:26.972] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:29:13.006] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:29:13.006] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 10278
+}
+[10Jun2025 22:29:13.006] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10Jun2025 22:29:13.006] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "2oTGS0GP`336m!sup"
+]
+[10Jun2025 22:30:53.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1436, y=64, z=113} BlockPos{x=1435, y=64, z=113}
+[10Jun2025 22:30:55.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Darude - Firestorm]
+[10Jun2025 22:30:55.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1439, y=65, z=113} BlockPos{x=1438, y=66, z=113}
+[10Jun2025 22:30:59.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1444, y=71, z=112} BlockPos{x=1442, y=70, z=112}
+[10Jun2025 22:30:59.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1444, y=71, z=112} BlockPos{x=1443, y=71, z=112}
+[10Jun2025 22:30:59.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1444, y=71, z=112} BlockPos{x=1443, y=71, z=112}
+[10Jun2025 22:30:59.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1445, y=72, z=112} BlockPos{x=1443, y=71, z=112}
+[10Jun2025 22:31:03.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1449, y=76, z=112} BlockPos{x=1449, y=74, z=112}
+[10Jun2025 22:31:03.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1449, y=73, z=112} BlockPos{x=1449, y=74, z=112}
+[10Jun2025 22:32:26.976] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:32:26.976] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:32:49.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Light-Sensitive]
+[10Jun2025 22:32:49.714] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/117543, l='ServerLevel[world]', x=1560.43, y=115.00, z=185.62] died: Desert Blaze was slain by UniFoxyR
+[10Jun2025 22:32:56.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/117542, l='ServerLevel[world]', x=1557.84, y=114.03, z=192.37] died: Desert Blaze was slain by UniFoxyR
+[10Jun2025 22:33:34.302] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:33:34.303] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 3404
+}
+[10Jun2025 22:33:34.303] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 163 extra bytes: 
+[10Jun2025 22:33:34.303] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+E~,Jp-6Z464K.B[EA&VbU2y[{]ufjhT)S*@Cpd%KCU o~6^s0=PT6.}&eFz5b,%"
+]
+[10Jun2025 22:33:38.158] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/117717, l='ServerLevel[world]', x=1582.66, y=115.27, z=261.30] died: Desert Blaze was slain by UniFoxyR
+[10Jun2025 22:33:59.502] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/animate/server/handler/EMAnimationHandler
+[10Jun2025 22:35:30.843] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:35:30.844] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 14945
+}
+[10Jun2025 22:35:30.844] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10Jun2025 22:35:30.844] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8h6ibXL\\-(JcG336lR~Ip"
+]
+[10Jun2025 22:35:38.896] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 22:35:47.452] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:35:47.452] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[10Jun2025 22:35:47.452] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[10Jun2025 22:35:47.452] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[10Jun2025 22:36:21.441] [Netty Epoll Server IO #7/INFO] [com.teampotato.redirector.Redirector/]: Redirecting dev/xkmc/l2tabs/init/data/OpenCurioHandler
+[10Jun2025 22:37:25.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuwii moved wrongly!
+[10Jun2025 22:37:26.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:37:26.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
