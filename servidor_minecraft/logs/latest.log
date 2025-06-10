@@ -5794,3 +5794,51 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [10Jun2025 22:15:30.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Epic!]
 [10Jun2025 22:17:24.972] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [10Jun2025 22:17:24.972] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:18:00.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[10Jun2025 22:19:48.368] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:19:48.369] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 75
+}
+[10Jun2025 22:19:48.372] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 143 extra bytes: 
+[10Jun2025 22:19:48.372] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "7/sJ_cce9DM=nM4m4649k~23)663FD.{]ufjhT)S*@Cpd%KCU o~6^s0=PT6.}"
+]
+[10Jun2025 22:20:34.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Ancient Battlefield]
+[10Jun2025 22:20:53.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/111986, l='ServerLevel[world]', x=1033.91, y=33.83, z=52.45] died: Headless Warrior was slain by Piglin Brute
+[10Jun2025 22:21:01.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Straddle My Ol' Saddle]
+[10Jun2025 22:21:43.490] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/111926, l='ServerLevel[world]', x=960.99, y=67.65, z=38.30] died: Restless Spirit starved to death
+[10Jun2025 22:21:53.193] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/112086, l='ServerLevel[world]', x=925.20, y=54.08, z=126.26] died: Restless Spirit starved to death
+[10Jun2025 22:22:11.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/112537, l='ServerLevel[world]', x=1056.60, y=57.00, z=95.35] died: Headless Warrior was shot by Piglin
+[10Jun2025 22:22:26.972] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:22:26.972] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 22:22:57.594] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/112951, l='ServerLevel[world]', x=1047.91, y=64.00, z=68.18] died: Headless Warrior was slain by Piglin Brute
+[10Jun2025 22:23:06.356] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/111693, l='ServerLevel[world]', x=1035.72, y=41.00, z=66.87] died: Samuel the Pit Master was slain by UniFoxyR
+[10Jun2025 22:24:11.237] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/112960, l='ServerLevel[world]', x=1056.32, y=37.94, z=54.23] died: Restless Spirit starved to death
+[10Jun2025 22:25:50.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1137, y=81, z=103} BlockPos{x=1138, y=82, z=103}
+[10Jun2025 22:25:51.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1138, y=82, z=103} BlockPos{x=1138, y=81, z=103}
+[10Jun2025 22:26:30.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1182, y=90, z=105} BlockPos{x=1182, y=89, z=105}
+[10Jun2025 22:26:40.944] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:26:40.945] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 106
+}
+[10Jun2025 22:26:40.945] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10Jun2025 22:26:40.945] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "4J~0NUt]u<:l464)PHESd"
+]
+[10Jun2025 22:26:41.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Eri the Non-Suspicious'/114530, l='ServerLevel[world]', x=1191.59, y=93.24, z=110.35] died: Eri the Non-Suspicious was squashed by UniFoxyR
+[10Jun2025 22:26:58.749] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 22:26:58.749] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[10Jun2025 22:26:58.749] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[10Jun2025 22:26:58.750] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[10Jun2025 22:27:26.971] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 22:27:26.972] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
