@@ -9628,6 +9628,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-06-10 23:22:35 +0000"
+    },
+    "done": true
+  },
   "celestisynth:obtain_celestial_netherite_ingot": {
     "criteria": {
       "criteria": "2025-06-10 21:52:13 +0000"

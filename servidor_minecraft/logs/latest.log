@@ -6090,3 +6090,56 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [
   "YS4g/^&pW/I464<h qT5pZb10n\"\"~{]"
 ]
+[10Jun2025 23:21:16.167] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:21:16.168] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6839
+}
+[10Jun2025 23:21:16.168] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 73 extra bytes: 
+[10Jun2025 23:21:16.168] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "6gBB^xxCC336z<L;8]E:F{]u"
+]
+[10Jun2025 23:22:31.962] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 23:22:31.962] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 23:23:42.290] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:23:42.290] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[10Jun2025 23:23:42.290] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[10Jun2025 23:23:42.290] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[10Jun2025 23:23:58.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[10Jun2025 23:25:17.733] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:25:17.733] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1602096796
+}
+[10Jun2025 23:25:17.733] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[10Jun2025 23:25:17.733] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1z3WHux}RaPP464UE"
+]
+[10Jun2025 23:26:07.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has completed the challenge [Trials And Talismans]
+[10Jun2025 23:27:31.963] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 23:27:31.964] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 23:27:54.592] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:27:54.593] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13
+}
+[10Jun2025 23:27:54.593] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 147 extra bytes: 
+[10Jun2025 23:27:54.593] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|Qq[YQ@4g336'\\Yw}WDTI*G%?{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Pn"
+]
+[10Jun2025 23:28:16.234] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[10Jun2025 23:28:16.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii was slain by Cisco
+[10Jun2025 23:28:25.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[10Jun2025 23:28:28.090] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[10Jun2025 23:28:28.091] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[10Jun2025 23:28:28.093] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[10Jun2025 23:28:36.511] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]

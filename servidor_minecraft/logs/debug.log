@@ -19686,3 +19686,74 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [
   "YS4g/^&pW/I464<h qT5pZb10n\"\"~{]"
 ]
+[10Jun2025 23:20:14.583] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [eed6928e-68fb-3641-8662-1db75c1da882]
+[10Jun2025 23:21:16.167] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:21:16.168] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6839
+}
+[10Jun2025 23:21:16.168] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 73 extra bytes: 
+[10Jun2025 23:21:16.168] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "6gBB^xxCC336z<L;8]E:F{]u"
+]
+[10Jun2025 23:21:41.345] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 23:22:31.962] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jun2025 23:22:31.962] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 23:22:31.962] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 23:22:32.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:22:32.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:22:32.059] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jun2025 23:23:42.290] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:23:42.290] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[10Jun2025 23:23:42.290] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[10Jun2025 23:23:42.290] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[10Jun2025 23:23:58.585] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[10Jun2025 23:24:43.935] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e340539a-636c-4686-aa5e-15bb3cf326d3]
+[10Jun2025 23:24:45.086] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [e340539a-636c-4686-aa5e-15bb3cf326d3]
+[10Jun2025 23:25:17.733] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:25:17.733] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1602096796
+}
+[10Jun2025 23:25:17.733] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[10Jun2025 23:25:17.733] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "1z3WHux}RaPP464UE"
+]
+[10Jun2025 23:25:40.582] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [70728185-3ec0-4358-b3f0-26ee4a019132]
+[10Jun2025 23:26:07.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has completed the challenge [Trials And Talismans]
+[10Jun2025 23:26:50.503] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 23:27:13.135] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [429de1a0-7179-4d1f-943a-dfa16566ad32]
+[10Jun2025 23:27:31.963] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jun2025 23:27:31.963] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 23:27:31.964] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 23:27:32.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:27:32.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:27:32.055] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jun2025 23:27:54.592] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:27:54.593] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13
+}
+[10Jun2025 23:27:54.593] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 147 extra bytes: 
+[10Jun2025 23:27:54.593] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|Qq[YQ@4g336'\\Yw}WDTI*G%?{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Pn"
+]
+[10Jun2025 23:28:16.234] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[10Jun2025 23:28:16.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii was slain by Cisco
+[10Jun2025 23:28:19.861] [Server thread/DEBUG] [twilightforest/]: Player Shuwii (83450bc3-ad45-3f8a-8655-2a4288105162) respawned and received items held in storage
+[10Jun2025 23:28:20.023] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749598100010
+[10Jun2025 23:28:25.968] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AdvancedPathNavigate$MovementType
+[10Jun2025 23:28:28.090] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/PathFindingStatus
+[10Jun2025 23:28:28.091] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[10Jun2025 23:28:28.093] [Citadel Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/server/entity/pathfinding/raycoms/SurfaceType
+[10Jun2025 23:28:36.511] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 23:28:46.452] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
