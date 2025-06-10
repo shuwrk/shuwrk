@@ -9682,6 +9682,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-06-10 23:01:29 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2025-06-10 21:20:16 +0000"
