@@ -9604,6 +9604,12 @@
     },
     "done": true
   },
+  "cisco_mod:nightfall_ad": {
+    "criteria": {
+      "nightfall_ad": "2025-06-10 23:45:36 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:daddy": {
     "criteria": {
       "daddy_0": "2025-06-10 23:14:15 +0000"

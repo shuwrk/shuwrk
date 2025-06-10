@@ -20424,3 +20424,134 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 ]
 [10Jun2025 23:39:12.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/138443, l='ServerLevel[world]', x=53.34, y=73.74, z=-192.27] died: Restless Spirit starved to death
 [10Jun2025 23:39:20.485] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[10Jun2025 23:40:16.670] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:40:16.670] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 123
+}
+[10Jun2025 23:40:16.670] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 132 extra bytes: 
+[10Jun2025 23:40:16.671] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "olrVl>;M$SL3366z 1Oj?Js<{]ufjhT]_VFopu-9_OrI0g,lQL)\\l"
+]
+[10Jun2025 23:41:24.028] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/138807, l='ServerLevel[world]', x=15.36, y=35.77, z=-187.59] died: Restless Spirit starved to death
+[10Jun2025 23:41:31.941] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:41:31.941] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15708
+}
+[10Jun2025 23:41:31.942] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10Jun2025 23:41:31.942] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "O0aYfr}GCbq4.@a336c3$q@(v"
+]
+[10Jun2025 23:41:32.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/138855, l='ServerLevel[world]', x=83.63, y=74.15, z=-222.41] died: Restless Spirit starved to death
+[10Jun2025 23:41:51.203] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:41:51.203] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[10Jun2025 23:41:51.203] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[10Jun2025 23:41:51.203] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[10Jun2025 23:42:12.294] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749598932294
+[10Jun2025 23:42:12.451] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 23:42:31.976] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jun2025 23:42:31.976] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 23:42:31.976] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 23:42:32.059] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:42:32.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:42:32.086] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jun2025 23:42:32.569] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 23:42:32.744] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749598952712
+[10Jun2025 23:42:45.844] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:42:45.845] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 14123
+}
+[10Jun2025 23:42:45.845] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10Jun2025 23:42:45.845] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "RSm/l(k|B336*}V"
+]
+[10Jun2025 23:44:00.769] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:44:00.770] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 37
+}
+[10Jun2025 23:44:00.770] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[10Jun2025 23:44:00.770] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9zM\"|5@KAm/WsMLY336h?q"
+]
+[10Jun2025 23:44:04.912] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:44:04.912] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[10Jun2025 23:44:04.913] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[10Jun2025 23:44:04.913] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[10Jun2025 23:44:32.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/139135, l='ServerLevel[world]', x=76.83, y=-20.00, z=-221.91] died: Restless Spirit was killed
+[10Jun2025 23:45:15.629] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:45:15.629] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 51
+}
+[10Jun2025 23:45:15.629] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 72 extra bytes: 
+[10Jun2025 23:45:15.630] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "{@pVT24D5)4b>`336D.G[]2%>S!.q?kZ{{]"
+]
+[10Jun2025 23:45:36.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has completed the challenge [Balance is a fool's weakness]
+[10Jun2025 23:45:59.598] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:45:59.598] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 22
+}
+[10Jun2025 23:45:59.598] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 88 extra bytes: 
+[10Jun2025 23:45:59.598] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3$:%}b{YC.FR464Vf;q`VzGc&w:{]ufjhT)S"
+]
+[10Jun2025 23:45:59.598] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPickItemPacket  id 26 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:45:59.599] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134222_": 14
+}
+[10Jun2025 23:45:59.599] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 26 data of 250 extra bytes: 
+[10Jun2025 23:45:59.599] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%}b{YC.FR464Vf;q`VzGc&w:{]ufjhT)S@Cpd%KCU o~6^s0=P6.}&eFz5b,%w^gjAgNfVQ#!7KX95/OQy*y1whv"
+]
+[10Jun2025 23:46:28.813] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:46:28.813] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13070
+}
+[10Jun2025 23:46:28.814] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[10Jun2025 23:46:28.814] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "JMU3.l?336$UNdU"
+]
+[10Jun2025 23:47:31.966] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[10Jun2025 23:47:31.966] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 23:47:31.966] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 23:47:32.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jun2025 23:47:32.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jun2025 23:47:32.082] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[10Jun2025 23:47:41.915] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:47:41.915] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 34
+}
+[10Jun2025 23:47:41.916] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 90 extra bytes: 
+[10Jun2025 23:47:41.916] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ";6HrvW2336k)2_''HW{Lj{]ufjhT]_VFop"
+]
+[10Jun2025 23:48:17.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has completed the challenge [Titan-Forged]
