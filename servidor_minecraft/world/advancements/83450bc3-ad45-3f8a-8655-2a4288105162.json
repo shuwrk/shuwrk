@@ -9856,6 +9856,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-06-11 23:11:29 +0000"
+    },
+    "done": true
+  },
   "l2complements:recipes/burnt/burnt/nether_star": {
     "criteria": {
       "has_nether_star": "2025-06-11 22:39:13 +0000"
@@ -9871,6 +9877,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-06-11 22:38:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
+    "criteria": {
+      "has_raw_redstone_block": "2025-06-11 23:11:29 +0000"
     },
     "done": true
   },

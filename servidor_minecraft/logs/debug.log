@@ -16721,3 +16721,135 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [11Jun2025 23:13:13.795] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [11Jun2025 23:13:14.046] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [11Jun2025 23:13:25.419] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory_towers:warped_outpost_part1
+[11Jun2025 23:13:58.608] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:14:01.448] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:14:02.505] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:14:03.895] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:14:14.802] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:14:15.494] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:14:17.260] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:14:17.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-542, y=114, z=211} BlockPos{x=-541, y=113, z=210}
+[11Jun2025 23:14:17.354] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:14:17.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-542, y=114, z=211} BlockPos{x=-541, y=113, z=210}
+[11Jun2025 23:14:18.093] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:14:20.891] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:14:20.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Veril the Withered'/12767, l='ServerLevel[world]', x=-351.54, y=79.00, z=-440.32] died: Veril the Withered was slain by Shuwii
+[11Jun2025 23:14:28.668] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-709, y=36, z=17} at Chest with:minecraft:chests/bastion_treasure
+[11Jun2025 23:14:30.076] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[11Jun2025 23:14:30.076] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 23:14:30.076] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 23:14:30.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 23:14:30.189] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 23:14:30.191] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[11Jun2025 23:14:44.490] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:14:52.149] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:15:13.921] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:15:13.921] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 99798408
+}
+[11Jun2025 23:15:13.922] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 103 extra bytes: 
+[11Jun2025 23:15:13.922] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "iVp#WvE{'kXJ%336C)C=s\\;#ma,&57O{]ufjhT]_VFopu-9_Or"
+]
+[11Jun2025 23:15:46.231] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:15:52.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[11Jun2025 23:16:16.828] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonshieldboss at BlockPos{x=-813, y=61, z=-66} at Chest with:minecraft:chests/nether_bridge
+[11Jun2025 23:16:46.655] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:16:46.656] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 14444
+}
+[11Jun2025 23:16:46.656] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[11Jun2025 23:16:46.656] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "xl\"]XpS/Q464_<[}hF"
+]
+[11Jun2025 23:16:51.584] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:17:14.644] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:17:38.566] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:17:39.008] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:17:52.892] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:17:56.288] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:17:57.296] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:18:12.426] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:18:13.709] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:18:15.563] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:18:22.842] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[11Jun2025 23:18:22.843] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_3
+[11Jun2025 23:18:22.848] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[11Jun2025 23:18:22.850] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_2
+[11Jun2025 23:18:23.140] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:18:23.578] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonrangedboss at BlockPos{x=-913, y=73, z=-22} at Chest with:minecraft:chests/nether_bridge
+[11Jun2025 23:18:33.456] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:18:33.457] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 57
+}
+[11Jun2025 23:18:33.457] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 23:18:33.457] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "QUUP}ExGKPX`h4F352DyP*W"
+]
+[11Jun2025 23:18:41.292] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:18:53.667] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:18:57.044] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:18:59.583] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:19:03.579] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[11Jun2025 23:19:12.647] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Jun2025 23:19:12.649] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[11Jun2025 23:19:18.593] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:19:32.098] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[11Jun2025 23:19:32.098] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 23:19:32.098] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 23:19:32.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 23:19:32.212] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 23:19:32.218] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[11Jun2025 23:19:37.589] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:19:38.721] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:19:39.258] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[11Jun2025 23:19:39.336] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[11Jun2025 23:19:39.365] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
+[11Jun2025 23:19:39.411] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[11Jun2025 23:20:29.730] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-1225, y=82, z=113} at Chest with:minecraft:chests/bastion_other
+[11Jun2025 23:20:35.390] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:20:35.390] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 57
+}
+[11Jun2025 23:20:35.391] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 134 extra bytes: 
+[11Jun2025 23:20:35.392] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ":C<*|ZDidm@XyR336f%EeeJ-^/GyM9{]ufjhT]_VFopu-9_OrI0g,lQL)\\l"
+]
+[11Jun2025 23:20:41.638] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:20:43.341] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:20:43.646] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:20:43.742] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:21:41.591] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:awful_dungeon_spawn
+[11Jun2025 23:22:25.962] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:22:25.963] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:22:43.300] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:22:43.799] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:22:45.374] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=-1276, y=35, z=291} at Chest with:minecraft:chests/bastion_other
+[11Jun2025 23:22:54.843] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:22:57.695] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:22:59.150] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:23:00.455] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:23:05.293] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:23:07.154] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:23:08.596] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:23:10.990] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:23:15.191] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:23:41.185] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:23:41.185] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 36
+}
+[11Jun2025 23:23:41.185] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 23:23:41.186] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "9JXHLPI*Fx<464mAm.M"
+]
+[11Jun2025 23:23:41.296] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
