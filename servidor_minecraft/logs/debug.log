@@ -16047,3 +16047,128 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [
   "0ry=AC$ghS/M336{ Yf5k!e"
 ]
+[11Jun2025 22:33:05.712] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[11Jun2025 22:33:05.713] [Server thread/DEBUG] [mixin/]: Mixing PiglinAiMixin from relics.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[11Jun2025 22:33:05.713] [Server thread/DEBUG] [mixin/]: relics.mixins.json:PiglinAiMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[11Jun2025 22:34:25.222] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[11Jun2025 22:34:25.222] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 22:34:25.222] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 22:34:25.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 22:34:25.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 22:34:25.351] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[11Jun2025 22:35:03.207] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:35:03.207] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 50
+}
+[11Jun2025 22:35:03.208] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 22:35:03.208] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~DZ6+VAC!^5464h?q"
+]
+[11Jun2025 22:35:20.531] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[11Jun2025 22:35:22.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[11Jun2025 22:35:22.534] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[11Jun2025 22:35:22.696] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749681322696
+[11Jun2025 22:35:22.773] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[11Jun2025 22:35:23.029] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[11Jun2025 22:35:23.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[11Jun2025 22:35:23.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_1
+[11Jun2025 22:35:23.033] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[11Jun2025 22:35:23.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[11Jun2025 22:35:23.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[11Jun2025 22:35:23.034] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[11Jun2025 22:35:23.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[11Jun2025 22:35:23.035] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[11Jun2025 22:35:23.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[11Jun2025 22:35:23.036] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_4
+[11Jun2025 22:35:24.987] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[11Jun2025 22:35:27.107] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749681327078
+[11Jun2025 22:35:34.198] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749681334171
+[11Jun2025 22:35:42.193] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:43.223] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:44.261] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:45.326] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:46.625] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:47.627] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:56.649] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:57.041] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:57.453] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:58.954] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:59.341] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:35:59.755] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:00.153] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:00.580] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:00.984] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:01.398] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:01.812] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:02.758] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:03.160] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:03.550] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:04.038] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:04.473] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:04.847] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:05.243] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:36:05.912] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@79c0f2b7 for service interface com.blamejared.clumps.platform.IEventHelper
+[11Jun2025 22:36:05.912] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@7136d69e for service interface com.blamejared.clumps.platform.IPlatformHelper
+[11Jun2025 22:36:15.327] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1749681375323
+[11Jun2025 22:36:41.155] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[11Jun2025 22:37:06.397] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:37:06.398] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1629460
+}
+[11Jun2025 22:37:06.398] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 145 extra bytes: 
+[11Jun2025 22:37:06.398] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "0GGe9.FpF`^f3528$,&])o6#v{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Pn"
+]
+[11Jun2025 22:37:06.399] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPickItemPacket  id 26 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:37:06.399] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134222_": 71
+}
+[11Jun2025 22:37:06.399] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 26 data of 241 extra bytes: 
+[11Jun2025 22:37:06.400] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Ge9.FpF`^f3528$,&])o6#v{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~PnSL!r-@8jd+M09DtkN-C[Dv}(1\\Ny]A3HKiZyC*7"
+]
+[11Jun2025 22:37:44.641] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:37:44.641] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 586650
+}
+[11Jun2025 22:37:44.641] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[11Jun2025 22:37:44.642] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "nc8NN4g)AU}336,a%"
+]
+[11Jun2025 22:38:16.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastResult$Type
+[11Jun2025 22:38:31.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/2612, l='ServerLevel[world]', x=34.36, y=-20.00, z=-211.45] died: Restless Spirit was killed
+[11Jun2025 22:38:36.900] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:38:39.003] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:38:39.836] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:38:41.384] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:38:55.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Withering Heights]
+[11Jun2025 22:38:55.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Withering Heights]
+[11Jun2025 22:39:04.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [c611b844-5339-4fb4-8e73-7460f7a0fdf9]
+[11Jun2025 22:39:06.831] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityExplosionBehaviorMixin from lithium.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[11Jun2025 22:39:06.831] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.explosion_behavior.EntityExplosionBehaviorMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[11Jun2025 22:39:25.219] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[11Jun2025 22:39:25.219] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 22:39:25.219] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 22:39:25.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 22:39:25.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 22:39:25.376] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[11Jun2025 22:41:23.334] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 22:41:40.743] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [6af27b93-d2a7-488e-aeb1-be0c4dbda1e1]
+[11Jun2025 22:42:11.896] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:42:11.897] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 42
+}
+[11Jun2025 22:42:11.897] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 22:42:11.897] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "XvL]&Ni e5=464lum"
+]

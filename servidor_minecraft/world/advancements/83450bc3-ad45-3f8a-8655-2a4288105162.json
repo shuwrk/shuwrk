@@ -9850,5 +9850,35 @@
     },
     "done": true
   },
+  "l2complements:recipes/burnt/burnt/nether_star": {
+    "criteria": {
+      "has_nether_star": "2025-06-11 22:39:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-06-11 22:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-06-11 22:38:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-11 22:39:13 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/owner_protection": {
+    "criteria": {
+      "has_nether_star": "2025-06-11 22:39:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
