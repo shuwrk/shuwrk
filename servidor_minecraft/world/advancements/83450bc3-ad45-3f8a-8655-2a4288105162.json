@@ -9592,6 +9592,12 @@
     },
     "done": true
   },
+  "cisco_mod:anewlegend": {
+    "criteria": {
+      "anewlegend": "2025-06-10 23:51:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-06-10 20:59:54 +0000"
@@ -9745,6 +9751,12 @@
   "undead_revamp2:defeatundeadbosses": {
     "criteria": {
       "defeatundeadbosses_0": "2025-06-10 23:14:15 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-06-10 23:48:17 +0000"
     },
     "done": true
   },

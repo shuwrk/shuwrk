@@ -6373,3 +6373,21 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   ";6HrvW2336k)2_''HW{Lj{]ufjhT]_VFop"
 ]
 [10Jun2025 23:48:17.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has completed the challenge [Titan-Forged]
+[10Jun2025 23:51:19.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has completed the challenge [Duels and Demi-Gods]
+[10Jun2025 23:51:19.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has completed the challenge [Duels and Demi-Gods]
+[10Jun2025 23:52:31.959] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 23:52:31.959] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[10Jun2025 23:52:52.110] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[10Jun2025 23:52:52.110] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 28
+}
+[10Jun2025 23:52:52.110] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 162 extra bytes: 
+[10Jun2025 23:52:52.110] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "PL.[ZgTmUif464P[yH1,n:nn{]ufjhT)S*@Cpd%KCU o~6^s0=PT6.}&eFz5b,%"
+]
+[10Jun2025 23:53:00.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/141136, l='ServerLevel[world]', x=76.83, y=-20.00, z=-221.91] died: Restless Spirit was killed
+[10Jun2025 23:56:16.531] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[10Jun2025 23:57:31.958] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[10Jun2025 23:57:31.959] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
