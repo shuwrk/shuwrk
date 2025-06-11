@@ -124,6 +124,7 @@
       "minecraft:dark_forest": "2025-06-04 18:02:56 +0000",
       "minecraft:sparse_jungle": "2025-06-07 01:06:24 +0000",
       "minecraft:river": "2025-06-04 03:00:11 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-11 23:43:22 +0000",
       "minecraft:snowy_plains": "2025-06-04 21:35:42 +0000",
       "minecraft:stony_shore": "2025-06-04 17:07:35 +0000",
       "minecraft:snowy_taiga": "2025-06-04 21:48:24 +0000",
@@ -136,6 +137,7 @@
       "minecraft:jungle": "2025-06-07 00:28:41 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-04 21:43:50 +0000",
       "minecraft:snowy_beach": "2025-06-04 21:35:39 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-11 23:47:33 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 17:16:54 +0000",
       "minecraft:deep_dark": "2025-06-06 23:08:18 +0000",
       "minecraft:meadow": "2025-06-04 19:17:48 +0000",
@@ -2103,6 +2105,7 @@
       "cold_river": "2025-06-04 19:12:04 +0000",
       "old_growth_bayou": "2025-06-04 19:23:25 +0000",
       "spires": "2025-06-04 21:49:31 +0000",
+      "grassland": "2025-06-11 23:44:10 +0000",
       "gravel_beach": "2025-06-04 19:08:16 +0000",
       "redwoods": "2025-06-04 19:31:46 +0000",
       "golden_boreal_taiga": "2025-06-07 00:14:06 +0000",
@@ -2143,6 +2146,7 @@
       "cold_river": "2025-06-04 19:12:04 +0000",
       "old_growth_bayou": "2025-06-04 19:23:25 +0000",
       "spires": "2025-06-04 21:49:31 +0000",
+      "grassland": "2025-06-11 23:44:10 +0000",
       "gravel_beach": "2025-06-04 19:08:16 +0000",
       "redwoods": "2025-06-04 19:31:46 +0000",
       "golden_boreal_taiga": "2025-06-07 00:14:06 +0000",
@@ -2265,6 +2269,7 @@
       "minecraft:pillager": "2025-06-04 17:17:03 +0000",
       "minecraft:skeleton": "2025-06-04 16:04:38 +0000",
       "minecraft:zoglin": "2025-06-04 20:29:05 +0000",
+      "minecraft:ghast": "2025-06-11 23:39:58 +0000",
       "minecraft:hoglin": "2025-06-04 20:05:12 +0000",
       "minecraft:vindicator": "2025-06-04 19:15:21 +0000",
       "minecraft:magma_cube": "2025-06-04 21:08:57 +0000",
@@ -2278,7 +2283,8 @@
       "minecraft:piglin": "2025-06-04 18:56:41 +0000",
       "minecraft:silverfish": "2025-06-04 18:21:43 +0000",
       "minecraft:vex": "2025-06-04 18:45:55 +0000",
-      "minecraft:zombie": "2025-06-04 18:20:40 +0000"
+      "minecraft:zombie": "2025-06-04 18:20:40 +0000",
+      "minecraft:zombie_villager": "2025-06-11 23:45:09 +0000"
     },
     "done": false
   },
@@ -9856,6 +9862,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-06-11 23:41:40 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2025-06-11 23:11:29 +0000"
@@ -9880,9 +9892,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-06-11 23:31:52 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-06-11 23:44:41 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2025-06-11 23:11:29 +0000"
+    },
+    "done": true
+  },
+  "eeeabsmobs:eeeabsmobs/kill_corpse_warlock": {
+    "criteria": {
+      "requirement": "2025-06-11 23:34:00 +0000"
     },
     "done": true
   },
@@ -9895,6 +9925,18 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-06-11 22:39:13 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-06-11 23:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-06-11 23:31:52 +0000"
     },
     "done": true
   },

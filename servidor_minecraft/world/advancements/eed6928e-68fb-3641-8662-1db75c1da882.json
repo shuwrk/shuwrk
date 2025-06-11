@@ -6510,6 +6510,7 @@
     "criteria": {
       "incendium:weeping_valley": "2025-06-04 18:43:39 +0000",
       "incendium:infernal_dunes": "2025-06-10 22:30:55 +0000",
+      "incendium:volcanic_deltas": "2025-06-11 23:47:58 +0000",
       "incendium:toxic_heap": "2025-06-11 23:05:38 +0000",
       "incendium:withered_forest": "2025-06-10 22:20:34 +0000"
     },
@@ -9411,78 +9412,35 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-11 23:24:35 +0000",
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
+      "summoned": "2025-06-11 22:38:55 +0000"
     },
     "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "l2complements:recipes/burnt/burnt/nether_star": {
     "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
+      "has_nether_star": "2025-06-11 22:39:24 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "securitycraft:recipes/tools/codebreaker": {
     "criteria": {
-      "log_spam_fixer": "2025-06-11 23:24:32 +0000"
+      "has_nether_star": "2025-06-11 22:39:24 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-11 22:39:24 +0000"
+    },
+    "done": true
+  },
+  "l2complements:recipes/enchantments/enchantments/owner_protection": {
+    "criteria": {
+      "has_nether_star": "2025-06-11 22:39:24 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
@@ -9502,63 +9460,15 @@
     },
     "done": true
   },
-  "l2complements:recipes/burnt/burnt/nether_star": {
-    "criteria": {
-      "has_nether_star": "2025-06-11 22:39:24 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/codebreaker": {
-    "criteria": {
-      "has_nether_star": "2025-06-11 22:39:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-11 22:56:48 +0000"
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-06-11 22:38:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-06-11 22:39:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-11 22:56:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-06-11 22:56:54 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/root": {
-    "criteria": {
-      "requirement": "2025-06-11 23:05:38 +0000"
-    },
-    "done": true
-  },
-  "l2complements:recipes/enchantments/enchantments/owner_protection": {
-    "criteria": {
-      "has_nether_star": "2025-06-11 22:39:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-06-11 22:56:54 +0000"
     },
     "done": true
   },
@@ -9574,9 +9484,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-11 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-06-11 22:56:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-06-11 22:56:54 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/root": {
+    "criteria": {
+      "requirement": "2025-06-11 23:05:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-06-11 23:47:58 +0000"
     },
     "done": true
   },
