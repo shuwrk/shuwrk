@@ -16853,3 +16853,113 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "9JXHLPI*Fx<464mAm.M"
 ]
 [11Jun2025 23:23:41.296] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:24:06.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuwii moved wrongly!
+[11Jun2025 23:24:28.162] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:24:28.163] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1074388
+}
+[11Jun2025 23:24:28.163] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 101 extra bytes: 
+[11Jun2025 23:24:28.163] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "eGi_H @e85352X8n%ZI4L8{]ufjhT]_VFopu-9_"
+]
+[11Jun2025 23:24:32.076] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[11Jun2025 23:24:32.076] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 23:24:32.076] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 23:24:32.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 23:24:32.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 23:24:32.175] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[11Jun2025 23:24:44.372] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:24:44.843] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:24:45.139] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:24:45.196] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:24:45.458] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:24:45.717] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:24:46.102] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:25:29.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UniFoxyR lost connection: Timed out
+[11Jun2025 23:25:29.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR left the game
+[11Jun2025 23:25:29.316] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jun2025 23:25:56.842] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:25:56.843] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 106
+}
+[11Jun2025 23:25:56.843] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 23:25:56.843] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "RlWX@C?IDoz@,W^\"!336J-2>3d"
+]
+[11Jun2025 23:26:15.439] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-1152, y=70, z=-462} at Chest with:minecraft:chests/ruined_portal
+[11Jun2025 23:26:35.829] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:26:43.679] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:26:43.680] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:28:21.479] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:29:31.932] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[11Jun2025 23:29:31.933] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large8
+[11Jun2025 23:29:31.934] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[11Jun2025 23:29:31.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden2
+[11Jun2025 23:29:31.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small3
+[11Jun2025 23:29:32.048] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[11Jun2025 23:29:32.048] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 23:29:32.049] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 23:29:32.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 23:29:32.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 23:29:32.137] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[11Jun2025 23:30:08.598] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:30:22.805] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:30:22.806] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 124
+}
+[11Jun2025 23:30:22.806] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 79 extra bytes: 
+[11Jun2025 23:30:22.806] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "{(`#8;2!(,352[a7P4np1iEI{]uf"
+]
+[11Jun2025 23:30:35.226] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:30:35.226] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 226347
+}
+[11Jun2025 23:30:35.226] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 59 extra bytes: 
+[11Jun2025 23:30:35.226] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "p2 Z*lah=g9y2.464iW.g5R9"
+]
+[11Jun2025 23:30:35.227] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerInputPacket  id 31 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:30:35.227] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134339_": -2850.0347,
+  "f_134340_": 2.8593122E16,
+  "f_134341_": false,
+  "f_134342_": false
+}
+[11Jun2025 23:30:35.227] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 31 data of 150 extra bytes: 
+[11Jun2025 23:30:35.227] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "ah=g9y2.464iW.g5R9Rb{]ufjh)S*@Cpd%KCU o~6^s0=PT6.}&eFz5b,%"
+]
+[11Jun2025 23:31:18.593] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:31:18.593] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 113
+}
+[11Jun2025 23:31:18.593] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 23:31:18.593] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "] I!eF-fV 336sg/"
+]
+[11Jun2025 23:32:28.455] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:32:28.455] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[11Jun2025 23:32:28.455] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[11Jun2025 23:32:28.456] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[11Jun2025 23:33:33.876] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/eeeab/eeeabsmobs/sever/entity/corpse/EntityCorpseWarlock$TargetType
+[11Jun2025 23:33:43.777] [Server thread/DEBUG] [mixin/]: Mixing CombatRulesMixin from attributeslib.mixins.json into net.minecraft.world.damagesource.CombatRules
+[11Jun2025 23:34:00.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has reached the goal [Pagan]
