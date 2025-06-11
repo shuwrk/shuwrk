@@ -4880,3 +4880,117 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
 ]
 [11Jun2025 22:50:22.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii has made the advancement [Down to the Core]
+[11Jun2025 22:53:48.344] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:53:48.344] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 15446
+}
+[11Jun2025 22:53:48.345] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[11Jun2025 22:53:48.345] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "cu0\"5'td/#}XNN#COs 336q/OL'~Un)"
+]
+[11Jun2025 22:54:30.067] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 22:54:30.067] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 22:54:53.156] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:54:53.157] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 305823
+}
+[11Jun2025 22:54:53.157] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 46 extra bytes: 
+[11Jun2025 22:54:53.157] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Jt@u0l5u_d352u#1*s"
+]
+[11Jun2025 22:55:20.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/7675, l='ServerLevel[world]', x=34.36, y=-20.00, z=-211.45] died: Restless Spirit was killed
+[11Jun2025 22:56:06.176] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:56:06.176] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 68
+}
+[11Jun2025 22:56:06.176] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 148 extra bytes: 
+[11Jun2025 22:56:06.177] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "';}h$(?L7Q464$%?c`G<_H|+RC{]ufjhT)S*@Cpd%KCU o~6^s0=PT6.}&"
+]
+[11Jun2025 22:56:21.354] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/7957, l='ServerLevel[world]', x=161.18, y=-20.00, z=-46.14] died: Restless Spirit was killed
+[11Jun2025 22:56:21.355] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/7959, l='ServerLevel[world]', x=161.56, y=-20.00, z=-46.90] died: Restless Spirit was killed
+[11Jun2025 22:56:34.730] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:56:34.731] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[11Jun2025 22:56:34.731] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[11Jun2025 22:56:34.731] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T528*p*yAF|=)w%n2aJ0"
+]
+[11Jun2025 22:57:01.853] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8222, l='ServerLevel[world]', x=214.08, y=-20.00, z=-25.04] died: Restless Spirit was killed
+[11Jun2025 22:57:11.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8269, l='ServerLevel[world]', x=214.08, y=-20.00, z=-25.04] died: Restless Spirit was killed
+[11Jun2025 22:58:20.927] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8030, l='ServerLevel[world]', x=75.37, y=112.96, z=-181.09] died: Restless Spirit starved to death
+[11Jun2025 22:58:35.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Bingdark the Mighty'/8081, l='ServerLevel[world]', x=140.66, y=90.00, z=-208.56] died: Bingdark the Mighty was slain by UniFoxyR
+[11Jun2025 22:58:58.803] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8632, l='ServerLevel[world]', x=214.08, y=-20.00, z=-25.04] died: Restless Spirit was killed
+[11Jun2025 22:59:05.596] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:59:05.597] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 26
+}
+[11Jun2025 22:59:05.597] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 22:59:05.597] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "o4<173vBsK4EU368!Ae"
+]
+[11Jun2025 22:59:09.375] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:59:09.375] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1906183
+}
+[11Jun2025 22:59:09.376] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 65 extra bytes: 
+[11Jun2025 22:59:09.376] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "R(8<cZor2Q336.?M.KvxC3AyT9W"
+]
+[11Jun2025 22:59:30.067] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 22:59:30.068] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 22:59:32.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8518, l='ServerLevel[world]', x=51.57, y=81.10, z=-171.59] died: Restless Spirit starved to death
+[11Jun2025 22:59:39.202] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8790, l='ServerLevel[world]', x=157.74, y=-20.00, z=33.41] died: Restless Spirit was killed
+[11Jun2025 22:59:45.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8842, l='ServerLevel[world]', x=86.76, y=-20.00, z=49.03] died: Restless Spirit was killed
+[11Jun2025 22:59:45.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8859, l='ServerLevel[world]', x=153.16, y=-20.00, z=52.85] died: Restless Spirit was killed
+[11Jun2025 22:59:48.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8891, l='ServerLevel[world]', x=136.76, y=-20.00, z=74.08] died: Restless Spirit was killed
+[11Jun2025 22:59:51.088] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 22:59:51.088] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[11Jun2025 22:59:51.088] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[11Jun2025 22:59:51.089] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[11Jun2025 22:59:54.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8965, l='ServerLevel[world]', x=161.37, y=-20.00, z=91.66] died: Restless Spirit was killed
+[11Jun2025 22:59:54.455] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8966, l='ServerLevel[world]', x=164.67, y=-20.00, z=94.91] died: Restless Spirit was killed
+[11Jun2025 23:00:13.777] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8668, l='ServerLevel[world]', x=110.13, y=103.91, z=-143.36] died: Restless Spirit starved to death
+[11Jun2025 23:00:47.839] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:00:47.839] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6773
+}
+[11Jun2025 23:00:47.840] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 118 extra bytes: 
+[11Jun2025 23:00:47.840] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "B1j8pBh0|E352v_h,WC}u8Bq~qfR){]ufjhT]_VFopu-9_OrI0g,"
+]
+[11Jun2025 23:01:14.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/9155, l='ServerLevel[world]', x=-24.95, y=59.69, z=-33.26] died: Restless Spirit starved to death
+[11Jun2025 23:01:17.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/9157, l='ServerLevel[world]', x=-27.80, y=58.98, z=-35.54] died: Restless Spirit starved to death
+[11Jun2025 23:01:54.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/9092, l='ServerLevel[world]', x=-1.90, y=58.48, z=-45.82] died: Restless Spirit starved to death
+[11Jun2025 23:03:00.075] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:03:00.076] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 43
+}
+[11Jun2025 23:03:00.076] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 81 extra bytes: 
+[11Jun2025 23:03:00.076] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "y:Neb0$464LCR@MF]2\"uk{]ufjh"
+]
+[11Jun2025 23:03:11.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10051, l='ServerLevel[world]', x=136.76, y=-20.00, z=74.08] died: Restless Spirit was killed

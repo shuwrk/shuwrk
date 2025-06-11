@@ -9874,9 +9874,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 22:50:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-06-11 22:39:13 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:root": {
+    "criteria": {
+      "obtained_core": "2025-06-11 22:50:22 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_smelting": {
+    "criteria": {
+      "has_item": "2025-06-11 22:50:22 +0000"
     },
     "done": true
   },
@@ -9889,6 +9907,12 @@
   "l2complements:recipes/enchantments/enchantments/owner_protection": {
     "criteria": {
       "has_nether_star": "2025-06-11 22:39:13 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core_blasting": {
+    "criteria": {
+      "has_item": "2025-06-11 22:50:22 +0000"
     },
     "done": true
   },
