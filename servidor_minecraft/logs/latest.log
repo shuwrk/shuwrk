@@ -54,3 +54,68 @@
 [
   "PhE3a:Dp#368`qdS\"cIU"
 ]
+[11Jun2025 00:10:28.097] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 00:10:28.097] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[11Jun2025 00:10:28.097] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[11Jun2025 00:10:28.098] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[11Jun2025 00:12:31.960] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 00:12:31.960] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 00:13:42.374] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 00:13:42.375] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 26
+}
+[11Jun2025 00:13:42.375] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 00:13:42.375] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "EGr!zJ_P!~4648F"
+]
+[11Jun2025 00:15:34.986] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 00:15:34.986] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 52
+}
+[11Jun2025 00:15:34.986] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 94 extra bytes: 
+[11Jun2025 00:15:34.987] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "-nP#kpX&bqR0T512*p*yAF|=)w%n2aJ0"
+]
+[11Jun2025 00:17:31.971] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 00:17:31.972] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 00:19:50.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuwii lost connection: Disconnected
+[11Jun2025 00:19:50.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii left the game
+[11Jun2025 00:20:01.271] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 91
+[11Jun2025 00:20:01.272] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 92
+[11Jun2025 00:20:01.272] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 93
+[11Jun2025 00:20:01.272] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 94
+[11Jun2025 00:20:01.272] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 95
+[11Jun2025 00:20:01.273] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 96
+[11Jun2025 00:20:01.273] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 97
+[11Jun2025 00:20:01.273] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 98
+[11Jun2025 00:20:01.273] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 99
+[11Jun2025 00:20:01.273] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 100
+[11Jun2025 00:20:01.274] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 101
+[11Jun2025 00:20:01.283] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 102
+[11Jun2025 00:20:02.775] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 103
+[11Jun2025 00:20:02.776] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 104
+[11Jun2025 00:20:03.002] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 105
+[11Jun2025 00:20:03.689] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 106
+[11Jun2025 00:20:03.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shuwii[/127.139.145.126:51447] logged in with entity id 146470 at (1382.050000011921, 55.0, 156.0440672827331)
+[11Jun2025 00:20:03.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Shuwii
+[11Jun2025 00:20:03.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Shuwii
+[11Jun2025 00:20:03.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Shuwii
+[11Jun2025 00:20:03.831] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Shuwii
+[11Jun2025 00:20:03.833] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Shuwii
+[11Jun2025 00:20:03.834] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Shuwii
+[11Jun2025 00:20:03.835] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Shuwii
+[11Jun2025 00:20:03.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shuwii joined the game
+[11Jun2025 00:20:03.899] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/7556, l='ServerLevel[world]', x=1421.56, y=-35.61, z=203.53, removed=DISCARDED]
+[11Jun2025 00:20:03.949] [Server thread/INFO] [fallingtrees | Config/]: Sending common config 'fallingtrees:fallingtrees_common' to Shuwii
+[11Jun2025 00:20:03.971] [Server thread/INFO] [Jade/]: Syncing config to Shuwii (83450bc3-ad45-3f8a-8655-2a4288105162)
+[11Jun2025 00:20:04.044] [Netty Epoll Server IO #0/INFO] [fallingtrees | Config/]: Received client config 'fallingtrees:fallingtrees_client' from Shuwii
