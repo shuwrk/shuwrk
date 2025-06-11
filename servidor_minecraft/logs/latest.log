@@ -4994,3 +4994,78 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "y:Neb0$464LCR@MF]2\"uk{]ufjh"
 ]
 [11Jun2025 23:03:11.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10051, l='ServerLevel[world]', x=136.76, y=-20.00, z=74.08] died: Restless Spirit was killed
+[11Jun2025 23:03:51.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10226, l='ServerLevel[world]', x=161.37, y=-20.00, z=91.66] died: Restless Spirit was killed
+[11Jun2025 23:03:51.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10227, l='ServerLevel[world]', x=164.67, y=-20.00, z=94.91] died: Restless Spirit was killed
+[11Jun2025 23:04:14.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['NoWayHere the Cheese Sprayer'/10125, l='ServerLevel[world]', x=-10.86, y=66.00, z=68.73] died: NoWayHere the Cheese Sprayer was slain by UniFoxyR
+[11Jun2025 23:04:30.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 23:04:30.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 23:04:30.765] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:04:30.765] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6069
+}
+[11Jun2025 23:04:30.766] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[11Jun2025 23:04:30.766] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "D}b@<!gS!z336iVY<8_"
+]
+[11Jun2025 23:04:38.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10027, l='ServerLevel[world]', x=-14.60, y=26.90, z=56.57] died: Restless Spirit starved to death
+[11Jun2025 23:04:44.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/10286, l='ServerLevel[world]', x=-6.90, y=54.00, z=51.10] died: Withering Archer was slain by UniFoxyR
+[11Jun2025 23:05:21.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Gaze the Withering'/9578, l='ServerLevel[world]', x=10.06, y=103.33, z=112.51] died: Gaze the Withering was slain by Shuwii
+[11Jun2025 23:05:38.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Radioactive]
+[11Jun2025 23:06:32.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10617, l='ServerLevel[world]', x=34.64, y=17.58, z=152.22] died: Restless Spirit starved to death
+[11Jun2025 23:06:36.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10315, l='ServerLevel[world]', x=-7.96, y=-20.00, z=234.13] died: Toxic Slime was killed
+[11Jun2025 23:06:44.076] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:06:44.076] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 107
+}
+[11Jun2025 23:06:44.077] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 108 extra bytes: 
+[11Jun2025 23:06:44.077] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "6Dk1td1i]l5b:S352dg [6TdS&Rx{]ufjhT]_VFopu-9_OrI"
+]
+[11Jun2025 23:06:59.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10980, l='ServerLevel[world]', x=161.37, y=-20.00, z=91.66] died: Restless Spirit was killed
+[11Jun2025 23:06:59.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10981, l='ServerLevel[world]', x=164.67, y=-20.00, z=94.91] died: Restless Spirit was killed
+[11Jun2025 23:06:59.926] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10746, l='ServerLevel[world]', x=-35.47, y=81.26, z=96.37] died: Restless Spirit starved to death
+[11Jun2025 23:07:06.834] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Hendrix'/10857, l='ServerLevel[world]', x=-9.29, y=67.00, z=135.55] died: Hendrix was slain by UniFoxyR
+[11Jun2025 23:08:05.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10974, l='ServerLevel[world]', x=-65.37, y=105.01, z=-19.91] died: Restless Spirit starved to death
+[11Jun2025 23:08:14.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Veril the Withered'/8927, l='ServerLevel[world]', x=-92.27, y=52.00, z=-23.46] died: Veril the Withered was slain by Shuwii
+[11Jun2025 23:09:30.251] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 23:09:30.252] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 23:09:30.773] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[11Jun2025 23:09:30.773] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[11Jun2025 23:09:30.779] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[11Jun2025 23:09:52.640] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:09:52.641] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1979646753
+}
+[11Jun2025 23:09:52.641] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[11Jun2025 23:09:52.641] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "hqg3~_UIV3364U)j0"
+]
+[11Jun2025 23:09:55.221] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:09:55.221] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 58
+}
+[11Jun2025 23:09:55.222] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 23:09:55.222] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "pnXKNBqhr`7h4649Z?]"
+]
+[11Jun2025 23:10:45.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Brandon the Undoubtable'/12101, l='ServerLevel[world]', x=-336.17, y=138.00, z=158.07] died: Brandon the Undoubtable was slain by UniFoxyR
+[11Jun2025 23:12:40.041] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:12:40.042] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 23
+}
+[11Jun2025 23:12:40.042] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 23:12:40.042] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "n~T*$m0?1cng51\"*352SOeEV#E,"
+]
+[11Jun2025 23:12:50.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[11Jun2025 23:12:53.258] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor

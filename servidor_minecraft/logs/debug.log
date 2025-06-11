@@ -16423,3 +16423,301 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "y:Neb0$464LCR@MF]2\"uk{]ufjh"
 ]
 [11Jun2025 23:03:11.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10051, l='ServerLevel[world]', x=136.76, y=-20.00, z=74.08] died: Restless Spirit was killed
+[11Jun2025 23:03:17.639] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:03:28.536] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:03:28.540] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:03:30.487] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:03:37.930] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:03:42.941] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:03:51.402] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10226, l='ServerLevel[world]', x=161.37, y=-20.00, z=91.66] died: Restless Spirit was killed
+[11Jun2025 23:03:51.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10227, l='ServerLevel[world]', x=164.67, y=-20.00, z=94.91] died: Restless Spirit was killed
+[11Jun2025 23:03:56.602] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:04:07.535] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:04:07.541] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:04:07.545] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:04:10.090] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:04:14.335] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['NoWayHere the Cheese Sprayer'/10125, l='ServerLevel[world]', x=-10.86, y=66.00, z=68.73] died: NoWayHere the Cheese Sprayer was slain by UniFoxyR
+[11Jun2025 23:04:30.057] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[11Jun2025 23:04:30.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 23:04:30.057] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 23:04:30.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 23:04:30.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 23:04:30.171] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[11Jun2025 23:04:30.765] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:04:30.765] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 6069
+}
+[11Jun2025 23:04:30.766] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 47 extra bytes: 
+[11Jun2025 23:04:30.766] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "D}b@<!gS!z336iVY<8_"
+]
+[11Jun2025 23:04:38.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10027, l='ServerLevel[world]', x=-14.60, y=26.90, z=56.57] died: Restless Spirit starved to death
+[11Jun2025 23:04:41.544] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:04:44.590] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/10286, l='ServerLevel[world]', x=-6.90, y=54.00, z=51.10] died: Withering Archer was slain by UniFoxyR
+[11Jun2025 23:04:52.040] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:04:52.045] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:04:55.633] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:05:21.879] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:05:21.880] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Gaze the Withering'/9578, l='ServerLevel[world]', x=10.06, y=103.33, z=112.51] died: Gaze the Withering was slain by Shuwii
+[11Jun2025 23:05:21.880] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:05:38.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR has made the advancement [Radioactive]
+[11Jun2025 23:05:47.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:05:47.695] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:05:50.080] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:05:57.983] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:05:57.987] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:06:02.631] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:06:30.582] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[11Jun2025 23:06:32.321] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10617, l='ServerLevel[world]', x=34.64, y=17.58, z=152.22] died: Restless Spirit starved to death
+[11Jun2025 23:06:36.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10315, l='ServerLevel[world]', x=-7.96, y=-20.00, z=234.13] died: Toxic Slime was killed
+[11Jun2025 23:06:44.076] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:06:44.076] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 107
+}
+[11Jun2025 23:06:44.077] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 108 extra bytes: 
+[11Jun2025 23:06:44.077] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "6Dk1td1i]l5b:S352dg [6TdS&Rx{]ufjhT]_VFopu-9_OrI"
+]
+[11Jun2025 23:06:59.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10980, l='ServerLevel[world]', x=161.37, y=-20.00, z=91.66] died: Restless Spirit was killed
+[11Jun2025 23:06:59.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10981, l='ServerLevel[world]', x=164.67, y=-20.00, z=94.91] died: Restless Spirit was killed
+[11Jun2025 23:06:59.926] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10746, l='ServerLevel[world]', x=-35.47, y=81.26, z=96.37] died: Restless Spirit starved to death
+[11Jun2025 23:07:06.834] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Hendrix'/10857, l='ServerLevel[world]', x=-9.29, y=67.00, z=135.55] died: Hendrix was slain by UniFoxyR
+[11Jun2025 23:07:30.289] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:08:05.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/10974, l='ServerLevel[world]', x=-65.37, y=105.01, z=-19.91] died: Restless Spirit starved to death
+[11Jun2025 23:08:14.637] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:08:14.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Veril the Withered'/8927, l='ServerLevel[world]', x=-92.27, y=52.00, z=-23.46] died: Veril the Withered was slain by Shuwii
+[11Jun2025 23:09:29.129] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin
+[11Jun2025 23:09:29.137] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_4
+[11Jun2025 23:09:29.143] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner
+[11Jun2025 23:09:29.149] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_5
+[11Jun2025 23:09:29.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/skull_pile
+[11Jun2025 23:09:29.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[11Jun2025 23:09:29.333] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Jun2025 23:09:29.333] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.chunk_region.ChunkRegionMixin from lithium.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Jun2025 23:09:29.334] [Worker-Main-2/DEBUG] [mixin/]: lithium.mixins.json:gen.chunk_region.ChunkRegionMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[11Jun2025 23:09:29.335] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Jun2025 23:09:29.335] [Worker-Main-2/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Jun2025 23:09:29.335] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Jun2025 23:09:29.335] [Worker-Main-2/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Jun2025 23:09:29.337] [Worker-Main-2/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Jun2025 23:09:29.337] [Worker-Main-2/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[11Jun2025 23:09:29.340] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Jun2025 23:09:29.340] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Jun2025 23:09:29.340] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Jun2025 23:09:29.340] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[11Jun2025 23:09:29.340] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Jun2025 23:09:29.340] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Jun2025 23:09:29.340] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Jun2025 23:09:29.340] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Jun2025 23:09:29.340] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[11Jun2025 23:09:29.340] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[11Jun2025 23:09:29.778] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[11Jun2025 23:09:29.779] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[11Jun2025 23:09:29.779] [Worker-Main-1/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[11Jun2025 23:09:29.780] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from valhelsia_structures.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[11Jun2025 23:09:29.782] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[11Jun2025 23:09:29.783] [Worker-Main-1/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[11Jun2025 23:09:29.788] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[11Jun2025 23:09:29.788] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[11Jun2025 23:09:30.251] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[11Jun2025 23:09:30.251] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[11Jun2025 23:09:30.252] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[11Jun2025 23:09:30.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 23:09:30.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 23:09:30.437] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[11Jun2025 23:09:30.773] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[11Jun2025 23:09:30.773] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[11Jun2025 23:09:30.778] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle_spawn
+[11Jun2025 23:09:30.779] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[11Jun2025 23:09:31.296] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:09:37.135] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:09:52.640] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:09:52.641] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 1979646753
+}
+[11Jun2025 23:09:52.641] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 44 extra bytes: 
+[11Jun2025 23:09:52.641] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "hqg3~_UIV3364U)j0"
+]
+[11Jun2025 23:09:55.125] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:09:55.221] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:09:55.221] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 58
+}
+[11Jun2025 23:09:55.222] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 23:09:55.222] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "pnXKNBqhr`7h4649Z?]"
+]
+[11Jun2025 23:09:57.335] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:10:07.214] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/towncenter4
+[11Jun2025 23:10:07.216] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[11Jun2025 23:10:07.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[11Jun2025 23:10:07.218] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter2
+[11Jun2025 23:10:07.219] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[11Jun2025 23:10:07.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[11Jun2025 23:10:07.221] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[11Jun2025 23:10:07.222] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[11Jun2025 23:10:07.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden3
+[11Jun2025 23:10:07.225] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[11Jun2025 23:10:07.227] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[11Jun2025 23:10:07.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[11Jun2025 23:10:07.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[11Jun2025 23:10:07.230] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[11Jun2025 23:10:07.231] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter4
+[11Jun2025 23:10:07.233] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large7
+[11Jun2025 23:10:07.235] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small2
+[11Jun2025 23:10:07.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[11Jun2025 23:10:07.236] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road3
+[11Jun2025 23:10:07.237] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road5
+[11Jun2025 23:10:07.241] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[11Jun2025 23:10:07.243] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[11Jun2025 23:10:07.244] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[11Jun2025 23:10:07.245] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[11Jun2025 23:10:07.248] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[11Jun2025 23:10:07.249] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[11Jun2025 23:10:07.251] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large6
+[11Jun2025 23:10:07.254] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[11Jun2025 23:10:07.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[11Jun2025 23:10:07.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[11Jun2025 23:10:07.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[11Jun2025 23:10:07.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[11Jun2025 23:10:22.738] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[11Jun2025 23:10:22.745] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_5
+[11Jun2025 23:10:22.746] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_3
+[11Jun2025 23:10:22.754] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_7
+[11Jun2025 23:10:22.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_2
+[11Jun2025 23:10:22.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/burial_1
+[11Jun2025 23:10:45.799] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Brandon the Undoubtable'/12101, l='ServerLevel[world]', x=-336.17, y=138.00, z=158.07] died: Brandon the Undoubtable was slain by UniFoxyR
+[11Jun2025 23:10:52.635] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:10:54.417] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:10.436] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:11.043] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:11.639] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:12.436] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:13.146] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:17.342] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:17.987] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:18.590] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:19.350] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:20.001] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:20.687] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:21.291] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:22.387] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:23.190] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:23.838] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:24.438] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:25.741] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:26.387] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:26.994] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:27.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[11Jun2025 23:11:27.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter1
+[11Jun2025 23:11:27.053] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[11Jun2025 23:11:27.055] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[11Jun2025 23:11:27.057] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[11Jun2025 23:11:27.058] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_vh
+[11Jun2025 23:11:27.059] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_v
+[11Jun2025 23:11:27.061] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[11Jun2025 23:11:27.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[11Jun2025 23:11:27.062] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[11Jun2025 23:11:27.063] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[11Jun2025 23:11:27.064] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[11Jun2025 23:11:27.065] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[11Jun2025 23:11:27.067] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[11Jun2025 23:11:27.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[11Jun2025 23:11:27.069] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[11Jun2025 23:11:27.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_tall
+[11Jun2025 23:11:27.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[11Jun2025 23:11:27.071] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_end
+[11Jun2025 23:11:27.639] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:28.286] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:28.889] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:29.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle
+[11Jun2025 23:11:29.279] [Server thread/DEBUG] [mixin/]: Mixing vanilla.ContainersMixin from biggerstacks.mixins.json into net.minecraft.world.Containers
+[11Jun2025 23:11:29.279] [Server thread/DEBUG] [mixin/]: biggerstacks.mixins.json:vanilla.ContainersMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[11Jun2025 23:11:29.902] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:30.646] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:31.436] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:31.516] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:32.040] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:32.639] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:33.236] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:34.243] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:34.942] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:35.542] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:36.339] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:37.090] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:40.348] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:40.943] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:41.543] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:42.194] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:42.794] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:43.440] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:44.043] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:11:58.045] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[11Jun2025 23:11:58.482] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:castle/floors/1x1_l1
+[11Jun2025 23:12:11.029] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:12:12.861] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:12:40.041] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[11Jun2025 23:12:40.042] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 23
+}
+[11Jun2025 23:12:40.042] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[11Jun2025 23:12:40.042] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "n~T*$m0?1cng51\"*352SOeEV#E,"
+]
+[11Jun2025 23:12:50.034] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[11Jun2025 23:12:53.258] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[11Jun2025 23:12:58.556] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:12:58.833] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:12:58.890] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:12:58.943] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:12:59.452] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:12:59.727] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:12:59.926] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:00.159] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:00.400] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:00.602] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:03.034] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:03.087] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:04.069] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:05.082] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:07.290] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_nether_loot
+[11Jun2025 23:13:07.709] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:07.766] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:07.822] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:07.877] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:08.446] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:08.693] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:09.052] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:09.298] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:09.547] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:09.748] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:10.001] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:10.257] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:10.529] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:10.783] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:11.019] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:11.187] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:11.476] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:11.728] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:11.916] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:12.148] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:12.336] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:12.672] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:12.894] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:13.173] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:13.353] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:13.595] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:13.795] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:14.046] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[11Jun2025 23:13:25.419] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of structory_towers:warped_outpost_part1
