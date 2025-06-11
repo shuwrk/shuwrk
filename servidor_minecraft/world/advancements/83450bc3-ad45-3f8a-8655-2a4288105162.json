@@ -9538,9 +9538,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/netherite_sword_repairing": {
+  "sophisticatedbackpacks:recipes/misc/advanced_filter_upgrade": {
     "criteria": {
-      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
+      "has_filter_upgrade": "2025-06-10 20:26:19 +0000"
     },
     "done": true
   },
@@ -9550,51 +9550,9 @@
     },
     "done": true
   },
-  "celestisynth:recipes/misc/celestial_netherite_ingot_blasting": {
-    "criteria": {
-      "has_item": "2025-06-10 21:48:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-06-10 22:06:50 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/larch_wood": {
-    "criteria": {
-      "has_log": "2025-06-10 22:13:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone": {
-    "criteria": {
-      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-06-10 21:04:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-06-10 20:56:17 +0000"
-    },
-    "done": true
-  },
-  "cisco_mod:anewlegend": {
-    "criteria": {
-      "anewlegend": "2025-06-10 23:51:19 +0000"
     },
     "done": true
   },
@@ -9610,45 +9568,33 @@
     },
     "done": true
   },
-  "cisco_mod:nightfall_ad": {
-    "criteria": {
-      "nightfall_ad": "2025-06-10 23:45:36 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:daddy": {
-    "criteria": {
-      "daddy_0": "2025-06-10 23:14:15 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/decorations/starlit_factory": {
-    "criteria": {
-      "has_item": "2025-06-10 21:52:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone_slab": {
-    "criteria": {
-      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-06-10 20:59:54 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/chainmail_chestplate_repairing": {
+  "immersive_armors:recipes/misc/slime": {
     "criteria": {
-      "has_chainmail_chestplate": "2025-06-10 23:22:35 +0000"
+      "has_item": "2025-06-10 20:59:54 +0000"
     },
     "done": true
   },
-  "celestisynth:obtain_celestial_netherite_ingot": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "criteria": "2025-06-10 21:52:13 +0000"
+      "has_slime_ball": "2025-06-10 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2025-06-10 21:00:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-10 21:04:18 +0000"
     },
     "done": true
   },
@@ -9658,21 +9604,21 @@
     },
     "done": true
   },
-  "celestisynth:recipes/combat/celestial_spellbook": {
-    "criteria": {
-      "has_item": "2025-06-10 21:52:13 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_lighthouse": {
-    "criteria": {
-      "location0": "2025-06-10 22:43:42 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
     "criteria": {
       "has_item": "2025-06-10 21:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-10 21:04:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-06-10 21:04:18 +0000"
     },
     "done": true
   },
@@ -9682,15 +9628,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-06-10 21:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2025-06-10 21:26:12 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/khopesh": {
+  "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
-      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2025-06-10 21:26:12 +0000"
     },
     "done": true
   },
@@ -9706,99 +9670,15 @@
     },
     "done": true
   },
-  "apotheosis:affix/socket": {
-    "criteria": {
-      "socket": "2025-06-10 23:01:29 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2025-06-10 21:20:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-10 21:26:12 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
-    "criteria": {
-      "has_log": "2025-06-10 22:13:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_sandstone_wall": {
     "criteria": {
       "has_red_sandstone": "2025-06-10 21:26:12 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/misc/celestial_netherite_ingot_smelting": {
-    "criteria": {
-      "has_item": "2025-06-10 21:48:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-06-10 21:04:18 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:defeatundeadbosses": {
-    "criteria": {
-      "defeatundeadbosses_0": "2025-06-10 23:14:15 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/mythic": {
-    "criteria": {
-      "sword": "2025-06-10 23:48:17 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/slime": {
-    "criteria": {
-      "has_item": "2025-06-10 20:59:54 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/paladin_sword": {
-    "criteria": {
-      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/khopesh_claymore": {
-    "criteria": {
-      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/larch_planks": {
-    "criteria": {
-      "has_logs": "2025-06-10 22:13:56 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
-    "criteria": {
-      "has_advanced_pickup_upgrade": "2025-06-10 21:00:55 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-06-10 21:04:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_filter_upgrade": {
-    "criteria": {
-      "has_filter_upgrade": "2025-06-10 20:26:19 +0000"
     },
     "done": true
   },
@@ -9814,21 +9694,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-06-10 20:59:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
     "criteria": {
       "has_red_sandstone": "2025-06-10 21:26:12 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:obtain_supernal_netherite_ingot": {
-    "criteria": {
-      "criteria": "2025-06-10 21:48:56 +0000"
     },
     "done": true
   },
@@ -9838,9 +9706,141 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_blasting": {
+    "criteria": {
+      "has_item": "2025-06-10 21:48:56 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_netherite_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-06-10 21:48:56 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_supernal_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-06-10 21:48:56 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/decorations/starlit_factory": {
+    "criteria": {
+      "has_item": "2025-06-10 21:52:13 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:obtain_celestial_netherite_ingot": {
+    "criteria": {
+      "criteria": "2025-06-10 21:52:13 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/celestial_spellbook": {
+    "criteria": {
+      "has_item": "2025-06-10 21:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-10 22:06:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_wood": {
+    "criteria": {
+      "has_log": "2025-06-10 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/larch_branch_from_larch_log": {
+    "criteria": {
+      "has_log": "2025-06-10 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/larch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-10 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-06-10 22:43:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_sword_repairing": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/paladin_sword": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/khopesh_claymore": {
+    "criteria": {
+      "has_netherite_sword": "2025-06-10 22:48:11 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-06-10 23:01:29 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-06-10 23:11:25 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-06-10 23:14:15 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-06-10 23:14:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-06-10 23:22:35 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:nightfall_ad": {
+    "criteria": {
+      "nightfall_ad": "2025-06-10 23:45:36 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic": {
+    "criteria": {
+      "sword": "2025-06-10 23:48:17 +0000"
+    },
+    "done": true
+  },
+  "cisco_mod:anewlegend": {
+    "criteria": {
+      "anewlegend": "2025-06-10 23:51:19 +0000"
     },
     "done": true
   },
