@@ -122,10 +122,12 @@
       "minecraft:beach": "2025-06-04 17:13:23 +0000",
       "minecraft:dark_forest": "2025-06-04 18:22:04 +0000",
       "minecraft:river": "2025-06-04 15:03:42 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-12 00:29:05 +0000",
       "minecraft:stony_shore": "2025-06-04 16:34:45 +0000",
       "minecraft:forest": "2025-06-04 15:03:55 +0000",
       "minecraft:lush_caves": "2025-06-04 18:10:12 +0000",
       "minecraft:frozen_ocean": "2025-06-06 22:44:08 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-12 00:28:13 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-04 16:04:39 +0000",
       "minecraft:deep_dark": "2025-06-06 23:09:03 +0000"
     },
@@ -9522,6 +9524,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-06-12 00:28:13 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/shinobi_boots": {
     "criteria": {
       "has_netherite_boots": "2025-06-12 00:04:36 +0000"
@@ -9540,9 +9548,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/skulk_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2025-06-12 00:22:16 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/skulk_boots": {
     "criteria": {
       "has_netherite_boots": "2025-06-12 00:04:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2025-06-12 00:22:16 +0000"
     },
     "done": true
   },
@@ -9567,6 +9587,18 @@
   "knightquest:recipes/misc/squire_chestplate": {
     "criteria": {
       "has_netherite_chestplate": "2025-06-12 00:04:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/netherite_leggings_repairing": {
+    "criteria": {
+      "has_netherite_leggings": "2025-06-12 00:22:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_netherite_leggings": "2025-06-12 00:22:16 +0000"
     },
     "done": true
   },
