@@ -938,3 +938,89 @@
 [
   "2H!G3alqLbNIuE5368,nGIu"
 ]
+[12Jun2025 01:16:57.440] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:16:57.441] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 57
+}
+[12Jun2025 01:16:57.441] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 173 extra bytes: 
+[12Jun2025 01:16:57.442] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "')9Z??s8q3B/352UFh?y|F{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~PnSL!r-@8"
+]
+[12Jun2025 01:16:57.442] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:16:57.443] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133814_": "HARD"
+}
+[12Jun2025 01:16:57.444] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 171 extra bytes: 
+[12Jun2025 01:16:57.445] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "')9Z??s8q3B/352UFh?y|F{]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~PnSL!r-@8"
+]
+[12Jun2025 01:17:00.339] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://jkanime.net/yakusoku-no-neverland/
+[12Jun2025 01:18:34.744] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:18:34.744] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 7361
+}
+[12Jun2025 01:18:34.745] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 72 extra bytes: 
+[12Jun2025 01:18:34.745] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "YiuK[RFc9@QfQC336cmTroxXgcx{]"
+]
+[12Jun2025 01:19:19.034] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[12Jun2025 01:19:19.034] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Jun2025 01:22:51.994] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:22:51.995] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13
+}
+[12Jun2025 01:22:51.995] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[12Jun2025 01:22:51.995] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ")E&Pi6(A1l[\\464+f]i>_"
+]
+[12Jun2025 01:22:59.145] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:22:59.146] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 108787
+}
+[12Jun2025 01:22:59.146] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 81 extra bytes: 
+[12Jun2025 01:22:59.147] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "NG>&8%O?:DM3523NEpof6so~:~`Wk{]ufjhT"
+]
+[12Jun2025 01:23:01.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12Jun2025 01:23:21.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5234ms or 104 ticks behind
+[12Jun2025 01:23:33.514] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UniFoxyR lost connection: Disconnected
+[12Jun2025 01:23:33.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UniFoxyR left the game
+[12Jun2025 01:23:38.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[12Jun2025 01:23:56.588] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:23:56.588] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 20
+}
+[12Jun2025 01:23:56.588] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 175 extra bytes: 
+[12Jun2025 01:23:56.589] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "0[Hc^0AZ^ge`VP3366fGNfm<%S${]ufjhT]_VFopu-9_OrI0g,lQL)\\l|)~Pnz&X!Av\"Q`"
+]
+[12Jun2025 01:23:57.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3355ms or 67 ticks behind
+[12Jun2025 01:24:16.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4421ms or 88 ticks behind
+[12Jun2025 01:24:35.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4599ms or 91 ticks behind
+[12Jun2025 01:24:41.908] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[12Jun2025 01:24:41.908] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Jun2025 01:24:54.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3681ms or 73 ticks behind
+[12Jun2025 01:25:00.425] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/110242, l='ServerLevel[world]', x=1758.32, y=64.00, z=-451.64] died, message: 'Unemployed was slain by The Moonflower'
+[12Jun2025 01:25:12.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2588ms or 51 ticks behind
+[12Jun2025 01:25:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wachinango has reached the goal [Flawless Crystals]
+[12Jun2025 01:25:29.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[12Jun2025 01:25:46.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
+[12Jun2025 01:25:55.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: wachinango moved too quickly! 1.3352465025454876,0.0625,10.106388605934399
+[12Jun2025 01:26:04.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2805ms or 56 ticks behind
+[12Jun2025 01:26:15.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/110248, l='ServerLevel[world]', x=1775.30, y=66.54, z=-461.12] died, message: 'Unemployed was slain by Mischiever'
+[12Jun2025 01:26:23.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4400ms or 88 ticks behind
+[12Jun2025 01:26:41.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[12Jun2025 01:26:43.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/110147, l='ServerLevel[world]', x=1822.32, y=65.00, z=-483.69] died, message: 'Unemployed was slain by Fallen Chaos Knight'
+[12Jun2025 01:26:46.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/110066, l='ServerLevel[world]', x=1775.57, y=66.50, z=-460.93] died, message: 'Unemployed was shot by Pillager'
