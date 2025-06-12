@@ -2084,6 +2084,7 @@
       "autumnal_maple_forest": "2025-06-04 19:40:11 +0000",
       "muddy_river": "2025-06-04 19:08:48 +0000",
       "prismachasm": "2025-06-06 21:22:46 +0000",
+      "ancient_delta": "2025-06-12 00:32:45 +0000",
       "marsh": "2025-06-04 19:31:43 +0000",
       "willow_forest": "2025-06-04 18:10:35 +0000",
       "frozen_tundra": "2025-06-04 21:38:05 +0000",
@@ -5675,9 +5676,10 @@
       "redstone_caves": "2025-06-07 00:39:17 +0000",
       "prismachasm": "2025-06-06 21:22:46 +0000",
       "scorching_caves": "2025-06-11 23:55:19 +0000",
-      "bioshroom_caves": "2025-06-04 18:16:32 +0000"
+      "bioshroom_caves": "2025-06-04 18:16:32 +0000",
+      "ancient_delta": "2025-06-12 00:32:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {

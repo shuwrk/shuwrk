@@ -8001,6 +8001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-06-12 00:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-12 00:31:41 +0000"
@@ -8010,6 +8016,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-12 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-06-12 00:32:23 +0000"
     },
     "done": true
   },
@@ -8025,6 +8037,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-06-12 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-12 00:38:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-12 00:31:41 +0000"
@@ -8034,6 +8058,18 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-12 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_leggings": {
+    "criteria": {
+      "has_ender_eye": "2025-06-12 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-06-12 00:38:40 +0000"
     },
     "done": true
   },
@@ -8055,9 +8091,39 @@
     },
     "done": true
   },
+  "celestisynth:recipes/misc/eyebomination": {
+    "criteria": {
+      "has_item": "2025-06-12 00:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-12 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_boots": {
+    "criteria": {
+      "has_ender_eye": "2025-06-12 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-12 00:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-12 00:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-06-12 00:38:40 +0000"
     },
     "done": true
   },
@@ -8085,6 +8151,12 @@
     },
     "done": true
   },
+  "l2complements:recipes/enchantments/enchantments/ender_mask": {
+    "criteria": {
+      "has_ender_eye": "2025-06-12 00:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-12 00:31:41 +0000"
@@ -8103,15 +8175,51 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/dragon_helmet": {
+    "criteria": {
+      "has_ender_eye": "2025-06-12 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-06-12 00:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-12 00:31:41 +0000"
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-06-12 00:38:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-06-12 00:31:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 00:32:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-06-12 00:38:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/dragon_chestplate": {
+    "criteria": {
+      "has_ender_eye": "2025-06-12 00:37:58 +0000"
     },
     "done": true
   },
