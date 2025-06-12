@@ -9969,6 +9969,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-12 00:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-12 00:45:52 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/misc/eyebomination": {
     "criteria": {
       "has_item": "2025-06-12 00:00:43 +0000"
@@ -10056,6 +10068,12 @@
   "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
       "has_lava_bucket": "2025-06-11 22:46:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-12 00:45:52 +0000"
     },
     "done": true
   },
