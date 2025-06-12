@@ -22034,3 +22034,111 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
   "hy)iIw\\n&^go4Fs.o352%vu.LTV+`{]ufjhT]_VFopu-9_OrI0g,l"
 ]
 [12Jun2025 01:06:38.093] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/montoyo/wd/controls/builtin/ScreenModifyControl$ControlType
+[12Jun2025 01:07:12.193] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/watch?v=qh6ZVxz4yTY&t=5s
+[12Jun2025 01:07:15.089] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/watch?v=qh6ZVxz4yTY&t=5s
+[12Jun2025 01:07:30.988] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/embed/qh6ZVxz4yTY
+[12Jun2025 01:07:49.322] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:07:49.323] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 165633629
+}
+[12Jun2025 01:07:49.323] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 45 extra bytes: 
+[12Jun2025 01:07:49.324] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "[:Hs>:E#'R3369'!W"
+]
+[12Jun2025 01:08:01.841] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{Shuwii} (UUID 83450bc3-ad45-3f8a-8655-2a4288105162) created a screen at X: 1394, Y: 56, Z: 140 of size 3x2
+[12Jun2025 01:08:48.335] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: http://www.youtube
+[12Jun2025 01:09:04.030] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:09:04.030] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 58
+}
+[12Jun2025 01:09:04.030] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[12Jun2025 01:09:04.030] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "qw6N98}~4j464ha%"
+]
+[12Jun2025 01:09:10.194] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.com/
+[12Jun2025 01:09:19.037] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[12Jun2025 01:09:19.037] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[12Jun2025 01:09:19.037] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Jun2025 01:09:19.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 01:09:19.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 01:09:19.152] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[12Jun2025 01:09:38.337] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.youtube.c
+[12Jun2025 01:09:59.736] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://jkanime.net/
+[12Jun2025 01:11:02.879] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:11:02.879] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 13438
+}
+[12Jun2025 01:11:02.879] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 89 extra bytes: 
+[12Jun2025 01:11:02.880] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "a_j:-~L=[Ym352k)2_''s]\"Ey{]ufjhT]_VFop"
+]
+[12Jun2025 01:13:10.776] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:13:10.776] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 14333
+}
+[12Jun2025 01:13:10.776] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 71 extra bytes: 
+[12Jun2025 01:13:10.777] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "'(|(pZY hOW336\"Z$VV363s\\>7j>e5{]u"
+]
+[12Jun2025 01:13:10.777] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSetBeaconPacket  id 39 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:13:10.779] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134472_": [
+    {
+      "f_19446_": {},
+      "f_19447_": "HARMFUL",
+      "f_19448_": 16766976,
+      "f_216878_": {}
+    }
+  ],
+  "f_134473_": [
+    {
+      "f_19446_": {},
+      "f_19447_": "HARMFUL",
+      "f_19448_": 11101546,
+      "f_216878_": {}
+    }
+  ]
+}
+[12Jun2025 01:13:10.779] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 39 data of 66 extra bytes: 
+[12Jun2025 01:13:10.779] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "(pZY hOW336\"Z$VV363s\\>7j>e5{]u"
+]
+[12Jun2025 01:13:53.738] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{Shuwii} (UUID 83450bc3-ad45-3f8a-8655-2a4288105162) created a screen at X: 1393, Y: 56, Z: 140 of size 5x3
+[12Jun2025 01:14:09.937] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://jkanime.net/
+[12Jun2025 01:14:16.099] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shuwii moved wrongly!
+[12Jun2025 01:14:19.033] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: Saving Raid State: INACTIVE as 0.
+[12Jun2025 01:14:19.033] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[12Jun2025 01:14:19.034] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[12Jun2025 01:14:19.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 01:14:19.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 01:14:19.127] [Server thread/DEBUG] [com.github.sculkhorde.core.SculkHorde/]: BeeNestActivitySystem | Activating
+[12Jun2025 01:15:56.979] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:15:56.980] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 64
+}
+[12Jun2025 01:15:56.980] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 156 extra bytes: 
+[12Jun2025 01:15:56.980] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "%;9??s(TpFnXx464{=Q7)%@r{]ufjhT)S*@Cpd%KCU o~6^s0=PT6.}&eF"
+]
+[12Jun2025 01:15:59.154] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[12Jun2025 01:15:59.155] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 27
+}
+[12Jun2025 01:15:59.155] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 48 extra bytes: 
+[12Jun2025 01:15:59.155] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "2H!G3alqLbNIuE5368,nGIu"
+]
