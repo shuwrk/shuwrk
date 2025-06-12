@@ -9897,6 +9897,18 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/green_sleeping_bag_from_white_sleeping_bag": {
+    "criteria": {
+      "has_color": "2025-06-12 00:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-06-12 00:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-06-11 22:46:04 +0000"
@@ -9963,6 +9975,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_the_recipe": "2025-06-12 01:00:31 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-06-11 23:44:41 +0000"
@@ -10005,6 +10023,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-12 00:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2025-06-11 22:50:42 +0000"
@@ -10041,6 +10065,12 @@
     },
     "done": true
   },
+  "webdisplays:screen": {
+    "criteria": {
+      "has_screen": "2025-06-12 00:55:40 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/green_dye_from_barrel_cactus": {
     "criteria": {
       "has_barrel_cactus": "2025-06-12 00:17:39 +0000"
@@ -10071,6 +10101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-06-12 00:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-06-12 00:45:52 +0000"
@@ -10095,6 +10131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-12 00:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-06-12 00:00:43 +0000"
@@ -10110,6 +10152,12 @@
   "skilltree:recipes/combat/fiery_quiver": {
     "criteria": {
       "has_blaze_powder": "2025-06-12 00:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-12 00:53:56 +0000"
     },
     "done": true
   },
